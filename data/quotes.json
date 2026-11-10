@@ -1,26 +1,11 @@
 [
 {
-"id": "song-woody-03b964dd",
-"text": "Hey, hey, Woody Guthrie, I wrote you a song",
-"tags": [
-"memory",
-"influence",
-"folk"
-],
-"song": "Song to Woody",
-"song_slug": "song-woody",
-"album": "Bob Dylan",
-"album_slug": "bob-dylan",
-"year": 1962,
-"official": "https://www.bobdylan.com/songs/song-woody/"
-},
-{
 "id": "blowin-wind-f029765e",
 "text": "The answer, my friend, is blowin’ in the wind",
 "tags": [
 "protest",
-"freedom",
-"questions"
+"questions",
+"freedom"
 ],
 "song": "Blowin’ in the Wind",
 "song_slug": "blowin-wind",
@@ -33,9 +18,39 @@
 "id": "blowin-wind-9d19ce65",
 "text": "How many roads must a man walk down before you call him a man?",
 "tags": [
-"protest",
 "questions",
-"identity"
+"identity",
+"protest"
+],
+"song": "Blowin’ in the Wind",
+"song_slug": "blowin-wind",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/blowin-wind/"
+},
+{
+"id": "blowin-wind-ffaba5d4",
+"text": "How many times can a man turn his head and pretend that he just doesn’t see?",
+"tags": [
+"justice",
+"questions",
+"conscience"
+],
+"song": "Blowin’ in the Wind",
+"song_slug": "blowin-wind",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/blowin-wind/"
+},
+{
+"id": "blowin-wind-ecee82e3",
+"text": "How many deaths will it take till he knows that too many people have died?",
+"tags": [
+"war",
+"protest",
+"questions"
 ],
 "song": "Blowin’ in the Wind",
 "song_slug": "blowin-wind",
@@ -60,12 +75,42 @@
 "official": "https://www.bobdylan.com/songs/hard-rains-gonna-fall/"
 },
 {
-"id": "masters-war-mono-9c9a1da7",
-"text": "You that never done nothin’ but build to destroy",
+"id": "hard-rains-gonna-fall-fc98bd16",
+"text": "And I’ll stand on the ocean until I start sinkin’",
+"tags": [
+"endurance",
+"purpose",
+"art"
+],
+"song": "A Hard Rain’s A-Gonna Fall",
+"song_slug": "hard-rains-gonna-fall",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/hard-rains-gonna-fall/"
+},
+{
+"id": "hard-rains-gonna-fall-99b19605",
+"text": "I’ll know my song well before I start singin’",
+"tags": [
+"art",
+"purpose",
+"preparation"
+],
+"song": "A Hard Rain’s A-Gonna Fall",
+"song_slug": "hard-rains-gonna-fall",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/hard-rains-gonna-fall/"
+},
+{
+"id": "masters-war-mono-95cf6330",
+"text": "All the money you made will never buy back your soul",
 "tags": [
 "war",
-"protest",
-"power"
+"money",
+"morality"
 ],
 "song": "Masters of War",
 "song_slug": "masters-war-mono",
@@ -75,8 +120,53 @@
 "official": "https://www.bobdylan.com/songs/masters-war-mono/"
 },
 {
-"id": "dont-think-twice-its-all-right-0dc47291",
-"text": "Don’t think twice, it’s all right",
+"id": "masters-war-mono-3fe19835",
+"text": "Even Jesus would never forgive what you do",
+"tags": [
+"war",
+"morality",
+"faith"
+],
+"song": "Masters of War",
+"song_slug": "masters-war-mono",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/masters-war-mono/"
+},
+{
+"id": "masters-war-mono-7fbdf648",
+"text": "I just want you to know I can see through your masks",
+"tags": [
+"war",
+"power",
+"truth"
+],
+"song": "Masters of War",
+"song_slug": "masters-war-mono",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/masters-war-mono/"
+},
+{
+"id": "dont-think-twice-its-all-right-86da1c11",
+"text": "I gave her my heart but she wanted my soul",
+"tags": [
+"love",
+"farewell",
+"loss"
+],
+"song": "Don’t Think Twice, It’s All Right",
+"song_slug": "dont-think-twice-its-all-right",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/dont-think-twice-its-all-right/"
+},
+{
+"id": "dont-think-twice-its-all-right-a43cfaa6",
+"text": "You just kinda wasted my precious time, but don’t think twice, it’s all right",
 "tags": [
 "love",
 "farewell",
@@ -90,12 +180,12 @@
 "official": "https://www.bobdylan.com/songs/dont-think-twice-its-all-right/"
 },
 {
-"id": "dont-think-twice-its-all-right-ce2ca44e",
-"text": "You just kinda wasted my precious time",
+"id": "dont-think-twice-its-all-right-30aed9d1",
+"text": "Goodbye’s too good a word, babe, so I’ll just say fare thee well",
 "tags": [
-"love",
 "farewell",
-"bitterness"
+"love",
+"journey"
 ],
 "song": "Don’t Think Twice, It’s All Right",
 "song_slug": "dont-think-twice-its-all-right",
@@ -105,42 +195,27 @@
 "official": "https://www.bobdylan.com/songs/dont-think-twice-its-all-right/"
 },
 {
-"id": "girl-north-country-afdbbffa",
-"text": "Remember me to one who lives there, she once was a true love of mine",
+"id": "talkin-world-war-iii-blues-b521beb2",
+"text": "I’ll let you be in my dreams if I can be in yours",
 "tags": [
-"love",
-"memory",
-"travel"
+"dream",
+"friends",
+"humor"
 ],
-"song": "Girl from the North Country",
-"song_slug": "girl-north-country",
+"song": "Talkin’ World War III Blues",
+"song_slug": "talkin-world-war-iii-blues",
 "album": "The Freewheelin’ Bob Dylan",
 "album_slug": "freewheelin-bob-dylan",
 "year": 1963,
-"official": "https://www.bobdylan.com/songs/girl-north-country/"
-},
-{
-"id": "oxford-town-20bca668",
-"text": "Oxford Town, Oxford Town, ev’rybody’s got their heads bowed down",
-"tags": [
-"protest",
-"race",
-"history"
-],
-"song": "Oxford Town",
-"song_slug": "oxford-town",
-"album": "The Freewheelin’ Bob Dylan",
-"album_slug": "freewheelin-bob-dylan",
-"year": 1963,
-"official": "https://www.bobdylan.com/songs/oxford-town/"
+"official": "https://www.bobdylan.com/songs/talkin-world-war-iii-blues/"
 },
 {
 "id": "times-they-are-changin-412ab44d",
 "text": "The times they are a-changin’",
 "tags": [
-"protest",
 "change",
-"history"
+"history",
+"protest"
 ],
 "song": "The Times They Are A-Changin’",
 "song_slug": "times-they-are-changin",
@@ -150,12 +225,12 @@
 "official": "https://www.bobdylan.com/songs/times-they-are-changin/"
 },
 {
-"id": "times-they-are-changin-c519b441",
-"text": "The first one now will later be last",
+"id": "times-they-are-changin-6681a038",
+"text": "Don’t criticize what you can’t understand",
 "tags": [
 "change",
-"prophecy",
-"power"
+"generations",
+"wisdom"
 ],
 "song": "The Times They Are A-Changin’",
 "song_slug": "times-they-are-changin",
@@ -180,8 +255,98 @@
 "official": "https://www.bobdylan.com/songs/times-they-are-changin/"
 },
 {
-"id": "ballad-hollis-brown-cdcdd7d8",
-"text": "There’s seven people dead on a South Dakota farm",
+"id": "times-they-are-changin-9ce3ecce",
+"text": "You better start swimmin’ or you’ll sink like a stone",
+"tags": [
+"change",
+"warning",
+"endurance"
+],
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/times-they-are-changin/"
+},
+{
+"id": "times-they-are-changin-c2187345",
+"text": "The loser now will be later to win",
+"tags": [
+"change",
+"prophecy",
+"hope"
+],
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/times-they-are-changin/"
+},
+{
+"id": "times-they-are-changin-30284e24",
+"text": "Don’t stand in the doorway, don’t block up the hall",
+"tags": [
+"change",
+"power",
+"leadership"
+],
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/times-they-are-changin/"
+},
+{
+"id": "times-they-are-changin-fdb050ff",
+"text": "The order is rapidly fadin’, and the first one now will later be last",
+"tags": [
+"change",
+"power",
+"prophecy"
+],
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/times-they-are-changin/"
+},
+{
+"id": "god-our-side-b21c469f",
+"text": "You never ask questions when God’s on your side",
+"tags": [
+"war",
+"faith",
+"questions"
+],
+"song": "With God on Our Side",
+"song_slug": "god-our-side",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/god-our-side/"
+},
+{
+"id": "god-our-side-58e9c979",
+"text": "If God’s on our side, He’ll stop the next war",
+"tags": [
+"war",
+"faith",
+"peace"
+],
+"song": "With God on Our Side",
+"song_slug": "god-our-side",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/god-our-side/"
+},
+{
+"id": "ballad-hollis-brown-4ae226b8",
+"text": "There’s seven people dead on a South Dakota farm; somewhere in the distance there’s seven new people born",
 "tags": [
 "poverty",
 "tragedy",
@@ -195,86 +360,26 @@
 "official": "https://www.bobdylan.com/songs/ballad-hollis-brown/"
 },
 {
-"id": "god-our-side-3a9a7e9f",
-"text": "The First World War, boys, it came and it went",
+"id": "restless-farewell-bf02bd7c",
+"text": "So I’ll make my stand and remain as I am, and bid farewell and not give a damn",
 "tags": [
-"war",
-"faith",
-"history"
-],
-"song": "With God on Our Side",
-"song_slug": "god-our-side",
-"album": "The Times They Are A-Changin’",
-"album_slug": "the-times-they-are-a-changin",
-"year": 1964,
-"official": "https://www.bobdylan.com/songs/god-our-side/"
-},
-{
-"id": "only-pawn-their-game-2a8100df",
-"text": "He’s only a pawn in their game",
-"tags": [
-"race",
-"power",
-"protest"
-],
-"song": "Only a Pawn in Their Game",
-"song_slug": "only-pawn-their-game",
-"album": "The Times They Are A-Changin’",
-"album_slug": "the-times-they-are-a-changin",
-"year": 1964,
-"official": "https://www.bobdylan.com/songs/only-pawn-their-game/"
-},
-{
-"id": "lonesome-death-hattie-carroll-3003c12d",
-"text": "But you who philosophize disgrace and criticize all fears",
-"tags": [
-"justice",
-"race",
-"class"
-],
-"song": "The Lonesome Death of Hattie Carroll",
-"song_slug": "lonesome-death-hattie-carroll",
-"album": "The Times They Are A-Changin’",
-"album_slug": "the-times-they-are-a-changin",
-"year": 1964,
-"official": "https://www.bobdylan.com/songs/lonesome-death-hattie-carroll/"
-},
-{
-"id": "when-ship-comes-8c4baddd",
-"text": "And the words that are used for to get the ship confused will not be understood as they’re spoken",
-"tags": [
-"change",
-"prophecy",
-"justice"
-],
-"song": "When the Ship Comes in",
-"song_slug": "when-ship-comes",
-"album": "The Times They Are A-Changin’",
-"album_slug": "the-times-they-are-a-changin",
-"year": 1964,
-"official": "https://www.bobdylan.com/songs/when-ship-comes/"
-},
-{
-"id": "one-too-many-mornings-1f2d6797",
-"text": "I’m one too many mornings and a thousand miles behind",
-"tags": [
+"independence",
 "farewell",
-"distance",
-"time"
+"defiance"
 ],
-"song": "One Too Many Mornings",
-"song_slug": "one-too-many-mornings",
+"song": "Restless Farewell",
+"song_slug": "restless-farewell",
 "album": "The Times They Are A-Changin’",
 "album_slug": "the-times-they-are-a-changin",
 "year": 1964,
-"official": "https://www.bobdylan.com/songs/one-too-many-mornings/"
+"official": "https://www.bobdylan.com/songs/restless-farewell/"
 },
 {
-"id": "boots-spanish-leather-64df04a3",
-"text": "Is there something I can send you from across the sea",
+"id": "boots-spanish-leather-bb24ce25",
+"text": "I’d forsake them all for your sweet kiss, for that’s all I’m wishin’ to be ownin’",
 "tags": [
 "love",
-"farewell",
+"devotion",
 "travel"
 ],
 "song": "Boots of Spanish Leather",
@@ -285,27 +390,87 @@
 "official": "https://www.bobdylan.com/songs/boots-spanish-leather/"
 },
 {
-"id": "it-aint-me-babe-e49f055e",
-"text": "It ain’t me, babe, no, no, no, it ain’t me, babe",
+"id": "one-too-many-mornings-1214710a",
+"text": "You’re right from your side, I’m right from mine",
 "tags": [
 "love",
-"independence",
-"identity"
+"perspective",
+"farewell"
 ],
-"song": "It Ain’t Me, Babe",
-"song_slug": "it-aint-me-babe",
-"album": "Another Side of Bob Dylan",
-"album_slug": "another-side-of-bob-dylan",
+"song": "One Too Many Mornings",
+"song_slug": "one-too-many-mornings",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
 "year": 1964,
-"official": "https://www.bobdylan.com/songs/it-aint-me-babe/"
+"official": "https://www.bobdylan.com/songs/one-too-many-mornings/"
 },
 {
-"id": "all-i-really-want-do-50faae9e",
-"text": "All I really want to do is, baby, be friends with you",
+"id": "girl-north-country-afdbbffa",
+"text": "Remember me to one who lives there, she once was a true love of mine",
 "tags": [
 "love",
-"independence",
+"memory",
+"travel"
+],
+"song": "Girl from the North Country",
+"song_slug": "girl-north-country",
+"album": "The Freewheelin’ Bob Dylan",
+"album_slug": "freewheelin-bob-dylan",
+"year": 1963,
+"official": "https://www.bobdylan.com/songs/girl-north-country/"
+},
+{
+"id": "song-woody-fc1c43f5",
+"text": "Here’s to the hearts and the hands of the men that come with the dust and are gone with the wind",
+"tags": [
+"tribute",
+"influence",
+"labor"
+],
+"song": "Song to Woody",
+"song_slug": "song-woody",
+"album": "Bob Dylan",
+"album_slug": "bob-dylan",
+"year": 1962,
+"official": "https://www.bobdylan.com/songs/song-woody/"
+},
+{
+"id": "song-woody-32b04618",
+"text": "Walkin’ a road other men have gone down",
+"tags": [
+"journey",
+"influence",
+"tradition"
+],
+"song": "Song to Woody",
+"song_slug": "song-woody",
+"album": "Bob Dylan",
+"album_slug": "bob-dylan",
+"year": 1962,
+"official": "https://www.bobdylan.com/songs/song-woody/"
+},
+{
+"id": "talkin-new-york-361242b2",
+"text": "Some people rob you with a fountain pen",
+"tags": [
+"money",
+"power",
 "humor"
+],
+"song": "Talkin’ New York",
+"song_slug": "talkin-new-york",
+"album": "Bob Dylan",
+"album_slug": "bob-dylan",
+"year": 1962,
+"official": "https://www.bobdylan.com/songs/talkin-new-york/"
+},
+{
+"id": "all-i-really-want-do-14ae7942",
+"text": "I ain’t lookin’ for you to feel like me, see like me or be like me",
+"tags": [
+"love",
+"friends",
+"independence"
 ],
 "song": "All I Really Want to Do",
 "song_slug": "all-i-really-want-do",
@@ -315,26 +480,11 @@
 "official": "https://www.bobdylan.com/songs/all-i-really-want-do/"
 },
 {
-"id": "chimes-freedom-cdf92f5e",
-"text": "Tolling for the searching ones, on their speechless, seeking trail",
+"id": "my-back-pages-8a69d33b",
+"text": "Ah, but I was so much older then, I’m younger than that now",
 "tags": [
-"freedom",
-"justice",
-"compassion"
-],
-"song": "Chimes of Freedom",
-"song_slug": "chimes-freedom",
-"album": "Another Side of Bob Dylan",
-"album_slug": "another-side-of-bob-dylan",
-"year": 1964,
-"official": "https://www.bobdylan.com/songs/chimes-freedom/"
-},
-{
-"id": "my-back-pages-357b0933",
-"text": "I was so much older then, I’m younger than that now",
-"tags": [
-"identity",
-"time",
+"youth",
+"change",
 "wisdom"
 ],
 "song": "My Back Pages",
@@ -345,10 +495,25 @@
 "official": "https://www.bobdylan.com/songs/my-back-pages/"
 },
 {
-"id": "ramona-98b537bc",
-"text": "The flowered bones and hidden thoughts can no longer remain still",
+"id": "my-back-pages-cb342e70",
+"text": "Fearing not that I’d become my enemy in the instant that I preach",
 "tags": [
-"love",
+"self",
+"truth",
+"wisdom"
+],
+"song": "My Back Pages",
+"song_slug": "my-back-pages",
+"album": "Another Side of Bob Dylan",
+"album_slug": "another-side-of-bob-dylan",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/my-back-pages/"
+},
+{
+"id": "ramona-a2fa8404",
+"text": "Everything passes, everything changes, just do what you think you should do",
+"tags": [
+"change",
 "advice",
 "independence"
 ],
@@ -360,27 +525,42 @@
 "official": "https://www.bobdylan.com/songs/ramona/"
 },
 {
-"id": "motorpsycho-nightmare-0d553d87",
-"text": "I was listenin’ to the postman, I was listenin’ to the rain",
+"id": "chimes-freedom-444778fb",
+"text": "Flashing for the warriors whose strength is not to fight",
 "tags": [
-"humor",
-"america",
-"story"
+"freedom",
+"peace",
+"compassion"
 ],
-"song": "Motorpsycho Nightmare",
-"song_slug": "motorpsycho-nightmare",
+"song": "Chimes of Freedom",
+"song_slug": "chimes-freedom",
 "album": "Another Side of Bob Dylan",
 "album_slug": "another-side-of-bob-dylan",
 "year": 1964,
-"official": "https://www.bobdylan.com/songs/motorpsycho-nightmare/"
+"official": "https://www.bobdylan.com/songs/chimes-freedom/"
+},
+{
+"id": "i-shall-be-free-no-10-399504b1",
+"text": "I’m a poet, and I know it",
+"tags": [
+"art",
+"humor",
+"identity"
+],
+"song": "I Shall Be Free No. 10",
+"song_slug": "i-shall-be-free-no-10",
+"album": "Another Side of Bob Dylan",
+"album_slug": "another-side-of-bob-dylan",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/i-shall-be-free-no-10/"
 },
 {
 "id": "subterranean-homesick-blues-9713d6fb",
 "text": "You don’t need a weatherman to know which way the wind blows",
 "tags": [
-"protest",
-"advice",
-"change"
+"wisdom",
+"truth",
+"protest"
 ],
 "song": "Subterranean Homesick Blues",
 "song_slug": "subterranean-homesick-blues",
@@ -390,12 +570,12 @@
 "official": "https://www.bobdylan.com/songs/subterranean-homesick-blues/"
 },
 {
-"id": "subterranean-homesick-blues-c9b50dac",
-"text": "The pump don’t work ’cause the vandals took the handles",
+"id": "subterranean-homesick-blues-fac2dc7e",
+"text": "Don’t follow leaders, watch the parkin’ meters",
 "tags": [
-"chaos",
-"america",
-"humor"
+"independence",
+"power",
+"advice"
 ],
 "song": "Subterranean Homesick Blues",
 "song_slug": "subterranean-homesick-blues",
@@ -403,14 +583,89 @@
 "album_slug": "bringing-it-all-back-home",
 "year": 1965,
 "official": "https://www.bobdylan.com/songs/subterranean-homesick-blues/"
+},
+{
+"id": "subterranean-homesick-blues-7e3ab404",
+"text": "Twenty years of schoolin’ and they put you on the day shift",
+"tags": [
+"youth",
+"labor",
+"disillusion"
+],
+"song": "Subterranean Homesick Blues",
+"song_slug": "subterranean-homesick-blues",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/subterranean-homesick-blues/"
+},
+{
+"id": "she-belongs-me-75ed7722",
+"text": "She’s got everything she needs, she’s an artist, she don’t look back",
+"tags": [
+"art",
+"independence",
+"women"
+],
+"song": "She Belongs to Me",
+"song_slug": "she-belongs-me",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/she-belongs-me/"
+},
+{
+"id": "she-belongs-me-7d663055",
+"text": "She never stumbles, she’s got no place to fall",
+"tags": [
+"independence",
+"women",
+"freedom"
+],
+"song": "She Belongs to Me",
+"song_slug": "she-belongs-me",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/she-belongs-me/"
+},
+{
+"id": "she-belongs-me-2ef8cdfe",
+"text": "She’s a hypnotist collector, you are a walking antique",
+"tags": [
+"love",
+"art",
+"humor"
+],
+"song": "She Belongs to Me",
+"song_slug": "she-belongs-me",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/she-belongs-me/"
+},
+{
+"id": "maggies-farm-288b57ad",
+"text": "I try my best to be just like I am, but everybody wants you to be just like them",
+"tags": [
+"identity",
+"independence",
+"labor"
+],
+"song": "Maggie’s Farm",
+"song_slug": "maggies-farm",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/maggies-farm/"
 },
 {
 "id": "maggies-farm-9c43c29c",
 "text": "I ain’t gonna work on Maggie’s farm no more",
 "tags": [
+"labor",
 "independence",
-"protest",
-"labor"
+"defiance"
 ],
 "song": "Maggie’s Farm",
 "song_slug": "maggies-farm",
@@ -423,9 +678,9 @@
 "id": "love-minus-zero-no-limit-9639eaa0",
 "text": "She knows there’s no success like failure, and that failure’s no success at all",
 "tags": [
-"love",
+"paradox",
 "wisdom",
-"paradox"
+"success"
 ],
 "song": "Love Minus Zero/No Limit",
 "song_slug": "love-minus-zero-no-limit",
@@ -435,12 +690,42 @@
 "official": "https://www.bobdylan.com/songs/love-minus-zero-no-limit/"
 },
 {
-"id": "mr-tambourine-man-3444186a",
-"text": "Hey! Mr. Tambourine Man, play a song for me",
+"id": "love-minus-zero-no-limit-19b67c66",
+"text": "People talk of situations, read books, repeat quotations, draw conclusions on the wall",
 "tags": [
-"escape",
+"wisdom",
+"paradox",
+"society"
+],
+"song": "Love Minus Zero/No Limit",
+"song_slug": "love-minus-zero-no-limit",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/love-minus-zero-no-limit/"
+},
+{
+"id": "love-minus-zero-no-limit-df66a89c",
+"text": "In ceremonies of the horsemen, even the pawn must hold a grudge",
+"tags": [
+"power",
+"paradox",
+"wisdom"
+],
+"song": "Love Minus Zero/No Limit",
+"song_slug": "love-minus-zero-no-limit",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/love-minus-zero-no-limit/"
+},
+{
+"id": "mr-tambourine-man-a3c3107d",
+"text": "Hey, Mr. Tambourine Man, play a song for me",
+"tags": [
 "music",
-"vision"
+"dream",
+"freedom"
 ],
 "song": "Mr. Tambourine Man",
 "song_slug": "mr-tambourine-man",
@@ -453,9 +738,9 @@
 "id": "mr-tambourine-man-f215cd08",
 "text": "To dance beneath the diamond sky with one hand waving free",
 "tags": [
-"escape",
 "freedom",
-"vision"
+"joy",
+"music"
 ],
 "song": "Mr. Tambourine Man",
 "song_slug": "mr-tambourine-man",
@@ -465,12 +750,72 @@
 "official": "https://www.bobdylan.com/songs/mr-tambourine-man/"
 },
 {
+"id": "mr-tambourine-man-f3bc588d",
+"text": "Let me forget about today until tomorrow",
+"tags": [
+"escape",
+"time",
+"dream"
+],
+"song": "Mr. Tambourine Man",
+"song_slug": "mr-tambourine-man",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/mr-tambourine-man/"
+},
+{
+"id": "mr-tambourine-man-2b9b20c1",
+"text": "Take me disappearin’ through the smoke rings of my mind",
+"tags": [
+"escape",
+"dream",
+"music"
+],
+"song": "Mr. Tambourine Man",
+"song_slug": "mr-tambourine-man",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/mr-tambourine-man/"
+},
+{
+"id": "gates-eden-30276946",
+"text": "There are no truths outside the Gates of Eden",
+"tags": [
+"truth",
+"faith",
+"paradox"
+],
+"song": "Gates of Eden",
+"song_slug": "gates-eden",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/gates-eden/"
+},
+{
+"id": "gates-eden-e2496b4d",
+"text": "Upon four-legged forest clouds the cowboy angel rides",
+"tags": [
+"vision",
+"surreal",
+"faith"
+],
+"song": "Gates of Eden",
+"song_slug": "gates-eden",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/gates-eden/"
+},
+{
 "id": "its-alright-ma-im-only-bleeding-b9fc5f6a",
 "text": "He not busy being born is busy dying",
 "tags": [
-"wisdom",
 "life",
-"warning"
+"change",
+"wisdom"
 ],
 "song": "It’s Alright, Ma (I’m Only Bleeding)",
 "song_slug": "its-alright-ma-im-only-bleeding",
@@ -483,9 +828,9 @@
 "id": "its-alright-ma-im-only-bleeding-7550403e",
 "text": "Money doesn’t talk, it swears",
 "tags": [
-"power",
 "money",
-"america"
+"power",
+"wisdom"
 ],
 "song": "It’s Alright, Ma (I’m Only Bleeding)",
 "song_slug": "its-alright-ma-im-only-bleeding",
@@ -510,27 +855,57 @@
 "official": "https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/"
 },
 {
-"id": "gates-eden-30276946",
-"text": "There are no truths outside the Gates of Eden",
+"id": "its-alright-ma-im-only-bleeding-ff1440c8",
+"text": "It’s easy to see without lookin’ too far that not much is really sacred",
 "tags": [
 "faith",
-"vision",
-"wisdom"
+"disillusion",
+"society"
 ],
-"song": "Gates of Eden",
-"song_slug": "gates-eden",
+"song": "It’s Alright, Ma (I’m Only Bleeding)",
+"song_slug": "its-alright-ma-im-only-bleeding",
 "album": "Bringing It All Back Home",
 "album_slug": "bringing-it-all-back-home",
 "year": 1965,
-"official": "https://www.bobdylan.com/songs/gates-eden/"
+"official": "https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/"
+},
+{
+"id": "its-alright-ma-im-only-bleeding-71e16f08",
+"text": "If my thought-dreams could be seen, they’d probably put my head in a guillotine",
+"tags": [
+"freedom",
+"dream",
+"power"
+],
+"song": "It’s Alright, Ma (I’m Only Bleeding)",
+"song_slug": "its-alright-ma-im-only-bleeding",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/"
+},
+{
+"id": "its-alright-ma-im-only-bleeding-cbd07a62",
+"text": "Others say don’t hate nothing at all except hatred",
+"tags": [
+"wisdom",
+"morality",
+"peace"
+],
+"song": "It’s Alright, Ma (I’m Only Bleeding)",
+"song_slug": "its-alright-ma-im-only-bleeding",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/its-alright-ma-im-only-bleeding/"
 },
 {
 "id": "its-all-over-now-baby-blue-8736e021",
 "text": "Strike another match, go start anew",
 "tags": [
-"farewell",
 "change",
-"advice"
+"farewell",
+"hope"
 ],
 "song": "It’s All Over Now, Baby Blue",
 "song_slug": "its-all-over-now-baby-blue",
@@ -540,12 +915,42 @@
 "official": "https://www.bobdylan.com/songs/its-all-over-now-baby-blue/"
 },
 {
-"id": "rolling-stone-45a2c1af",
-"text": "How does it feel?",
+"id": "its-all-over-now-baby-blue-24c4b2fd",
+"text": "The highway is for gamblers, better use your sense",
+"tags": [
+"advice",
+"journey",
+"wisdom"
+],
+"song": "It’s All Over Now, Baby Blue",
+"song_slug": "its-all-over-now-baby-blue",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/its-all-over-now-baby-blue/"
+},
+{
+"id": "its-all-over-now-baby-blue-6211de0f",
+"text": "Leave your stepping stones behind, something calls for you",
+"tags": [
+"change",
+"farewell",
+"journey"
+],
+"song": "It’s All Over Now, Baby Blue",
+"song_slug": "its-all-over-now-baby-blue",
+"album": "Bringing It All Back Home",
+"album_slug": "bringing-it-all-back-home",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/its-all-over-now-baby-blue/"
+},
+{
+"id": "rolling-stone-eb726734",
+"text": "How does it feel to be on your own, with no direction home, like a complete unknown, like a rolling stone?",
 "tags": [
 "identity",
-"fall",
-"questions"
+"loss",
+"freedom"
 ],
 "song": "Like a Rolling Stone",
 "song_slug": "rolling-stone",
@@ -558,8 +963,8 @@
 "id": "rolling-stone-2fa3721b",
 "text": "When you ain’t got nothing, you got nothing to lose",
 "tags": [
-"independence",
-"fall",
+"freedom",
+"loss",
 "wisdom"
 ],
 "song": "Like a Rolling Stone",
@@ -570,12 +975,12 @@
 "official": "https://www.bobdylan.com/songs/rolling-stone/"
 },
 {
-"id": "rolling-stone-cc8e283a",
-"text": "Once upon a time you dressed so fine",
+"id": "rolling-stone-ac2c4d86",
+"text": "You’re invisible now, you got no secrets to conceal",
 "tags": [
+"loss",
 "identity",
-"fall",
-"memory"
+"truth"
 ],
 "song": "Like a Rolling Stone",
 "song_slug": "rolling-stone",
@@ -585,101 +990,41 @@
 "official": "https://www.bobdylan.com/songs/rolling-stone/"
 },
 {
-"id": "ballad-thin-man-ec57a945",
-"text": "Because something is happening here but you don’t know what it is, do you, Mister Jones?",
-"tags": [
-"identity",
-"confusion",
-"culture"
-],
-"song": "Ballad of a Thin Man",
-"song_slug": "ballad-thin-man",
-"album": "Highway 61 Revisited",
-"album_slug": "highway-61-revisited",
-"year": 1965,
-"official": "https://www.bobdylan.com/songs/ballad-thin-man/"
-},
-{
-"id": "highway-61-revisited-1e28fb0e",
-"text": "God said to Abraham, “Kill me a son”",
-"tags": [
-"faith",
-"story",
-"america"
-],
-"song": "Highway 61 Revisited",
-"song_slug": "highway-61-revisited",
-"album": "Highway 61 Revisited",
-"album_slug": "highway-61-revisited",
-"year": 1965,
-"official": "https://www.bobdylan.com/songs/highway-61-revisited/"
-},
-{
-"id": "tombstone-blues-683a6dcc",
-"text": "The sun’s not yellow, it’s chicken",
-"tags": [
-"humor",
-"surreal",
-"america"
-],
-"song": "Tombstone Blues",
-"song_slug": "tombstone-blues",
-"album": "Highway 61 Revisited",
-"album_slug": "highway-61-revisited",
-"year": 1965,
-"official": "https://www.bobdylan.com/songs/tombstone-blues/"
-},
-{
-"id": "desolation-row-1c1a646a",
-"text": "They’re selling postcards of the hanging",
-"tags": [
-"surreal",
-"america",
-"vision"
-],
-"song": "Desolation Row",
-"song_slug": "desolation-row",
-"album": "Highway 61 Revisited",
-"album_slug": "highway-61-revisited",
-"year": 1965,
-"official": "https://www.bobdylan.com/songs/desolation-row/"
-},
-{
-"id": "queen-jane-approximately-2f7db83c",
-"text": "Won’t you come see me, Queen Jane?",
-"tags": [
-"love",
-"invitation",
-"loneliness"
-],
-"song": "Queen Jane Approximately",
-"song_slug": "queen-jane-approximately",
-"album": "Highway 61 Revisited",
-"album_slug": "highway-61-revisited",
-"year": 1965,
-"official": "https://www.bobdylan.com/songs/queen-jane-approximately/"
-},
-{
-"id": "just-tom-thumbs-blues-a2639a8c",
-"text": "I’m going back to New York City, I do believe I’ve had enough",
-"tags": [
-"travel",
-"exhaustion",
-"america"
-],
-"song": "Just Like Tom Thumb’s Blues",
-"song_slug": "just-tom-thumbs-blues",
-"album": "Highway 61 Revisited",
-"album_slug": "highway-61-revisited",
-"year": 1965,
-"official": "https://www.bobdylan.com/songs/just-tom-thumbs-blues/"
-},
-{
 "id": "positively-4th-street-c545fe41",
 "text": "I wish that for just one time you could stand inside my shoes",
 "tags": [
+"empathy",
 "bitterness",
-"identity",
+"friends"
+],
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"album_slug": "bob-dylans-greatest-hits",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/positively-4th-street/"
+},
+{
+"id": "positively-4th-street-e140448b",
+"text": "You’d know what a drag it is to see you",
+"tags": [
+"bitterness",
+"humor",
+"friends"
+],
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"album_slug": "bob-dylans-greatest-hits",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/positively-4th-street/"
+},
+{
+"id": "positively-4th-street-afca9f80",
+"text": "You got a lotta nerve to say you are my friend",
+"tags": [
+"bitterness",
+"friends",
 "betrayal"
 ],
 "song": "Positively 4th Street",
@@ -690,12 +1035,177 @@
 "official": "https://www.bobdylan.com/songs/positively-4th-street/"
 },
 {
+"id": "positively-4th-street-7259b102",
+"text": "You say you lost your faith, but that’s not where it’s at; you had no faith to lose",
+"tags": [
+"faith",
+"bitterness",
+"truth"
+],
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"album_slug": "bob-dylans-greatest-hits",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/positively-4th-street/"
+},
+{
+"id": "ballad-thin-man-7779f171",
+"text": "Something is happening here but you don’t know what it is, do you, Mister Jones?",
+"tags": [
+"change",
+"confusion",
+"generations"
+],
+"song": "Ballad of a Thin Man",
+"song_slug": "ballad-thin-man",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/ballad-thin-man/"
+},
+{
+"id": "tombstone-blues-683a6dcc",
+"text": "The sun’s not yellow, it’s chicken",
+"tags": [
+"humor",
+"surreal",
+"fear"
+],
+"song": "Tombstone Blues",
+"song_slug": "tombstone-blues",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/tombstone-blues/"
+},
+{
+"id": "tombstone-blues-5894d373",
+"text": "Stop all this weeping, swallow your pride, you will not die, it’s not poison",
+"tags": [
+"advice",
+"endurance",
+"humor"
+],
+"song": "Tombstone Blues",
+"song_slug": "tombstone-blues",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/tombstone-blues/"
+},
+{
+"id": "highway-61-revisited-1e28fb0e",
+"text": "God said to Abraham, “Kill me a son”",
+"tags": [
+"faith",
+"america",
+"surreal"
+],
+"song": "Highway 61 Revisited",
+"song_slug": "highway-61-revisited",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/highway-61-revisited/"
+},
+{
+"id": "just-tom-thumbs-blues-ed962dbd",
+"text": "The cops don’t need you, and man, they expect the same",
+"tags": [
+"outlaw",
+"warning",
+"humor"
+],
+"song": "Just Like Tom Thumb’s Blues",
+"song_slug": "just-tom-thumbs-blues",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/just-tom-thumbs-blues/"
+},
+{
+"id": "it-takes-lot-laugh-it-takes-train-cry-313b17dc",
+"text": "I wanna be your lover, baby, I don’t wanna be your boss",
+"tags": [
+"love",
+"equality",
+"devotion"
+],
+"song": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+"song_slug": "it-takes-lot-laugh-it-takes-train-cry",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/it-takes-lot-laugh-it-takes-train-cry/"
+},
+{
+"id": "desolation-row-1c1a646a",
+"text": "They’re selling postcards of the hanging",
+"tags": [
+"america",
+"violence",
+"surreal"
+],
+"song": "Desolation Row",
+"song_slug": "desolation-row",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/desolation-row/"
+},
+{
+"id": "desolation-row-26a57340",
+"text": "When you asked how I was doing, was that some kind of joke?",
+"tags": [
+"bitterness",
+"humor",
+"friends"
+],
+"song": "Desolation Row",
+"song_slug": "desolation-row",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/desolation-row/"
+},
+{
+"id": "desolation-row-c600b83a",
+"text": "Ezra Pound and T. S. Eliot fighting in the captain’s tower",
+"tags": [
+"art",
+"surreal",
+"history"
+],
+"song": "Desolation Row",
+"song_slug": "desolation-row",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/desolation-row/"
+},
+{
+"id": "desolation-row-8644cd33",
+"text": "At midnight all the agents and the superhuman crew come out and round up everyone that knows more than they do",
+"tags": [
+"power",
+"warning",
+"surreal"
+],
+"song": "Desolation Row",
+"song_slug": "desolation-row",
+"album": "Highway 61 Revisited",
+"album_slug": "highway-61-revisited",
+"year": 1965,
+"official": "https://www.bobdylan.com/songs/desolation-row/"
+},
+{
 "id": "rainy-day-women-12-35-3414b8f6",
 "text": "Everybody must get stoned",
 "tags": [
 "humor",
 "defiance",
-"community"
+"society"
 ],
 "song": "Rainy Day Women #12 & 35",
 "song_slug": "rainy-day-women-12-35",
@@ -705,57 +1215,42 @@
 "official": "https://www.bobdylan.com/songs/rainy-day-women-12-35/"
 },
 {
-"id": "i-want-you-deb39330",
-"text": "The guilty undertaker sighs, the lonesome organ grinder cries",
+"id": "stuck-inside-mobile-memphis-blues-again-d8516196",
+"text": "Oh, Mama, can this really be the end, to be stuck inside of Mobile with the Memphis blues again",
 "tags": [
-"love",
-"longing",
-"surreal"
+"trapped",
+"blues",
+"humor"
 ],
-"song": "I Want You",
-"song_slug": "i-want-you",
+"song": "Stuck Inside of Mobile with the Memphis Blues Again",
+"song_slug": "stuck-inside-mobile-memphis-blues-again",
 "album": "Blonde on Blonde",
 "album_slug": "blonde-on-blonde",
 "year": 1966,
-"official": "https://www.bobdylan.com/songs/i-want-you/"
-},
-{
-"id": "just-woman-e5148972",
-"text": "She takes just like a woman, yes, she does",
-"tags": [
-"love",
-"identity",
-"bitterness"
-],
-"song": "Just Like a Woman",
-"song_slug": "just-woman",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/just-woman/"
-},
-{
-"id": "just-woman-56566f26",
-"text": "Nobody feels any pain tonight as I stand inside the rain",
-"tags": [
-"love",
-"loneliness",
-"pain"
-],
-"song": "Just Like a Woman",
-"song_slug": "just-woman",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/just-woman/"
+"official": "https://www.bobdylan.com/songs/stuck-inside-mobile-memphis-blues-again/"
 },
 {
 "id": "visions-johanna-b02a93cd",
 "text": "Ain’t it just like the night to play tricks when you’re tryin’ to be so quiet?",
 "tags": [
-"vision",
 "night",
-"loneliness"
+"longing",
+"mystery"
+],
+"song": "Visions of Johanna",
+"song_slug": "visions-johanna",
+"album": "Blonde on Blonde",
+"album_slug": "blonde-on-blonde",
+"year": 1966,
+"official": "https://www.bobdylan.com/songs/visions-johanna/"
+},
+{
+"id": "visions-johanna-b21016b4",
+"text": "We sit here stranded, though we’re all doin’ our best to deny it",
+"tags": [
+"trapped",
+"loneliness",
+"truth"
 ],
 "song": "Visions of Johanna",
 "song_slug": "visions-johanna",
@@ -769,8 +1264,8 @@
 "text": "The ghost of electricity howls in the bones of her face",
 "tags": [
 "vision",
-"love",
-"surreal"
+"surreal",
+"longing"
 ],
 "song": "Visions of Johanna",
 "song_slug": "visions-johanna",
@@ -780,72 +1275,57 @@
 "official": "https://www.bobdylan.com/songs/visions-johanna/"
 },
 {
-"id": "sad-eyed-lady-lowlands-6f16d1ac",
-"text": "Sad-eyed lady of the lowlands, where the sad-eyed prophet says that no man comes",
+"id": "visions-johanna-0ee1dd06",
+"text": "Mona Lisa musta had the highway blues, you can tell by the way she smiles",
 "tags": [
-"love",
-"devotion",
-"vision"
-],
-"song": "Sad-Eyed Lady of the Lowlands",
-"song_slug": "sad-eyed-lady-lowlands",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/sad-eyed-lady-lowlands/"
-},
-{
-"id": "one-us-must-know-sooner-or-later-9c8c379d",
-"text": "I didn’t mean to treat you so bad, you shouldn’t take it so personal",
-"tags": [
-"love",
-"regret",
-"apology"
-],
-"song": "One of Us Must Know  (Sooner or Later)",
-"song_slug": "one-us-must-know-sooner-or-later",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/one-us-must-know-sooner-or-later/"
-},
-{
-"id": "stuck-inside-mobile-memphis-blues-again-d8516196",
-"text": "Oh, Mama, can this really be the end, to be stuck inside of Mobile with the Memphis blues again",
-"tags": [
-"travel",
-"trapped",
+"art",
+"humor",
 "blues"
 ],
-"song": "Stuck Inside of Mobile with the Memphis Blues Again",
-"song_slug": "stuck-inside-mobile-memphis-blues-again",
+"song": "Visions of Johanna",
+"song_slug": "visions-johanna",
 "album": "Blonde on Blonde",
 "album_slug": "blonde-on-blonde",
 "year": 1966,
-"official": "https://www.bobdylan.com/songs/stuck-inside-mobile-memphis-blues-again/"
+"official": "https://www.bobdylan.com/songs/visions-johanna/"
 },
 {
-"id": "most-likely-you-go-your-way-and-ill-go-mine-7f8ab06d",
-"text": "The judge is coming in, everybody rise",
+"id": "visions-johanna-2cb59670",
+"text": "Inside the museums, infinity goes up on trial",
 "tags": [
-"farewell",
-"independence",
-"love"
+"art",
+"time",
+"paradox"
 ],
-"song": "Most Likely You Go Your Way (and I’ll Go Mine)",
-"song_slug": "most-likely-you-go-your-way-and-ill-go-mine",
+"song": "Visions of Johanna",
+"song_slug": "visions-johanna",
 "album": "Blonde on Blonde",
 "album_slug": "blonde-on-blonde",
 "year": 1966,
-"official": "https://www.bobdylan.com/songs/most-likely-you-go-your-way-and-ill-go-mine/"
+"official": "https://www.bobdylan.com/songs/visions-johanna/"
+},
+{
+"id": "just-woman-c00b3605",
+"text": "She aches just like a woman, but she breaks just like a little girl",
+"tags": [
+"love",
+"vulnerability",
+"women"
+],
+"song": "Just Like a Woman",
+"song_slug": "just-woman",
+"album": "Blonde on Blonde",
+"album_slug": "blonde-on-blonde",
+"year": 1966,
+"official": "https://www.bobdylan.com/songs/just-woman/"
 },
 {
 "id": "absolutely-sweet-marie-a3301581",
 "text": "To live outside the law you must be honest",
 "tags": [
-"wisdom",
 "outlaw",
-"paradox"
+"truth",
+"morality"
 ],
 "song": "Absolutely Sweet Marie",
 "song_slug": "absolutely-sweet-marie",
@@ -855,70 +1335,11 @@
 "official": "https://www.bobdylan.com/songs/absolutely-sweet-marie/"
 },
 {
-"id": "i-want-you-7ed7c17f",
-"text": "I want you, I want you, I want you so bad",
+"id": "all-along-watchtower-af6476ca",
+"text": "There must be some kind of way outta here, said the joker to the thief",
 "tags": [
-"love",
-"longing"
-],
-"song": "I Want You",
-"song_slug": "i-want-you",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/i-want-you/"
-},
-{
-"id": "fourth-time-around-a7256922",
-"text": "I never asked for your crutch, now don’t ask for mine",
-"tags": [
-"independence",
-"love",
-"bitterness"
-],
-"song": "Fourth Time Around",
-"song_slug": "fourth-time-around",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/fourth-time-around/"
-},
-{
-"id": "obviously-five-believers-4d128553",
-"text": "Fifteen jugglers and five believers, all dressed like men",
-"tags": [
-"surreal",
-"music",
-"humor"
-],
-"song": "Obviously Five Believers",
-"song_slug": "obviously-five-believers",
-"album": "Blonde on Blonde",
-"album_slug": "blonde-on-blonde",
-"year": 1966,
-"official": "https://www.bobdylan.com/songs/obviously-five-believers/"
-},
-{
-"id": "all-along-watchtower-8a3e1762",
-"text": "There must be some way out of here, said the joker to the thief",
-"tags": [
-"warning",
-"trapped",
-"wisdom"
-],
-"song": "All Along the Watchtower",
-"song_slug": "all-along-watchtower",
-"album": "John Wesley Harding",
-"album_slug": "john-wesley-harding",
-"year": 1967,
-"official": "https://www.bobdylan.com/songs/all-along-watchtower/"
-},
-{
-"id": "all-along-watchtower-497563af",
-"text": "The hour is getting late",
-"tags": [
-"warning",
-"time",
+"escape",
+"confusion",
 "prophecy"
 ],
 "song": "All Along the Watchtower",
@@ -929,72 +1350,207 @@
 "official": "https://www.bobdylan.com/songs/all-along-watchtower/"
 },
 {
-"id": "john-wesley-harding-f66dea28",
-"text": "John Wesley Harding was a friend to the poor",
+"id": "all-along-watchtower-4dae9664",
+"text": "Let us not talk falsely now, the hour is getting late",
 "tags": [
-"outlaw",
-"story",
-"west"
+"truth",
+"time",
+"warning"
 ],
-"song": "John Wesley Harding",
-"song_slug": "john-wesley-harding",
+"song": "All Along the Watchtower",
+"song_slug": "all-along-watchtower",
 "album": "John Wesley Harding",
 "album_slug": "john-wesley-harding",
 "year": 1967,
-"official": "https://www.bobdylan.com/songs/john-wesley-harding/"
+"official": "https://www.bobdylan.com/songs/all-along-watchtower/"
 },
 {
-"id": "i-dreamed-i-saw-st-augustine-e4d9b8a2",
-"text": "I dreamed I saw St. Augustine, alive as you or me",
+"id": "all-along-watchtower-aaf93059",
+"text": "There are many here among us who feel that life is but a joke",
 "tags": [
-"faith",
-"dream",
-"guilt"
-],
-"song": "I Dreamed I Saw St. Augustine",
-"song_slug": "i-dreamed-i-saw-st-augustine",
-"album": "John Wesley Harding",
-"album_slug": "john-wesley-harding",
-"year": 1967,
-"official": "https://www.bobdylan.com/songs/i-dreamed-i-saw-st-augustine/"
-},
-{
-"id": "wicked-messenger-0340b991",
-"text": "If you cannot bring good news, then don’t bring any",
-"tags": [
-"warning",
+"life",
 "wisdom",
-"messenger"
+"faith"
 ],
-"song": "The Wicked Messenger",
-"song_slug": "wicked-messenger",
+"song": "All Along the Watchtower",
+"song_slug": "all-along-watchtower",
 "album": "John Wesley Harding",
 "album_slug": "john-wesley-harding",
 "year": 1967,
-"official": "https://www.bobdylan.com/songs/wicked-messenger/"
+"official": "https://www.bobdylan.com/songs/all-along-watchtower/"
 },
 {
-"id": "ill-be-your-baby-tonight-ce8aa028",
-"text": "Kick your shoes off, do not fear, bring that bottle over here",
+"id": "all-along-watchtower-9e32beb5",
+"text": "Businessmen, they drink my wine, plowmen dig my earth",
+"tags": [
+"labor",
+"power",
+"disillusion"
+],
+"song": "All Along the Watchtower",
+"song_slug": "all-along-watchtower",
+"album": "John Wesley Harding",
+"album_slug": "john-wesley-harding",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/all-along-watchtower/"
+},
+{
+"id": "i-am-lonesome-hobo-d410d45e",
+"text": "Stay free from petty jealousies, live by no man’s code",
+"tags": [
+"advice",
+"independence",
+"morality"
+],
+"song": "I Am A Lonesome Hobo",
+"song_slug": "i-am-lonesome-hobo",
+"album": "John Wesley Harding",
+"album_slug": "john-wesley-harding",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/i-am-lonesome-hobo/"
+},
+{
+"id": "dear-landlord-183598af",
+"text": "If you don’t underestimate me, I won’t underestimate you",
+"tags": [
+"respect",
+"power",
+"wisdom"
+],
+"song": "Dear Landlord",
+"song_slug": "dear-landlord",
+"album": "John Wesley Harding",
+"album_slug": "john-wesley-harding",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/dear-landlord/"
+},
+{
+"id": "ballad-frankie-lee-and-judas-priest-a450037f",
+"text": "Don’t go mistaking paradise for that home across the road",
+"tags": [
+"advice",
+"faith",
+"morality"
+],
+"song": "The Ballad of Frankie Lee and Judas Priest",
+"song_slug": "ballad-frankie-lee-and-judas-priest",
+"album": "John Wesley Harding",
+"album_slug": "john-wesley-harding",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/ballad-frankie-lee-and-judas-priest/"
+},
+{
+"id": "ballad-frankie-lee-and-judas-priest-599bc240",
+"text": "Nothing is revealed",
+"tags": [
+"mystery",
+"paradox",
+"faith"
+],
+"song": "The Ballad of Frankie Lee and Judas Priest",
+"song_slug": "ballad-frankie-lee-and-judas-priest",
+"album": "John Wesley Harding",
+"album_slug": "john-wesley-harding",
+"year": 1967,
+"official": "https://www.bobdylan.com/songs/ballad-frankie-lee-and-judas-priest/"
+},
+{
+"id": "lay-lady-lay-ce0c9c54",
+"text": "Whatever colors you have in your mind, I’ll show them to you and you’ll see them shine",
 "tags": [
 "love",
-"comfort",
+"invitation",
+"vision"
+],
+"song": "Lay, Lady, Lay",
+"song_slug": "lay-lady-lay",
+"album": "Nashville Skyline",
+"album_slug": "nashville-skyline",
+"year": 1969,
+"official": "https://www.bobdylan.com/songs/lay-lady-lay/"
+},
+{
+"id": "lay-lady-lay-9b5c89ec",
+"text": "Why wait any longer for the one you love when he’s standing in front of you",
+"tags": [
+"love",
+"invitation",
+"decision"
+],
+"song": "Lay, Lady, Lay",
+"song_slug": "lay-lady-lay",
+"album": "Nashville Skyline",
+"album_slug": "nashville-skyline",
+"year": 1969,
+"official": "https://www.bobdylan.com/songs/lay-lady-lay/"
+},
+{
+"id": "lay-lady-lay-1f3b89b6",
+"text": "His clothes are dirty but his hands are clean",
+"tags": [
+"love",
+"character",
+"invitation"
+],
+"song": "Lay, Lady, Lay",
+"song_slug": "lay-lady-lay",
+"album": "Nashville Skyline",
+"album_slug": "nashville-skyline",
+"year": 1969,
+"official": "https://www.bobdylan.com/songs/lay-lady-lay/"
+},
+{
+"id": "i-threw-it-all-away-a7db7f57",
+"text": "Love is all there is, it makes the world go ’round",
+"tags": [
+"love",
+"regret",
+"wisdom"
+],
+"song": "I Threw It All Away",
+"song_slug": "i-threw-it-all-away",
+"album": "Nashville Skyline",
+"album_slug": "nashville-skyline",
+"year": 1969,
+"official": "https://www.bobdylan.com/songs/i-threw-it-all-away/"
+},
+{
+"id": "be-alone-you-41b4eed1",
+"text": "While life’s pleasures be few, the only one I know is when I’m alone with you",
+"tags": [
+"love",
+"devotion",
+"joy"
+],
+"song": "To Be Alone with You",
+"song_slug": "be-alone-you",
+"album": "Nashville Skyline",
+"album_slug": "nashville-skyline",
+"year": 1969,
+"official": "https://www.bobdylan.com/songs/be-alone-you/"
+},
+{
+"id": "tonight-ill-be-staying-here-you-e5585083",
+"text": "Throw my ticket out the window, throw my suitcase out there too",
+"tags": [
+"love",
+"decision",
 "home"
 ],
-"song": "I’ll Be Your Baby Tonight",
-"song_slug": "ill-be-your-baby-tonight",
-"album": "John Wesley Harding",
-"album_slug": "john-wesley-harding",
-"year": 1967,
-"official": "https://www.bobdylan.com/songs/ill-be-your-baby-tonight/"
+"song": "Tonight I’ll Be Staying Here with You",
+"song_slug": "tonight-ill-be-staying-here-you",
+"album": "Nashville Skyline",
+"album_slug": "nashville-skyline",
+"year": 1969,
+"official": "https://www.bobdylan.com/songs/tonight-ill-be-staying-here-you/"
 },
 {
 "id": "i-shall-be-released-b3687109",
 "text": "I see my light come shining from the west unto the east",
 "tags": [
-"freedom",
 "hope",
-"redemption"
+"redemption",
+"faith"
 ],
 "song": "I Shall Be Released",
 "song_slug": "i-shall-be-released",
@@ -1007,8 +1563,8 @@
 "id": "i-shall-be-released-e785eb72",
 "text": "Any day now, any day now, I shall be released",
 "tags": [
-"freedom",
 "hope",
+"freedom",
 "redemption"
 ],
 "song": "I Shall Be Released",
@@ -1019,42 +1575,27 @@
 "official": "https://www.bobdylan.com/songs/i-shall-be-released/"
 },
 {
-"id": "you-aint-goin-nowhere-8d553a48",
-"text": "Tomorrow’s the day my bride’s gonna come",
+"id": "i-shall-be-released-13d82e78",
+"text": "They say ev’ry man needs protection, they say ev’ry man must fall",
 "tags": [
-"hope",
-"home",
-"humor"
+"faith",
+"mortality",
+"hope"
 ],
-"song": "You Ain’t Goin’ Nowhere",
-"song_slug": "you-aint-goin-nowhere",
+"song": "I Shall Be Released",
+"song_slug": "i-shall-be-released",
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "album_slug": "bob-dylans-greatest-hits-volume-ii",
 "year": 1971,
-"official": "https://www.bobdylan.com/songs/you-aint-goin-nowhere/"
+"official": "https://www.bobdylan.com/songs/i-shall-be-released/"
 },
 {
-"id": "wheels-fire-c227bae3",
-"text": "This wheel’s on fire, rolling down the road",
+"id": "crash-levee-down-flood-fbb456ab",
+"text": "If you go down in the flood, it’s gonna be your own fault",
 "tags": [
 "warning",
-"change",
-"partnership"
-],
-"song": "This Wheel’s On Fire",
-"song_slug": "wheels-fire",
-"album": "The Basement Tapes",
-"album_slug": "basement-tapes",
-"year": 1975,
-"official": "https://www.bobdylan.com/songs/wheels-fire/"
-},
-{
-"id": "crash-levee-down-flood-0e808aca",
-"text": "Crash on the levee, mama, water’s gonna overflow",
-"tags": [
 "disaster",
-"warning",
-"blues"
+"responsibility"
 ],
 "song": "Crash on the Levee (Down in the Flood)",
 "song_slug": "crash-levee-down-flood",
@@ -1064,132 +1605,57 @@
 "official": "https://www.bobdylan.com/songs/crash-levee-down-flood/"
 },
 {
-"id": "tiny-montgomery-228567ff",
-"text": "Well, it’s tough to talk to you, up there in the moonlight",
+"id": "open-door-homer-4ea5d0c7",
+"text": "Take care of all your memories, said my friend Mick, for you cannot relive them",
 "tags": [
-"humor",
-"invitation",
-"friends"
-],
-"song": "Tiny Montgomery",
-"song_slug": "tiny-montgomery",
-"album": "The Basement Tapes",
-"album_slug": "basement-tapes",
-"year": 1975,
-"official": "https://www.bobdylan.com/songs/tiny-montgomery/"
-},
-{
-"id": "million-dollar-bash-8ba6d88c",
-"text": "Ooh, baby, ooh-ee, it’s that million dollar bash",
-"tags": [
-"humor",
-"party",
-"friends"
-],
-"song": "Million Dollar Bash",
-"song_slug": "million-dollar-bash",
-"album": "The Basement Tapes",
-"album_slug": "basement-tapes",
-"year": 1975,
-"official": "https://www.bobdylan.com/songs/million-dollar-bash/"
-},
-{
-"id": "lay-lady-lay-197a8d94",
-"text": "Lay, lady, lay, lay across my big brass bed",
-"tags": [
-"love",
-"desire",
-"invitation"
-],
-"song": "Lay, Lady, Lay",
-"song_slug": "lay-lady-lay",
-"album": "Nashville Skyline",
-"album_slug": "nashville-skyline",
-"year": 1969,
-"official": "https://www.bobdylan.com/songs/lay-lady-lay/"
-},
-{
-"id": "i-threw-it-all-away-72100eb9",
-"text": "Once I had mountains in the palm of my hand, and rivers that ran through ev’ry day",
-"tags": [
-"love",
-"regret",
-"loss"
-],
-"song": "I Threw It All Away",
-"song_slug": "i-threw-it-all-away",
-"album": "Nashville Skyline",
-"album_slug": "nashville-skyline",
-"year": 1969,
-"official": "https://www.bobdylan.com/songs/i-threw-it-all-away/"
-},
-{
-"id": "tonight-ill-be-staying-here-you-6e57b1a7",
-"text": "Tonight I’ll be staying here with you",
-"tags": [
-"love",
-"home",
-"devotion"
-],
-"song": "Tonight I’ll Be Staying Here with You",
-"song_slug": "tonight-ill-be-staying-here-you",
-"album": "Nashville Skyline",
-"album_slug": "nashville-skyline",
-"year": 1969,
-"official": "https://www.bobdylan.com/songs/tonight-ill-be-staying-here-you/"
-},
-{
-"id": "girl-north-country-7e0dd545",
-"text": "If you’re travelin’ in the north country fair",
-"tags": [
-"love",
 "memory",
-"travel"
+"wisdom",
+"time"
 ],
-"song": "Girl from the North Country",
-"song_slug": "girl-north-country",
-"album": "The Freewheelin’ Bob Dylan",
-"album_slug": "freewheelin-bob-dylan",
-"year": 1963,
-"official": "https://www.bobdylan.com/songs/girl-north-country/"
+"song": "Open the Door, Homer",
+"song_slug": "open-door-homer",
+"album": "The Basement Tapes",
+"album_slug": "basement-tapes",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/open-door-homer/"
 },
 {
-"id": "if-not-you-5cd254c5",
-"text": "If not for you, babe, I couldn’t find the door",
+"id": "wheels-fire-c227bae3",
+"text": "This wheel’s on fire, rolling down the road",
 "tags": [
-"love",
-"gratitude",
-"devotion"
+"warning",
+"journey",
+"disaster"
 ],
-"song": "If Not for You",
-"song_slug": "if-not-you",
-"album": "New Morning",
-"album_slug": "new-morning",
-"year": 1970,
-"official": "https://www.bobdylan.com/songs/if-not-you/"
+"song": "This Wheel’s On Fire",
+"song_slug": "wheels-fire",
+"album": "The Basement Tapes",
+"album_slug": "basement-tapes",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/wheels-fire/"
 },
 {
-"id": "new-morning-0530e09c",
-"text": "This must be the day that all of my dreams come true",
+"id": "quinn-eskimo-mighty-quinn-2e1be014",
+"text": "You’ll not see nothing like the mighty Quinn",
 "tags": [
+"joy",
 "hope",
-"renewal",
-"joy"
+"humor"
 ],
-"song": "New Morning",
-"song_slug": "new-morning",
-"album": "New Morning",
-"album_slug": "new-morning",
+"song": "Quinn the Eskimo  (The Mighty Quinn)",
+"song_slug": "quinn-eskimo-mighty-quinn",
+"album": "Self Portrait",
+"album_slug": "self-portrait",
 "year": 1970,
-"official": "https://www.bobdylan.com/songs/new-morning/"
+"official": "https://www.bobdylan.com/songs/quinn-eskimo-mighty-quinn/"
 },
 {
-"id": "man-me-3fc37923",
-"text": "The man in me will do nearly any task",
+"id": "man-me-0eafaede",
+"text": "The man in me will hide sometimes to keep from bein’ seen",
 "tags": [
-"love",
 "identity",
-"devotion"
+"self",
+"love"
 ],
 "song": "The Man in Me",
 "song_slug": "man-me",
@@ -1199,27 +1665,42 @@
 "official": "https://www.bobdylan.com/songs/man-me/"
 },
 {
-"id": "day-locusts-5e5395cc",
-"text": "Oh, the locusts sang, and they were singing for me",
+"id": "time-passes-slowly-673a3206",
+"text": "Time passes slowly up here in the mountains",
 "tags": [
-"vision",
-"change",
-"nature"
+"time",
+"nature",
+"peace"
 ],
-"song": "Day of the Locusts",
-"song_slug": "day-locusts",
+"song": "Time Passes Slowly",
+"song_slug": "time-passes-slowly",
 "album": "New Morning",
 "album_slug": "new-morning",
 "year": 1970,
-"official": "https://www.bobdylan.com/songs/day-locusts/"
+"official": "https://www.bobdylan.com/songs/time-passes-slowly/"
+},
+{
+"id": "when-i-paint-my-masterpiece-52db10c4",
+"text": "Someday, everything is gonna be different when I paint my masterpiece",
+"tags": [
+"art",
+"hope",
+"ambition"
+],
+"song": "When I Paint My Masterpiece",
+"song_slug": "when-i-paint-my-masterpiece",
+"album": "Bob Dylan’s Greatest Hits Volume II",
+"album_slug": "bob-dylans-greatest-hits-volume-ii",
+"year": 1971,
+"official": "https://www.bobdylan.com/songs/when-i-paint-my-masterpiece/"
 },
 {
 "id": "knockin-heavens-door-95be233c",
 "text": "Knock, knock, knockin’ on heaven’s door",
 "tags": [
 "death",
-"farewell",
-"peace"
+"mortality",
+"faith"
 ],
 "song": "Knockin’ On Heaven’s Door",
 "song_slug": "knockin-heavens-door",
@@ -1248,8 +1729,8 @@
 "text": "May your heart always be joyful, may your song always be sung",
 "tags": [
 "blessing",
-"hope",
-"life"
+"joy",
+"hope"
 ],
 "song": "Forever Young",
 "song_slug": "forever-young",
@@ -1259,49 +1740,64 @@
 "official": "https://www.bobdylan.com/songs/forever-young/"
 },
 {
-"id": "night-b4d86078",
-"text": "On a night like this, I sow the seeds",
+"id": "forever-young-2d86360f",
+"text": "May you build a ladder to the stars and climb on every rung",
 "tags": [
-"love",
-"night",
-"invitation"
+"blessing",
+"ambition",
+"hope"
 ],
-"song": "On a Night Like This",
-"song_slug": "night",
-"album": "Planet Waves",
-"album_slug": "planet-waves",
-"year": 1974,
-"official": "https://www.bobdylan.com/songs/night/"
-},
-{
-"id": "going-going-gone-6961d2d9",
-"text": "I’ve just reached a place where the willow don’t bend",
-"tags": [
-"change",
-"decision",
-"farewell"
-],
-"song": "Going, Going, Gone",
-"song_slug": "going-going-gone",
+"song": "Forever Young",
+"song_slug": "forever-young",
 "album": "The Complete Budokan 1978",
 "album_slug": "the-complete-budokan-1978",
 "year": 2023,
-"official": "https://www.bobdylan.com/songs/going-going-gone/"
+"official": "https://www.bobdylan.com/songs/forever-young/"
 },
 {
-"id": "tough-mama-e6fe215c",
-"text": "Tough Mama, meat shakin’ on your bones",
+"id": "forever-young-d5e92ecd",
+"text": "May you always do for others and let others do for you",
 "tags": [
-"desire",
-"music",
-"love"
+"blessing",
+"compassion",
+"wisdom"
 ],
-"song": "Tough Mama",
-"song_slug": "tough-mama",
-"album": "Planet Waves",
-"album_slug": "planet-waves",
-"year": 1974,
-"official": "https://www.bobdylan.com/songs/tough-mama/"
+"song": "Forever Young",
+"song_slug": "forever-young",
+"album": "The Complete Budokan 1978",
+"album_slug": "the-complete-budokan-1978",
+"year": 2023,
+"official": "https://www.bobdylan.com/songs/forever-young/"
+},
+{
+"id": "forever-young-dd9b7bfc",
+"text": "May you have a strong foundation when the winds of changes shift",
+"tags": [
+"blessing",
+"change",
+"endurance"
+],
+"song": "Forever Young",
+"song_slug": "forever-young",
+"album": "The Complete Budokan 1978",
+"album_slug": "the-complete-budokan-1978",
+"year": 2023,
+"official": "https://www.bobdylan.com/songs/forever-young/"
+},
+{
+"id": "forever-young-168fd347",
+"text": "May you grow up to be righteous, may you grow up to be true",
+"tags": [
+"blessing",
+"youth",
+"morality"
+],
+"song": "Forever Young",
+"song_slug": "forever-young",
+"album": "The Complete Budokan 1978",
+"album_slug": "the-complete-budokan-1978",
+"year": 2023,
+"official": "https://www.bobdylan.com/songs/forever-young/"
 },
 {
 "id": "dirge-a9187a06",
@@ -1309,7 +1805,7 @@
 "tags": [
 "love",
 "regret",
-"pain"
+"bitterness"
 ],
 "song": "Dirge",
 "song_slug": "dirge",
@@ -1319,27 +1815,117 @@
 "official": "https://www.bobdylan.com/songs/dirge/"
 },
 {
-"id": "something-there-about-you-f1e082e1",
-"text": "Something there is about you that strikes a match in me",
+"id": "dirge-20ad6a18",
+"text": "The truth was obscure, too profound and too pure, to live it you had to explode",
 "tags": [
-"love",
-"memory",
-"identity"
+"truth",
+"paradox",
+"art"
 ],
-"song": "Something There Is About You",
-"song_slug": "something-there-about-you",
+"song": "Dirge",
+"song_slug": "dirge",
 "album": "Planet Waves",
 "album_slug": "planet-waves",
 "year": 1974,
-"official": "https://www.bobdylan.com/songs/something-there-about-you/"
+"official": "https://www.bobdylan.com/songs/dirge/"
 },
 {
-"id": "tangled-blue-cf08eebc",
-"text": "Early one mornin’ the sun was shinin’, I was layin’ in bed",
+"id": "it-aint-me-babe-82fd7458",
+"text": "It ain’t me, babe, no, no, no, it ain’t me you’re looking for, babe",
+"tags": [
+"love",
+"independence",
+"farewell"
+],
+"song": "It Ain’t Me, Babe",
+"song_slug": "it-aint-me-babe",
+"album": "Another Side of Bob Dylan",
+"album_slug": "another-side-of-bob-dylan",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/it-aint-me-babe/"
+},
+{
+"id": "it-aint-me-babe-45dd81d1",
+"text": "I’m not the one you want, babe, I’m not the one you need",
+"tags": [
+"love",
+"independence",
+"identity"
+],
+"song": "It Ain’t Me, Babe",
+"song_slug": "it-aint-me-babe",
+"album": "Another Side of Bob Dylan",
+"album_slug": "another-side-of-bob-dylan",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/it-aint-me-babe/"
+},
+{
+"id": "it-aint-me-babe-70553e62",
+"text": "Go away from my window, leave at your own chosen speed",
+"tags": [
+"farewell",
+"independence",
+"love"
+],
+"song": "It Ain’t Me, Babe",
+"song_slug": "it-aint-me-babe",
+"album": "Another Side of Bob Dylan",
+"album_slug": "another-side-of-bob-dylan",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/it-aint-me-babe/"
+},
+{
+"id": "lonesome-death-hattie-carroll-c918a01d",
+"text": "Take the rag away from your face, now ain’t the time for your tears",
+"tags": [
+"justice",
+"grief",
+"protest"
+],
+"song": "The Lonesome Death of Hattie Carroll",
+"song_slug": "lonesome-death-hattie-carroll",
+"album": "The Times They Are A-Changin’",
+"album_slug": "the-times-they-are-a-changin",
+"year": 1964,
+"official": "https://www.bobdylan.com/songs/lonesome-death-hattie-carroll/"
+},
+{
+"id": "tangled-blue-0a886d54",
+"text": "Tangled up in blue",
 "tags": [
 "love",
 "memory",
-"story"
+"journey"
+],
+"song": "Tangled Up In Blue",
+"song_slug": "tangled-blue",
+"album": "Blood on the Tracks",
+"album_slug": "blood-tracks",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/tangled-blue/"
+},
+{
+"id": "tangled-blue-1661d504",
+"text": "Lord knows I’ve paid some dues gettin’ through",
+"tags": [
+"endurance",
+"journey",
+"love"
+],
+"song": "Tangled Up In Blue",
+"song_slug": "tangled-blue",
+"album": "Blood on the Tracks",
+"album_slug": "blood-tracks",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/tangled-blue/"
+},
+{
+"id": "tangled-blue-41948f6d",
+"text": "The only thing I knew how to do was to keep on keepin’ on",
+"tags": [
+"endurance",
+"purpose",
+"journey"
 ],
 "song": "Tangled Up In Blue",
 "song_slug": "tangled-blue",
@@ -1364,38 +1950,8 @@
 "official": "https://www.bobdylan.com/songs/tangled-blue/"
 },
 {
-"id": "simple-twist-fate-7b6b0ff6",
-"text": "A simple twist of fate",
-"tags": [
-"love",
-"chance",
-"fate"
-],
-"song": "Simple Twist of Fate",
-"song_slug": "simple-twist-fate",
-"album": "The Complete Budokan 1978",
-"album_slug": "the-complete-budokan-1978",
-"year": 2023,
-"official": "https://www.bobdylan.com/songs/simple-twist-fate/"
-},
-{
-"id": "idiot-wind-d8b28153",
-"text": "Idiot wind, blowing every time you move your mouth",
-"tags": [
-"bitterness",
-"love",
-"betrayal"
-],
-"song": "Idiot Wind",
-"song_slug": "idiot-wind",
-"album": "Blood on the Tracks",
-"album_slug": "blood-tracks",
-"year": 1975,
-"official": "https://www.bobdylan.com/songs/idiot-wind/"
-},
-{
-"id": "idiot-wind-ef16b228",
-"text": "It’s a wonder that you still know how to breathe",
+"id": "idiot-wind-5d1e897e",
+"text": "You’re an idiot, babe, it’s a wonder that you still know how to breathe",
 "tags": [
 "bitterness",
 "love",
@@ -1409,12 +1965,27 @@
 "official": "https://www.bobdylan.com/songs/idiot-wind/"
 },
 {
-"id": "shelter-storm-c45be357",
-"text": "Come in, she said, I’ll give ya shelter from the storm",
+"id": "idiot-wind-c9676cb8",
+"text": "Idiot wind, blowing through the buttons of our coats",
+"tags": [
+"bitterness",
+"love",
+"anger"
+],
+"song": "Idiot Wind",
+"song_slug": "idiot-wind",
+"album": "Blood on the Tracks",
+"album_slug": "blood-tracks",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/idiot-wind/"
+},
+{
+"id": "shelter-storm-5adfa342",
+"text": "“Come in,” she said, “I’ll give you shelter from the storm.”",
 "tags": [
 "love",
 "refuge",
-"grace"
+"rescue"
 ],
 "song": "Shelter from the Storm",
 "song_slug": "shelter-storm",
@@ -1424,12 +1995,42 @@
 "official": "https://www.bobdylan.com/songs/shelter-storm/"
 },
 {
-"id": "if-you-see-her-say-hello-1f4b3975",
-"text": "If you see her, say hello, she might be in Tangier",
+"id": "shelter-storm-6e5be9ec",
+"text": "Beauty walks a razor’s edge, someday I’ll make it mine",
+"tags": [
+"beauty",
+"ambition",
+"love"
+],
+"song": "Shelter from the Storm",
+"song_slug": "shelter-storm",
+"album": "Blood on the Tracks",
+"album_slug": "blood-tracks",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/shelter-storm/"
+},
+{
+"id": "shelter-storm-d939f851",
+"text": "Try imagining a place where it’s always safe and warm",
+"tags": [
+"refuge",
+"hope",
+"love"
+],
+"song": "Shelter from the Storm",
+"song_slug": "shelter-storm",
+"album": "Blood on the Tracks",
+"album_slug": "blood-tracks",
+"year": 1975,
+"official": "https://www.bobdylan.com/songs/shelter-storm/"
+},
+{
+"id": "if-you-see-her-say-hello-cbbd1084",
+"text": "If she’s passing back this way I’m not that hard to find",
 "tags": [
 "love",
-"memory",
-"farewell"
+"farewell",
+"memory"
 ],
 "song": "If You See Her, Say Hello",
 "song_slug": "if-you-see-her-say-hello",
@@ -1439,57 +2040,27 @@
 "official": "https://www.bobdylan.com/songs/if-you-see-her-say-hello/"
 },
 {
-"id": "youre-gonna-make-me-lonesome-when-you-go-149242a1",
-"text": "You’re gonna make me lonesome when you go",
+"id": "if-you-see-her-say-hello-a6419396",
+"text": "Sundown, yellow moon, I replay the past, I know every scene by heart, they all went by so fast",
 "tags": [
+"memory",
 "love",
-"farewell",
-"longing"
+"time"
 ],
-"song": "You’re Gonna Make Me Lonesome When You Go",
-"song_slug": "youre-gonna-make-me-lonesome-when-you-go",
+"song": "If You See Her, Say Hello",
+"song_slug": "if-you-see-her-say-hello",
 "album": "Blood on the Tracks",
 "album_slug": "blood-tracks",
 "year": 1975,
-"official": "https://www.bobdylan.com/songs/youre-gonna-make-me-lonesome-when-you-go/"
+"official": "https://www.bobdylan.com/songs/if-you-see-her-say-hello/"
 },
 {
-"id": "buckets-rain-cf4d9f8e",
-"text": "Life is sad, life is a bust, all ya can do is do what you must",
-"tags": [
-"wisdom",
-"love",
-"blues"
-],
-"song": "Buckets of Rain",
-"song_slug": "buckets-rain",
-"album": "Blood on the Tracks",
-"album_slug": "blood-tracks",
-"year": 1975,
-"official": "https://www.bobdylan.com/songs/buckets-rain/"
-},
-{
-"id": "meet-me-morning-7f53baa9",
-"text": "Meet me in the morning, 56th and Wabasha",
-"tags": [
-"love",
-"invitation",
-"travel"
-],
-"song": "Meet Me in the Morning",
-"song_slug": "meet-me-morning",
-"album": "Blood on the Tracks",
-"album_slug": "blood-tracks",
-"year": 1975,
-"official": "https://www.bobdylan.com/songs/meet-me-morning/"
-},
-{
-"id": "hurricane-6b9c6ca1",
-"text": "Here comes the story of the Hurricane",
+"id": "hurricane-8e422b37",
+"text": "Couldn’t help but make me feel ashamed to live in a land where justice is a game",
 "tags": [
 "justice",
-"story",
-"race"
+"america",
+"protest"
 ],
 "song": "Hurricane",
 "song_slug": "hurricane",
@@ -1499,11 +2070,11 @@
 "official": "https://www.bobdylan.com/songs/hurricane/"
 },
 {
-"id": "hurricane-7c89933d",
-"text": "Rubin Carter was falsely tried",
+"id": "hurricane-c3e0320b",
+"text": "One time he coulda been the champion of the world",
 "tags": [
 "justice",
-"race",
+"injustice",
 "america"
 ],
 "song": "Hurricane",
@@ -1514,147 +2085,12 @@
 "official": "https://www.bobdylan.com/songs/hurricane/"
 },
 {
-"id": "isis-74363bdb",
-"text": "Isis, oh, Isis, you mystical child",
-"tags": [
-"love",
-"adventure",
-"myth"
-],
-"song": "Isis",
-"song_slug": "isis",
-"album": "Desire",
-"album_slug": "desire",
-"year": 1976,
-"official": "https://www.bobdylan.com/songs/isis/"
-},
-{
-"id": "one-more-cup-coffee-valley-below-9c1f0aa0",
-"text": "One more cup of coffee for the road",
-"tags": [
-"farewell",
-"travel",
-"love"
-],
-"song": "One More Cup of Coffee (Valley Below)",
-"song_slug": "one-more-cup-coffee-valley-below",
-"album": "The Complete Budokan 1978",
-"album_slug": "the-complete-budokan-1978",
-"year": 2023,
-"official": "https://www.bobdylan.com/songs/one-more-cup-coffee-valley-below/"
-},
-{
-"id": "oh-sister-1b81b87c",
-"text": "Oh, sister, when I come to knock on your door",
+"id": "gotta-serve-somebody-f228375c",
+"text": "It may be the Devil or it may be the Lord, but you’re gonna have to serve somebody",
 "tags": [
 "faith",
-"love",
-"family"
-],
-"song": "Oh, Sister",
-"song_slug": "oh-sister",
-"album": "The Complete Budokan 1978",
-"album_slug": "the-complete-budokan-1978",
-"year": 2023,
-"official": "https://www.bobdylan.com/songs/oh-sister/"
-},
-{
-"id": "sara-caac86a8",
-"text": "Sara, Sara, whatever made you want to change your mind?",
-"tags": [
-"love",
-"memory",
-"regret"
-],
-"song": "Sara",
-"song_slug": "sara",
-"album": "Desire",
-"album_slug": "desire",
-"year": 1976,
-"official": "https://www.bobdylan.com/songs/sara/"
-},
-{
-"id": "romance-durango-c290dc47",
-"text": "No llores, my dear, don’t cry",
-"tags": [
-"adventure",
-"love",
-"west"
-],
-"song": "Romance in Durango",
-"song_slug": "romance-durango",
-"album": "Desire",
-"album_slug": "desire",
-"year": 1976,
-"official": "https://www.bobdylan.com/songs/romance-durango/"
-},
-{
-"id": "changing-guards-713b3a8e",
-"text": "Sixteen years, sixteen banners united over the field",
-"tags": [
-"change",
-"prophecy",
-"history"
-],
-"song": "Changing of the Guards",
-"song_slug": "changing-guards",
-"album": "Street-Legal",
-"album_slug": "street-legal",
-"year": 1978,
-"official": "https://www.bobdylan.com/songs/changing-guards/"
-},
-{
-"id": "senor-tales-yankee-power-5d666936",
-"text": "Señor, señor, do you know where we’re headin’?",
-"tags": [
-"questions",
-"travel",
-"warning"
-],
-"song": "Señor (Tales of Yankee Power)",
-"song_slug": "senor-tales-yankee-power",
-"album": "Street-Legal",
-"album_slug": "street-legal",
-"year": 1978,
-"official": "https://www.bobdylan.com/songs/senor-tales-yankee-power/"
-},
-{
-"id": "no-time-think-89407509",
-"text": "I’ve seen all these decoys through a needle’s eye",
-"tags": [
-"love",
-"time",
-"confusion"
-],
-"song": "No Time to Think",
-"song_slug": "no-time-think",
-"album": "Street-Legal",
-"album_slug": "street-legal",
-"year": 1978,
-"official": "https://www.bobdylan.com/songs/no-time-think/"
-},
-{
-"id": "we-better-talk-over-daab4434",
-"text": "We better talk this over, maybe come to some kind of understanding",
-"tags": [
-"love",
-"farewell",
-"talk"
-],
-"song": "We Better Talk This Over",
-"song_slug": "we-better-talk-over",
-"album": "Street-Legal",
-"album_slug": "street-legal",
-"year": 1978,
-"official": "https://www.bobdylan.com/songs/we-better-talk-over/"
-},
-{
-"id": "gotta-serve-somebody-ce34fb10",
-"text": "It may be the devil or it may be the Lord, but you’re gonna have to serve somebody",
-"tags": [
-"faith",
-"choice",
-"morality"
+"morality",
+"choice"
 ],
 "song": "Gotta Serve Somebody",
 "song_slug": "gotta-serve-somebody",
@@ -1664,132 +2100,12 @@
 "official": "https://www.bobdylan.com/songs/gotta-serve-somebody/"
 },
 {
-"id": "slow-train-ee4310ff",
-"text": "There’s a slow, slow train comin’ up around the bend",
-"tags": [
-"faith",
-"warning",
-"change"
-],
-"song": "Slow Train",
-"song_slug": "slow-train",
-"album": "Slow Train Coming",
-"album_slug": "slow-train-coming",
-"year": 1979,
-"official": "https://www.bobdylan.com/songs/slow-train/"
-},
-{
-"id": "precious-angel-7a801088",
-"text": "Precious angel, under the sun, how was I to know you’d be the one",
-"tags": [
-"faith",
-"love",
-"grace"
-],
-"song": "Precious Angel",
-"song_slug": "precious-angel",
-"album": "Slow Train Coming",
-"album_slug": "slow-train-coming",
-"year": 1979,
-"official": "https://www.bobdylan.com/songs/precious-angel/"
-},
-{
-"id": "i-believe-you-ddc55c3f",
-"text": "Don’t let me drift too far, keep me where you are, where I will always be renewed",
-"tags": [
-"faith",
-"devotion",
-"doubt"
-],
-"song": "I Believe in You",
-"song_slug": "i-believe-you",
-"album": "Slow Train Coming",
-"album_slug": "slow-train-coming",
-"year": 1979,
-"official": "https://www.bobdylan.com/songs/i-believe-you/"
-},
-{
-"id": "when-he-returns-efc50ae7",
-"text": "How long can you falsify and deny what is real?",
-"tags": [
-"faith",
-"judgment",
-"truth"
-],
-"song": "When He Returns",
-"song_slug": "when-he-returns",
-"album": "Slow Train Coming",
-"album_slug": "slow-train-coming",
-"year": 1979,
-"official": "https://www.bobdylan.com/songs/when-he-returns/"
-},
-{
-"id": "saved-c7944f89",
-"text": "I was blinded by the devil, born already ruined",
-"tags": [
-"faith",
-"redemption",
-"conversion"
-],
-"song": "Saved",
-"song_slug": "saved",
-"album": "Saved",
-"album_slug": "saved",
-"year": 1980,
-"official": "https://www.bobdylan.com/songs/saved/"
-},
-{
-"id": "garden-283f4001",
-"text": "When they came for Him in the garden, did they know?",
-"tags": [
-"faith",
-"gospel",
-"history"
-],
-"song": "In the Garden",
-"song_slug": "garden",
-"album": "Saved",
-"album_slug": "saved",
-"year": 1980,
-"official": "https://www.bobdylan.com/songs/garden/"
-},
-{
-"id": "pressing-528c6006",
-"text": "Shake the dust off of your feet, don’t look back",
-"tags": [
-"faith",
-"perseverance",
-"hope"
-],
-"song": "Pressing On",
-"song_slug": "pressing",
-"album": "Saved",
-"album_slug": "saved",
-"year": 1980,
-"official": "https://www.bobdylan.com/songs/pressing/"
-},
-{
-"id": "every-grain-sand-549932a4",
-"text": "In the fury of the moment I can see the Master’s hand",
-"tags": [
-"faith",
-"grace",
-"humility"
-],
-"song": "Every Grain of Sand",
-"song_slug": "every-grain-sand",
-"album": "Shot of Love",
-"album_slug": "shot-love",
-"year": 1981,
-"official": "https://www.bobdylan.com/songs/every-grain-sand/"
-},
-{
-"id": "every-grain-sand-924e7452",
-"text": "In every leaf that trembles, in every grain of sand",
+"id": "every-grain-sand-efab076f",
+"text": "In the fury of the moment I can see the Master’s hand, in every leaf that trembles, in every grain of sand",
 "tags": [
 "faith",
 "nature",
-"grace"
+"wonder"
 ],
 "song": "Every Grain of Sand",
 "song_slug": "every-grain-sand",
@@ -1799,132 +2115,12 @@
 "official": "https://www.bobdylan.com/songs/every-grain-sand/"
 },
 {
-"id": "grooms-still-waiting-altar-e1ad1626",
-"text": "West of the Jordan, east of the Rock of Gibraltar",
+"id": "blind-willie-mctell-b423ca21",
+"text": "I know no one can sing the blues like Blind Willie McTell",
 "tags": [
-"faith",
-"waiting",
-"change"
-],
-"song": "The Groom’s Still Waiting at the Altar",
-"song_slug": "grooms-still-waiting-altar",
-"album": "Shot of Love",
-"album_slug": "shot-love",
-"year": 1981,
-"official": "https://www.bobdylan.com/songs/grooms-still-waiting-altar/"
-},
-{
-"id": "shot-love-bfb1a5d1",
-"text": "Don’t ever have to be alone, or worry about the future",
-"tags": [
-"faith",
-"love",
-"comfort"
-],
-"song": "Shot of Love",
-"song_slug": "shot-love",
-"album": "Shot of Love",
-"album_slug": "shot-love",
-"year": 1981,
-"official": "https://www.bobdylan.com/songs/shot-love/"
-},
-{
-"id": "lenny-bruce-574129b9",
-"text": "Lenny Bruce is dead but his ghost lives on and on",
-"tags": [
-"memory",
-"truth",
-"america"
-],
-"song": "Lenny Bruce",
-"song_slug": "lenny-bruce",
-"album": "Shot of Love",
-"album_slug": "shot-love",
-"year": 1981,
-"official": "https://www.bobdylan.com/songs/lenny-bruce/"
-},
-{
-"id": "jokerman-b4d84384",
-"text": "Freedom just around the corner for you, but with truth so far off, what good will it do?",
-"tags": [
-"freedom",
-"truth",
-"warning"
-],
-"song": "Jokerman",
-"song_slug": "jokerman",
-"album": "Infidels",
-"album_slug": "infidels",
-"year": 1983,
-"official": "https://www.bobdylan.com/songs/jokerman/"
-},
-{
-"id": "i-and-i-d13c13ca",
-"text": "I and I, in creation where one’s nature neither honors nor forgives",
-"tags": [
-"identity",
-"faith",
-"duality"
-],
-"song": "I and I",
-"song_slug": "i-and-i",
-"album": "Infidels",
-"album_slug": "infidels",
-"year": 1983,
-"official": "https://www.bobdylan.com/songs/i-and-i/"
-},
-{
-"id": "sweetheart-you-d16c4682",
-"text": "What’s a sweetheart like you doing in a dump like this?",
-"tags": [
-"love",
-"questions",
-"america"
-],
-"song": "Sweetheart Like You",
-"song_slug": "sweetheart-you",
-"album": "Infidels",
-"album_slug": "infidels",
-"year": 1983,
-"official": "https://www.bobdylan.com/songs/sweetheart-you/"
-},
-{
-"id": "license-kill-19722a6b",
-"text": "All around, my revolution has been sung, all around, my story’s been told",
-"tags": [
-"power",
-"outlaw",
-"america"
-],
-"song": "License to Kill",
-"song_slug": "license-kill",
-"album": "Infidels",
-"album_slug": "infidels",
-"year": 1983,
-"official": "https://www.bobdylan.com/songs/license-kill/"
-},
-{
-"id": "man-peace-08cbcb1f",
-"text": "The world's so packed with sinners, you'd think it was the end",
-"tags": [
-"faith",
-"warning",
-"evil"
-],
-"song": "Man of Peace",
-"song_slug": "man-peace",
-"album": "Infidels",
-"album_slug": "infidels",
-"year": 1983,
-"official": "https://www.bobdylan.com/songs/man-peace/"
-},
-{
-"id": "blind-willie-mctell-d83d507b",
-"text": "Nobody can sing the blues like Blind Willie McTell",
-"tags": [
+"music",
 "blues",
-"memory",
-"music"
+"art"
 ],
 "song": "Blind Willie McTell",
 "song_slug": "blind-willie-mctell",
@@ -1938,8 +2134,8 @@
 "text": "Power and greed and corruptible seed seem to be all that there is",
 "tags": [
 "power",
-"corruption",
-"america"
+"greed",
+"morality"
 ],
 "song": "Blind Willie McTell",
 "song_slug": "blind-willie-mctell",
@@ -1949,236 +2145,26 @@
 "official": "https://www.bobdylan.com/songs/blind-willie-mctell/"
 },
 {
-"id": "when-night-comes-falling-sky-fa2fc321",
-"text": "When the night comes falling from the sky, I hope that you’re ready to go",
+"id": "not-dark-yet-8a3e9c87",
+"text": "Behind every beautiful thing, there’s some kind of pain",
 "tags": [
-"warning",
-"love",
-"night"
-],
-"song": "When the Night Comes Falling from the Sky",
-"song_slug": "when-night-comes-falling-sky",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/when-night-comes-falling-sky/"
-},
-{
-"id": "dark-eyes-d66594a8",
-"text": "Oh, the gentlemen are talking and the midnight moon is on the riverside",
-"tags": [
-"vision",
-"night",
-"loneliness"
-],
-"song": "Dark Eyes",
-"song_slug": "dark-eyes",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/dark-eyes/"
-},
-{
-"id": "brownsville-girl-7a8f47ee",
-"text": "Strange how people who suffer together have stronger connections than people who are most content",
-"tags": [
-"love",
-"memory",
-"story"
-],
-"song": "Brownsville Girl",
-"song_slug": "brownsville-girl",
-"album": "Knocked Out Loaded",
-"album_slug": "knocked-out-loaded",
-"year": 1986,
-"official": "https://www.bobdylan.com/songs/brownsville-girl/"
-},
-{
-"id": "political-world-05449b7f",
-"text": "We live in a political world, love don’t have any place",
-"tags": [
-"politics",
-"america",
-"disillusion"
-],
-"song": "Political World",
-"song_slug": "political-world",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/political-world/"
-},
-{
-"id": "everything-broken-c3d4d96c",
-"text": "Broken heads, broken bottles, broken bones",
-"tags": [
-"chaos",
-"breakdown",
-"america"
-],
-"song": "Everything Is Broken",
-"song_slug": "everything-broken",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/everything-broken/"
-},
-{
-"id": "ring-them-bells-211902ba",
-"text": "Ring them bells, ye heathen, from the city that dreams",
-"tags": [
-"faith",
-"warning",
-"hope"
-],
-"song": "Ring Them Bells",
-"song_slug": "ring-them-bells",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/ring-them-bells/"
-},
-{
-"id": "most-time-2c81d239",
-"text": "Most of the time, I’m clear focused all around",
-"tags": [
-"love",
-"memory",
-"restraint"
-],
-"song": "Most of the Time",
-"song_slug": "most-time",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/most-time/"
-},
-{
-"id": "what-good-am-i-6cd6c96b",
-"text": "What good am I if I’m like all the rest",
-"tags": [
-"morality",
-"questions",
-"conscience"
-],
-"song": "What Good Am I?",
-"song_slug": "what-good-am-i",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/what-good-am-i/"
-},
-{
-"id": "man-long-black-coat-1080dcd5",
-"text": "Not a word of goodbye, not even a note",
-"tags": [
-"mystery",
-"farewell",
-"story"
-],
-"song": "Man in the Long Black Coat",
-"song_slug": "man-long-black-coat",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/man-long-black-coat/"
-},
-{
-"id": "shooting-star-c8769b93",
-"text": "Seen a shooting star tonight, and I thought of you",
-"tags": [
-"love",
-"memory",
-"longing"
-],
-"song": "Shooting Star",
-"song_slug": "shooting-star",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/shooting-star/"
-},
-{
-"id": "disease-conceit-fb9336ff",
-"text": "There’s a whole lot of people seein’ double tonight",
-"tags": [
-"warning",
-"pride",
-"faith"
-],
-"song": "Disease of Conceit",
-"song_slug": "disease-conceit",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/disease-conceit/"
-},
-{
-"id": "series-dreams-7288de27",
-"text": "I was thinking of a series of dreams",
-"tags": [
-"dream",
-"memory",
-"search"
-],
-"song": "Series of Dreams",
-"song_slug": "series-dreams",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/series-dreams/"
-},
-{
-"id": "dignity-f6f8cf19",
-"text": "I went into the city, I went looking for dignity",
-"tags": [
-"search",
-"dignity",
-"america"
-],
-"song": "Dignity",
-"song_slug": "dignity",
-"album": "Greatest Hits Volume 3",
-"album_slug": "greatest-hits-volume-3",
-"year": 1994,
-"official": "https://www.bobdylan.com/songs/dignity/"
-},
-{
-"id": "god-knows-bf6b869e",
-"text": "God knows you ain’t pretty, God knows it’s true",
-"tags": [
-"faith",
-"love",
-"honesty"
-],
-"song": "God Knows",
-"song_slug": "god-knows",
-"album": "Under the Red Sky",
-"album_slug": "under-red-sky",
-"year": 1990,
-"official": "https://www.bobdylan.com/songs/god-knows/"
-},
-{
-"id": "love-sick-f645c1d9",
-"text": "I’m sick of love, I wish I’d never met you",
-"tags": [
-"love",
+"beauty",
 "pain",
-"disillusion"
+"wisdom"
 ],
-"song": "Love Sick",
-"song_slug": "love-sick",
+"song": "Not Dark Yet",
+"song_slug": "not-dark-yet",
 "album": "Time out of Mind",
 "album_slug": "time-out-of-mind",
 "year": 1997,
-"official": "https://www.bobdylan.com/songs/love-sick/"
+"official": "https://www.bobdylan.com/songs/not-dark-yet/"
 },
 {
 "id": "not-dark-yet-5e5a1467",
 "text": "It’s not dark yet, but it’s getting there",
 "tags": [
-"time",
 "mortality",
+"time",
 "endurance"
 ],
 "song": "Not Dark Yet",
@@ -2189,87 +2175,27 @@
 "official": "https://www.bobdylan.com/songs/not-dark-yet/"
 },
 {
-"id": "not-dark-yet-27b4869a",
-"text": "I was born here and I’ll die here against my will",
+"id": "things-have-changed-83837dd1",
+"text": "People are crazy and times are strange, I used to care, but things have changed",
 "tags": [
-"mortality",
-"will",
-"place"
-],
-"song": "Not Dark Yet",
-"song_slug": "not-dark-yet",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/not-dark-yet/"
-},
-{
-"id": "trying-get-heaven-4cc9a8c2",
-"text": "Tryin’ to get to heaven before they close the door",
-"tags": [
-"death",
-"faith",
-"journey"
-],
-"song": "Tryin’ to Get to Heaven",
-"song_slug": "trying-get-heaven",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/trying-get-heaven/"
-},
-{
-"id": "make-you-feel-my-love-334b0fec",
-"text": "I could make you happy, make your dreams come true",
-"tags": [
-"love",
-"devotion",
-"promise"
-],
-"song": "Make You Feel My Love",
-"song_slug": "make-you-feel-my-love",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/make-you-feel-my-love/"
-},
-{
-"id": "highlands-2ce34cee",
-"text": "I’m lost in the Highlands, over the hills and far away",
-"tags": [
-"travel",
-"loneliness",
-"search"
-],
-"song": "Highlands",
-"song_slug": "highlands",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/highlands/"
-},
-{
-"id": "cold-irons-bound-60968e36",
-"text": "I’m twenty miles out of town, in cold irons bound",
-"tags": [
-"trapped",
-"love",
-"despair"
-],
-"song": "Cold Irons Bound",
-"song_slug": "cold-irons-bound",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/cold-irons-bound/"
-},
-{
-"id": "things-have-changed-c6ec0b4c",
-"text": "I used to care, but things have changed",
-"tags": [
-"disillusion",
 "change",
+"disillusion",
 "time"
+],
+"song": "Things Have Changed",
+"song_slug": "things-have-changed",
+"album": "The Essential Bob Dylan",
+"album_slug": "essential-bob-dylan",
+"year": 2000,
+"official": "https://www.bobdylan.com/songs/things-have-changed/"
+},
+{
+"id": "things-have-changed-a6791b99",
+"text": "I’ve been trying to get as far away from myself as I can",
+"tags": [
+"identity",
+"escape",
+"self"
 ],
 "song": "Things Have Changed",
 "song_slug": "things-have-changed",
@@ -2283,8 +2209,8 @@
 "text": "You can always come back, but you can’t come back all the way",
 "tags": [
 "time",
-"regret",
-"wisdom"
+"memory",
+"journey"
 ],
 "song": "Mississippi",
 "song_slug": "mississippi",
@@ -2294,963 +2220,48 @@
 "official": "https://www.bobdylan.com/songs/mississippi/"
 },
 {
-"id": "mississippi-93f56e15",
-"text": "Only one thing I did wrong, stayed in Mississippi a day too long",
+"id": "mississippi-7b0b0ba4",
+"text": "I’ve got nothing but affection for those who’ve sailed with me",
 "tags": [
-"regret",
-"travel",
-"blues"
-],
-"song": "Mississippi",
-"song_slug": "mississippi",
-"album": "“Love and Theft”",
-"album_slug": "love-and-theft",
-"year": 2001,
-"official": "https://www.bobdylan.com/songs/mississippi/"
-},
-{
-"id": "high-water-charley-patton-a5daa3ff",
-"text": "High water risin’, the shacks are slidin’ down",
-"tags": [
-"disaster",
-"america",
-"blues"
-],
-"song": "High Water (For Charley Patton)",
-"song_slug": "high-water-charley-patton",
-"album": "“Love and Theft”",
-"album_slug": "love-and-theft",
-"year": 2001,
-"official": "https://www.bobdylan.com/songs/high-water-charley-patton/"
-},
-{
-"id": "po-boy-21fdae18",
-"text": "Poor boy, in a hotel called the Palace of Gloom",
-"tags": [
-"humor",
-"poverty",
-"story"
-],
-"song": "Po’ Boy",
-"song_slug": "po-boy",
-"album": "“Love and Theft”",
-"album_slug": "love-and-theft",
-"year": 2001,
-"official": "https://www.bobdylan.com/songs/po-boy/"
-},
-{
-"id": "floater-too-much-ask-4dddca9c",
-"text": "They say times are hard, if you don’t believe it you can keep it to yourself",
-"tags": [
-"america",
-"work",
-"wisdom"
-],
-"song": "Floater (Too Much to Ask)",
-"song_slug": "floater-too-much-ask",
-"album": "“Love and Theft”",
-"album_slug": "love-and-theft",
-"year": 2001,
-"official": "https://www.bobdylan.com/songs/floater-too-much-ask/"
-},
-{
-"id": "sugar-baby-ce9234d6",
-"text": "Look up, look up, seek your Maker, ’fore Gabriel blows his horn",
-"tags": [
-"warning",
-"faith",
-"farewell"
-],
-"song": "Sugar Baby",
-"song_slug": "sugar-baby",
-"album": "“Love and Theft”",
-"album_slug": "love-and-theft",
-"year": 2001,
-"official": "https://www.bobdylan.com/songs/sugar-baby/"
-},
-{
-"id": "moonlight-3984dfdc",
-"text": "The leaves on the trees shake with irresistible appeal",
-"tags": [
-"love",
-"night",
-"beauty"
-],
-"song": "Moonlight",
-"song_slug": "moonlight",
-"album": "“Love and Theft”",
-"album_slug": "love-and-theft",
-"year": 2001,
-"official": "https://www.bobdylan.com/songs/moonlight/"
-},
-{
-"id": "cross-green-mountain-e13429fa",
-"text": "Heaven blazing in my head, I dreamt a monstrous dream",
-"tags": [
-"war",
-"dream",
-"history"
-],
-"song": "‘Cross the Green Mountain",
-"song_slug": "cross-green-mountain",
-"album": "The Bootleg Series, Vol 8: Tell Tale Signs",
-"album_slug": "bootleg-series-vol-8-tell-tale-signs",
-"year": 2008,
-"official": "https://www.bobdylan.com/songs/cross-green-mountain/"
-},
-{
-"id": "thunder-mountain-adaa2c77",
-"text": "Thunder on the mountain, rolling like a drum",
-"tags": [
-"energy",
-"change",
-"america"
-],
-"song": "Thunder on the Mountain",
-"song_slug": "thunder-mountain",
-"album": "Modern Times",
-"album_slug": "modern-times",
-"year": 2006,
-"official": "https://www.bobdylan.com/songs/thunder-mountain/"
-},
-{
-"id": "workingmans-blues-2-73e40bc1",
-"text": "The place I love best is a sweet memory, it’s a new path that we trod",
-"tags": [
-"labor",
-"change",
-"america"
-],
-"song": "Workingman’s Blues #2",
-"song_slug": "workingmans-blues-2",
-"album": "Modern Times",
-"album_slug": "modern-times",
-"year": 2006,
-"official": "https://www.bobdylan.com/songs/workingmans-blues-2/"
-},
-{
-"id": "aint-talkin-b87cac5d",
-"text": "Ain’t talkin’, just walkin’, through this weary world of woe",
-"tags": [
-"journey",
-"endurance",
-"faith"
-],
-"song": "Ain’t Talkin’",
-"song_slug": "aint-talkin",
-"album": "Modern Times",
-"album_slug": "modern-times",
-"year": 2006,
-"official": "https://www.bobdylan.com/songs/aint-talkin/"
-},
-{
-"id": "when-deal-goes-down-1989357a",
-"text": "We all wear the same thorny crown",
-"tags": [
-"faith",
-"love",
-"endurance"
-],
-"song": "When the Deal Goes Down",
-"song_slug": "when-deal-goes-down",
-"album": "Modern Times",
-"album_slug": "modern-times",
-"year": 2006,
-"official": "https://www.bobdylan.com/songs/when-deal-goes-down/"
-},
-{
-"id": "beyond-here-lies-nothin-c32cbe86",
-"text": "Beyond here lies nothin’, nothing but the moon and stars",
-"tags": [
-"love",
-"edge",
-"devotion"
-],
-"song": "Beyond Here Lies Nothin’",
-"song_slug": "beyond-here-lies-nothin",
-"album": "Together Through Life",
-"album_slug": "together-through-life",
-"year": 2009,
-"official": "https://www.bobdylan.com/songs/beyond-here-lies-nothin/"
-},
-{
-"id": "i-feel-change-comin-57d32574",
-"text": "I feel a change comin’ on, and the last part of the day is already gone",
-"tags": [
-"change",
-"time",
-"hope"
-],
-"song": "I Feel a Change Comin’ On",
-"song_slug": "i-feel-change-comin",
-"album": "Together Through Life",
-"album_slug": "together-through-life",
-"year": 2009,
-"official": "https://www.bobdylan.com/songs/i-feel-change-comin/"
-},
-{
-"id": "forgetful-heart-c3a9931b",
-"text": "Forgetful heart, like a walking shadow in my brain",
-"tags": [
-"memory",
-"love",
-"loss"
-],
-"song": "Forgetful Heart",
-"song_slug": "forgetful-heart",
-"album": "Together Through Life",
-"album_slug": "together-through-life",
-"year": 2009,
-"official": "https://www.bobdylan.com/songs/forgetful-heart/"
-},
-{
-"id": "dream-you-d0a3c381",
-"text": "This dream of you, it keeps me living on",
-"tags": [
-"love",
-"dream",
-"longing"
-],
-"song": "This Dream of You",
-"song_slug": "dream-you",
-"album": "Together Through Life",
-"album_slug": "together-through-life",
-"year": 2009,
-"official": "https://www.bobdylan.com/songs/dream-you/"
-},
-{
-"id": "long-and-wasted-years-4487951f",
-"text": "So much for tears, so much for these long and wasted years",
-"tags": [
-"regret",
-"love",
-"time"
-],
-"song": "Long and Wasted Years",
-"song_slug": "long-and-wasted-years",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/long-and-wasted-years/"
-},
-{
-"id": "early-roman-kings-b78beab6",
-"text": "All the early Roman kings in their sharkskin suits",
-"tags": [
-"power",
-"corruption",
-"america"
-],
-"song": "Early Roman Kings",
-"song_slug": "early-roman-kings",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/early-roman-kings/"
-},
-{
-"id": "pay-blood-5fe135f4",
-"text": "I pay in blood, but not my own",
-"tags": [
-"anger",
-"justice",
-"endurance"
-],
-"song": "Pay in Blood",
-"song_slug": "pay-blood",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/pay-blood/"
-},
-{
-"id": "tempest-5ee5871d",
-"text": "The pale moon rose in its glory, out on the Western town",
-"tags": [
-"disaster",
-"story",
-"tragedy"
-],
-"song": "Tempest",
-"song_slug": "tempest",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/tempest/"
-},
-{
-"id": "roll-john-36af12a6",
-"text": "Shine your light, move it on, you burned so bright, roll on, John",
-"tags": [
-"memory",
 "friendship",
-"tribute"
-],
-"song": "Roll on John",
-"song_slug": "roll-john",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/roll-john/"
-},
-{
-"id": "narrow-way-ddcb1897",
-"text": "It’s a long road, it’s a long and narrow way",
-"tags": [
-"faith",
-"journey",
-"endurance"
-],
-"song": "Narrow Way",
-"song_slug": "narrow-way",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/narrow-way/"
-},
-{
-"id": "duquesne-whistle-fd143617",
-"text": "Can’t you hear that Duquesne whistle blowing?",
-"tags": [
-"travel",
-"memory",
-"time"
-],
-"song": "Duquesne Whistle",
-"song_slug": "duquesne-whistle",
-"album": "Tempest",
-"album_slug": "tempest",
-"year": 2012,
-"official": "https://www.bobdylan.com/songs/duquesne-whistle/"
-},
-{
-"id": "i-contain-multitudes-7fe1198b",
-"text": "I contain multitudes",
-"tags": [
-"identity",
-"paradox",
-"self"
-],
-"song": "I Contain Multitudes",
-"song_slug": "i-contain-multitudes",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/i-contain-multitudes/"
-},
-{
-"id": "i-contain-multitudes-b7ade699",
-"text": "I’m a man of contradictions, I’m a man of many moods",
-"tags": [
-"identity",
-"paradox",
-"self"
-],
-"song": "I Contain Multitudes",
-"song_slug": "i-contain-multitudes",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/i-contain-multitudes/"
-},
-{
-"id": "false-prophet-0e314f92",
-"text": "I’m the enemy of the unlived meaningless life",
-"tags": [
-"identity",
-"warning",
-"self"
-],
-"song": "False Prophet",
-"song_slug": "false-prophet",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/false-prophet/"
-},
-{
-"id": "ive-made-up-my-mind-to-give-myself-to-you-d973bf82",
-"text": "I’m giving myself to you, I am",
-"tags": [
-"love",
-"devotion",
-"decision"
-],
-"song": "I’ve Made Up My Mind to Give Myself to You",
-"song_slug": "ive-made-up-my-mind-to-give-myself-to-you",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/ive-made-up-my-mind-to-give-myself-to-you/"
-},
-{
-"id": "black-rider-8c9f6926",
-"text": "Black rider, black rider, hold it right there",
-"tags": [
-"warning",
-"death",
-"mystery"
-],
-"song": "Black Rider",
-"song_slug": "black-rider",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/black-rider/"
-},
-{
-"id": "goodbye-jimmy-reed-c3da56e8",
-"text": "Goodbye Jimmy Reed, goodbye, so long",
-"tags": [
-"blues",
-"tribute",
-"memory"
-],
-"song": "Goodbye Jimmy Reed",
-"song_slug": "goodbye-jimmy-reed",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/goodbye-jimmy-reed/"
-},
-{
-"id": "mother-of-muses-d83fe45d",
-"text": "Mother of Muses, sing for me",
-"tags": [
-"art",
-"history",
-"prayer"
-],
-"song": "Mother of Muses",
-"song_slug": "mother-of-muses",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/mother-of-muses/"
-},
-{
-"id": "crossing-the-rubicon-4c9275b5",
-"text": "I crossed the Rubicon, I stood between heaven and earth",
-"tags": [
-"decision",
-"fate",
+"gratitude",
 "journey"
 ],
-"song": "Crossing the Rubicon",
-"song_slug": "crossing-the-rubicon",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/crossing-the-rubicon/"
+"song": "Mississippi",
+"song_slug": "mississippi",
+"album": "“Love and Theft”",
+"album_slug": "love-and-theft",
+"year": 2001,
+"official": "https://www.bobdylan.com/songs/mississippi/"
 },
 {
-"id": "key-west-philosopher-pirate-6c35b773",
-"text": "Key West is the place to be, if you choose, if you choose",
+"id": "knockin-heavens-door-a0d0abad",
+"text": "Mama, take this badge off of me, I can’t use it anymore",
 "tags": [
-"place",
-"escape",
-"vision"
-],
-"song": "Key West (Philosopher Pirate)",
-"song_slug": "key-west-philosopher-pirate",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/key-west-philosopher-pirate/"
-},
-{
-"id": "murder-most-foul-5ff83287",
-"text": "Murder most foul",
-"tags": [
-"history",
-"tragedy",
-"america"
-],
-"song": "Murder Most Foul",
-"song_slug": "murder-most-foul",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/murder-most-foul/"
-},
-{
-"id": "murder-most-foul-3e2e63a7",
-"text": "Play me a song, Mr. Wolfman Jack",
-"tags": [
-"memory",
-"music",
-"history"
-],
-"song": "Murder Most Foul",
-"song_slug": "murder-most-foul",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/murder-most-foul/"
-},
-{
-"id": "my-own-version-of-you-327bfa13",
-"text": "I’ll take the Scarface Pacino and the Godfather Brando",
-"tags": [
-"creation",
-"identity",
-"art"
-],
-"song": "My Own Version of You",
-"song_slug": "my-own-version-of-you",
-"album": "Rough and Rowdy Ways",
-"album_slug": "rough-and-rowdy-ways",
-"year": 2020,
-"official": "https://www.bobdylan.com/songs/my-own-version-of-you/"
-},
-{
-"id": "trying-get-heaven-b8cce159",
-"text": "When I was in Missouri, they would not let me be",
-"tags": [
-"journey",
 "death",
-"exclusion"
+"mortality",
+"surrender"
 ],
-"song": "Tryin’ to Get to Heaven",
-"song_slug": "trying-get-heaven",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/trying-get-heaven/"
-},
-{
-"id": "watching-river-flow-a1f2482d",
-"text": "I’ll just sit here and watch the river flow",
-"tags": [
-"patience",
-"peace",
-"time"
-],
-"song": "Watching the River Flow",
-"song_slug": "watching-river-flow",
-"album": "Bob Dylan’s Greatest Hits Volume II",
-"album_slug": "bob-dylans-greatest-hits-volume-ii",
-"year": 1971,
-"official": "https://www.bobdylan.com/songs/watching-river-flow/"
-},
-{
-"id": "when-i-paint-my-masterpiece-66df0feb",
-"text": "Someday, everything is gonna be diff’rent, when I paint my masterpiece",
-"tags": [
-"art",
-"hope",
-"ambition"
-],
-"song": "When I Paint My Masterpiece",
-"song_slug": "when-i-paint-my-masterpiece",
-"album": "Bob Dylan’s Greatest Hits Volume II",
-"album_slug": "bob-dylans-greatest-hits-volume-ii",
-"year": 1971,
-"official": "https://www.bobdylan.com/songs/when-i-paint-my-masterpiece/"
-},
-{
-"id": "you-angel-you-d782834e",
-"text": "You angel you, you got me under your wing",
-"tags": [
-"love",
-"joy",
-"devotion"
-],
-"song": "You Angel You",
-"song_slug": "you-angel-you",
-"album": "Planet Waves",
-"album_slug": "planet-waves",
-"year": 1974,
-"official": "https://www.bobdylan.com/songs/you-angel-you/"
-},
-{
-"id": "went-see-gypsy-01ffb4a3",
-"text": "He did it in Las Vegas, and he can do it here",
-"tags": [
-"search",
-"fame",
-"story"
-],
-"song": "Went to See the Gypsy",
-"song_slug": "went-see-gypsy",
-"album": "New Morning",
-"album_slug": "new-morning",
-"year": 1970,
-"official": "https://www.bobdylan.com/songs/went-see-gypsy/"
-},
-{
-"id": "if-dogs-run-free-0422be6b",
-"text": "If dogs run free, then why not we",
-"tags": [
-"freedom",
-"philosophy",
-"jazz"
-],
-"song": "If Dogs Run Free",
-"song_slug": "if-dogs-run-free",
-"album": "New Morning",
-"album_slug": "new-morning",
-"year": 1970,
-"official": "https://www.bobdylan.com/songs/if-dogs-run-free/"
-},
-{
-"id": "sign-on-the-cross-957d74b5",
-"text": "Watch the direction of the wind, and beware of the rising flood",
-"tags": [
-"faith",
-"warning",
-"journey"
-],
-"song": "Sign on the Cross",
-"song_slug": "sign-on-the-cross",
-"album": "The Bootleg Series, Vol. 11: The Basement Tapes RAW",
-"album_slug": "bootleg-series-vol-11-basement-tapes-raw",
-"year": 2014,
-"official": "https://www.bobdylan.com/songs/sign-on-the-cross/"
-},
-{
-"id": "are-you-ready-1fdc815d",
-"text": "Are you ready to meet Jesus?",
-"tags": [
-"faith",
-"judgment",
-"questions"
-],
-"song": "Are You Ready?",
-"song_slug": "are-you-ready",
-"album": "Saved",
-"album_slug": "saved",
-"year": 1980,
-"official": "https://www.bobdylan.com/songs/are-you-ready/"
-},
-{
-"id": "caribbean-wind-b45c299c",
-"text": "Atlantic City, two years later, under the Viaduct",
-"tags": [
-"memory",
-"love",
-"travel"
-],
-"song": "Caribbean Wind",
-"song_slug": "caribbean-wind",
-"album": "Biograph",
-"album_slug": "biograph",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/caribbean-wind/"
-},
-{
-"id": "me-6d6b4f82",
-"text": "If I’d thought about it, I never would have done it, I guess I would have let it slide",
-"tags": [
-"responsibility",
-"love",
-"regret"
-],
-"song": "Up to Me",
-"song_slug": "me",
-"album": "Biograph",
-"album_slug": "biograph",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/me/"
-},
-{
-"id": "farewell-angelina-dfae94b0",
-"text": "Farewell, Angelina, the sky is on fire",
-"tags": [
-"farewell",
-"change",
-"vision"
-],
-"song": "Farewell, Angelina",
-"song_slug": "farewell-angelina",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/farewell-angelina/"
-},
-{
-"id": "mama-you-been-my-mind-8bbcf446",
-"text": "I don’t mean trouble, please don’t put me down or get upset",
-"tags": [
-"love",
-"memory",
-"longing"
-],
-"song": "Mama, You Been On My Mind",
-"song_slug": "mama-you-been-my-mind",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/mama-you-been-my-mind/"
-},
-{
-"id": "tomorrow-long-time-ad85a130",
-"text": "Yes, and only if my own true love was waitin’",
-"tags": [
-"love",
-"longing",
-"time"
-],
-"song": "Tomorrow Is a Long Time",
-"song_slug": "tomorrow-long-time",
+"song": "Knockin’ On Heaven’s Door",
+"song_slug": "knockin-heavens-door",
 "album": "The Complete Budokan 1978",
 "album_slug": "the-complete-budokan-1978",
 "year": 2023,
-"official": "https://www.bobdylan.com/songs/tomorrow-long-time/"
+"official": "https://www.bobdylan.com/songs/knockin-heavens-door/"
 },
 {
-"id": "lay-down-your-weary-tune-1da5f49c",
-"text": "Lay down your weary tune, lay down",
-"tags": [
-"music",
-"rest",
-"nature"
-],
-"song": "Lay Down Your Weary Tune",
-"song_slug": "lay-down-your-weary-tune",
-"album": "Biograph",
-"album_slug": "biograph",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/lay-down-your-weary-tune/"
-},
-{
-"id": "let-me-die-my-footsteps-0511d1c7",
-"text": "Let me die in my footsteps, before I go down under the ground",
-"tags": [
-"defiance",
-"freedom",
-"death"
-],
-"song": "Let Me Die in My Footsteps",
-"song_slug": "let-me-die-my-footsteps",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/let-me-die-my-footsteps/"
-},
-{
-"id": "paths-victory-2079568d",
-"text": "Trails of troubles, roads of battles, paths of victory we shall walk",
-"tags": [
-"hope",
-"struggle",
-"journey"
-],
-"song": "Paths of Victory",
-"song_slug": "paths-victory",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/paths-victory/"
-},
-{
-"id": "wallflower-0b9fd881",
-"text": "Wallflower, wallflower, won’t you dance with me",
-"tags": [
-"love",
-"invitation",
-"loneliness"
-],
-"song": "Wallflower",
-"song_slug": "wallflower",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/wallflower/"
-},
-{
-"id": "nobody-cept-you-4cd54a16",
-"text": "Nothing around me reminds me of home, except you",
-"tags": [
-"love",
-"home",
-"devotion"
-],
-"song": "Nobody ‘Cept You",
-"song_slug": "nobody-cept-you",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/nobody-cept-you/"
-},
-{
-"id": "abandoned-love-2b2567af",
-"text": "I can’t play the game no more, I can’t abide by their rules",
-"tags": [
-"love",
-"farewell",
-"independence"
-],
-"song": "Abandoned Love",
-"song_slug": "abandoned-love",
-"album": "Biograph",
-"album_slug": "biograph",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/abandoned-love/"
-},
-{
-"id": "seven-days-821cf7f4",
-"text": "Seven days, seven more days she’ll be comin’",
-"tags": [
-"waiting",
-"love",
-"hope"
-],
-"song": "Seven Days",
-"song_slug": "seven-days",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/seven-days/"
-},
-{
-"id": "ye-shall-be-changed-c5ce217c",
-"text": "Ye shall be changed, ye shall be changed",
-"tags": [
-"faith",
-"transformation",
-"hope"
-],
-"song": "Ye Shall Be Changed",
-"song_slug": "ye-shall-be-changed",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"album_slug": "the-bootleg-series-vol-1-3-rare-and-unreleased-1961-1991",
-"year": 1991,
-"official": "https://www.bobdylan.com/songs/ye-shall-be-changed/"
-},
-{
-"id": "trust-yourself-c32706ee",
-"text": "Trust yourself, trust yourself to know the way that will prove true in the end",
-"tags": [
-"advice",
-"independence",
-"wisdom"
-],
-"song": "Trust Yourself",
-"song_slug": "trust-yourself",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/trust-yourself/"
-},
-{
-"id": "emotionally-yours-86629317",
-"text": "Come baby, find me, come baby, remind me of where I once begun",
-"tags": [
-"love",
-"devotion",
-"return"
-],
-"song": "Emotionally Yours",
-"song_slug": "emotionally-yours",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/emotionally-yours/"
-},
-{
-"id": "dark-eyes-11ae6242",
-"text": "A million faces at my window, but I still can see no one",
-"tags": [
-"loneliness",
-"vision",
-"night"
-],
-"song": "Dark Eyes",
-"song_slug": "dark-eyes",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/dark-eyes/"
-},
-{
-"id": "brownsville-girl-f2c6cb23",
-"text": "You always said people don’t do what they believe in, they just do what’s most convenient, then they repent",
-"tags": [
-"wisdom",
-"morality",
-"story"
-],
-"song": "Brownsville Girl",
-"song_slug": "brownsville-girl",
-"album": "Knocked Out Loaded",
-"album_slug": "knocked-out-loaded",
-"year": 1986,
-"official": "https://www.bobdylan.com/songs/brownsville-girl/"
-},
-{
-"id": "tight-connection-my-heart-has-anyone-seen-my-love-a5054dcd",
-"text": "You always said, “When I go, I’ll go just like I came”",
-"tags": [
-"love",
-"farewell",
-"identity"
-],
-"song": "Tight Connection to My Heart  (Has Anyone Seen My Love)",
-"song_slug": "tight-connection-my-heart-has-anyone-seen-my-love",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/tight-connection-my-heart-has-anyone-seen-my-love/"
-},
-{
-"id": "ill-remember-you-b332c3c9",
-"text": "I’ll remember you, when I’ve forgotten all the rest",
-"tags": [
-"memory",
-"love",
-"farewell"
-],
-"song": "I’ll Remember You",
-"song_slug": "ill-remember-you",
-"album": "Empire Burlesque",
-"album_slug": "empire-burlesque",
-"year": 1985,
-"official": "https://www.bobdylan.com/songs/ill-remember-you/"
-},
-{
-"id": "what-was-it-you-wanted-3db951dd",
-"text": "What was it you wanted? Tell me again so I’ll know",
-"tags": [
-"questions",
-"love",
-"confusion"
-],
-"song": "What Was It You Wanted?",
-"song_slug": "what-was-it-you-wanted",
-"album": "Oh Mercy",
-"album_slug": "oh-mercy",
-"year": 1989,
-"official": "https://www.bobdylan.com/songs/what-was-it-you-wanted/"
-},
-{
-"id": "born-time-8d6a2721",
-"text": "In the cities of lonesome fear, there’s a wandering, a wandering soul",
+"id": "youre-big-girl-now-8524e468",
+"text": "Time is a jet plane, it moves too fast",
 "tags": [
 "time",
-"journey",
-"america"
-],
-"song": "Born in Time",
-"song_slug": "born-time",
-"album": "Under the Red Sky",
-"album_slug": "under-red-sky",
-"year": 1990,
-"official": "https://www.bobdylan.com/songs/born-time/"
-},
-{
-"id": "standing-doorway-18910b7e",
-"text": "I’m beginning to hear voices and there’s no one around",
-"tags": [
 "love",
-"loneliness",
-"mortality"
+"loss"
 ],
-"song": "Standing in the Doorway",
-"song_slug": "standing-doorway",
-"album": "Time out of Mind",
-"album_slug": "time-out-of-mind",
-"year": 1997,
-"official": "https://www.bobdylan.com/songs/standing-doorway/"
+"song": "You’re a Big Girl Now",
+"song_slug": "youre-big-girl-now",
+"album": "The Complete Budokan 1978",
+"album_slug": "the-complete-budokan-1978",
+"year": 2023,
+"official": "https://www.bobdylan.com/songs/youre-big-girl-now/"
 }
 ]

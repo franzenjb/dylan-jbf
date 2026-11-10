@@ -1,19 +1,6 @@
 {
 "quotes": [
 {
-"id": "song-woody-03b964dd",
-"text": "Hey, hey, Woody Guthrie, I wrote you a song",
-"song": "Song to Woody",
-"song_slug": "song-woody",
-"album": "Bob Dylan",
-"year": 1962,
-"tags": [
-"memory",
-"influence",
-"folk"
-]
-},
-{
 "id": "blowin-wind-f029765e",
 "text": "The answer, my friend, is blowin’ in the wind",
 "song": "Blowin’ in the Wind",
@@ -22,8 +9,8 @@
 "year": 1963,
 "tags": [
 "protest",
-"freedom",
-"questions"
+"questions",
+"freedom"
 ]
 },
 {
@@ -34,9 +21,35 @@
 "album": "The Freewheelin’ Bob Dylan",
 "year": 1963,
 "tags": [
-"protest",
 "questions",
-"identity"
+"identity",
+"protest"
+]
+},
+{
+"id": "blowin-wind-ffaba5d4",
+"text": "How many times can a man turn his head and pretend that he just doesn’t see?",
+"song": "Blowin’ in the Wind",
+"song_slug": "blowin-wind",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"justice",
+"questions",
+"conscience"
+]
+},
+{
+"id": "blowin-wind-ecee82e3",
+"text": "How many deaths will it take till he knows that too many people have died?",
+"song": "Blowin’ in the Wind",
+"song_slug": "blowin-wind",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"war",
+"protest",
+"questions"
 ]
 },
 {
@@ -53,21 +66,86 @@
 ]
 },
 {
-"id": "masters-war-mono-9c9a1da7",
-"text": "You that never done nothin’ but build to destroy",
+"id": "hard-rains-gonna-fall-fc98bd16",
+"text": "And I’ll stand on the ocean until I start sinkin’",
+"song": "A Hard Rain’s A-Gonna Fall",
+"song_slug": "hard-rains-gonna-fall",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"endurance",
+"purpose",
+"art"
+]
+},
+{
+"id": "hard-rains-gonna-fall-99b19605",
+"text": "I’ll know my song well before I start singin’",
+"song": "A Hard Rain’s A-Gonna Fall",
+"song_slug": "hard-rains-gonna-fall",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"art",
+"purpose",
+"preparation"
+]
+},
+{
+"id": "masters-war-mono-95cf6330",
+"text": "All the money you made will never buy back your soul",
 "song": "Masters of War",
 "song_slug": "masters-war-mono",
 "album": "The Freewheelin’ Bob Dylan",
 "year": 1963,
 "tags": [
 "war",
-"protest",
-"power"
+"money",
+"morality"
 ]
 },
 {
-"id": "dont-think-twice-its-all-right-0dc47291",
-"text": "Don’t think twice, it’s all right",
+"id": "masters-war-mono-3fe19835",
+"text": "Even Jesus would never forgive what you do",
+"song": "Masters of War",
+"song_slug": "masters-war-mono",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"war",
+"morality",
+"faith"
+]
+},
+{
+"id": "masters-war-mono-7fbdf648",
+"text": "I just want you to know I can see through your masks",
+"song": "Masters of War",
+"song_slug": "masters-war-mono",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"war",
+"power",
+"truth"
+]
+},
+{
+"id": "dont-think-twice-its-all-right-86da1c11",
+"text": "I gave her my heart but she wanted my soul",
+"song": "Don’t Think Twice, It’s All Right",
+"song_slug": "dont-think-twice-its-all-right",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"love",
+"farewell",
+"loss"
+]
+},
+{
+"id": "dont-think-twice-its-all-right-a43cfaa6",
+"text": "You just kinda wasted my precious time, but don’t think twice, it’s all right",
 "song": "Don’t Think Twice, It’s All Right",
 "song_slug": "dont-think-twice-its-all-right",
 "album": "The Freewheelin’ Bob Dylan",
@@ -79,42 +157,29 @@
 ]
 },
 {
-"id": "dont-think-twice-its-all-right-ce2ca44e",
-"text": "You just kinda wasted my precious time",
+"id": "dont-think-twice-its-all-right-30aed9d1",
+"text": "Goodbye’s too good a word, babe, so I’ll just say fare thee well",
 "song": "Don’t Think Twice, It’s All Right",
 "song_slug": "dont-think-twice-its-all-right",
 "album": "The Freewheelin’ Bob Dylan",
 "year": 1963,
 "tags": [
-"love",
 "farewell",
-"bitterness"
-]
-},
-{
-"id": "girl-north-country-afdbbffa",
-"text": "Remember me to one who lives there, she once was a true love of mine",
-"song": "Girl from the North Country",
-"song_slug": "girl-north-country",
-"album": "The Freewheelin’ Bob Dylan",
-"year": 1963,
-"tags": [
 "love",
-"memory",
-"travel"
+"journey"
 ]
 },
 {
-"id": "oxford-town-20bca668",
-"text": "Oxford Town, Oxford Town, ev’rybody’s got their heads bowed down",
-"song": "Oxford Town",
-"song_slug": "oxford-town",
+"id": "talkin-world-war-iii-blues-b521beb2",
+"text": "I’ll let you be in my dreams if I can be in yours",
+"song": "Talkin’ World War III Blues",
+"song_slug": "talkin-world-war-iii-blues",
 "album": "The Freewheelin’ Bob Dylan",
 "year": 1963,
 "tags": [
-"protest",
-"race",
-"history"
+"dream",
+"friends",
+"humor"
 ]
 },
 {
@@ -125,22 +190,22 @@
 "album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
-"protest",
 "change",
-"history"
+"history",
+"protest"
 ]
 },
 {
-"id": "times-they-are-changin-c519b441",
-"text": "The first one now will later be last",
+"id": "times-they-are-changin-6681a038",
+"text": "Don’t criticize what you can’t understand",
 "song": "The Times They Are A-Changin’",
 "song_slug": "times-they-are-changin",
 "album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
 "change",
-"prophecy",
-"power"
+"generations",
+"wisdom"
 ]
 },
 {
@@ -157,8 +222,86 @@
 ]
 },
 {
-"id": "ballad-hollis-brown-cdcdd7d8",
-"text": "There’s seven people dead on a South Dakota farm",
+"id": "times-they-are-changin-9ce3ecce",
+"text": "You better start swimmin’ or you’ll sink like a stone",
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"change",
+"warning",
+"endurance"
+]
+},
+{
+"id": "times-they-are-changin-c2187345",
+"text": "The loser now will be later to win",
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"change",
+"prophecy",
+"hope"
+]
+},
+{
+"id": "times-they-are-changin-30284e24",
+"text": "Don’t stand in the doorway, don’t block up the hall",
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"change",
+"power",
+"leadership"
+]
+},
+{
+"id": "times-they-are-changin-fdb050ff",
+"text": "The order is rapidly fadin’, and the first one now will later be last",
+"song": "The Times They Are A-Changin’",
+"song_slug": "times-they-are-changin",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"change",
+"power",
+"prophecy"
+]
+},
+{
+"id": "god-our-side-b21c469f",
+"text": "You never ask questions when God’s on your side",
+"song": "With God on Our Side",
+"song_slug": "god-our-side",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"war",
+"faith",
+"questions"
+]
+},
+{
+"id": "god-our-side-58e9c979",
+"text": "If God’s on our side, He’ll stop the next war",
+"song": "With God on Our Side",
+"song_slug": "god-our-side",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"war",
+"faith",
+"peace"
+]
+},
+{
+"id": "ballad-hollis-brown-4ae226b8",
+"text": "There’s seven people dead on a South Dakota farm; somewhere in the distance there’s seven new people born",
 "song": "Ballad of Hollis Brown",
 "song_slug": "ballad-hollis-brown",
 "album": "The Times They Are A-Changin’",
@@ -170,159 +313,172 @@
 ]
 },
 {
-"id": "god-our-side-3a9a7e9f",
-"text": "The First World War, boys, it came and it went",
-"song": "With God on Our Side",
-"song_slug": "god-our-side",
+"id": "restless-farewell-bf02bd7c",
+"text": "So I’ll make my stand and remain as I am, and bid farewell and not give a damn",
+"song": "Restless Farewell",
+"song_slug": "restless-farewell",
 "album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
-"war",
-"faith",
-"history"
-]
-},
-{
-"id": "only-pawn-their-game-2a8100df",
-"text": "He’s only a pawn in their game",
-"song": "Only a Pawn in Their Game",
-"song_slug": "only-pawn-their-game",
-"album": "The Times They Are A-Changin’",
-"year": 1964,
-"tags": [
-"race",
-"power",
-"protest"
-]
-},
-{
-"id": "lonesome-death-hattie-carroll-3003c12d",
-"text": "But you who philosophize disgrace and criticize all fears",
-"song": "The Lonesome Death of Hattie Carroll",
-"song_slug": "lonesome-death-hattie-carroll",
-"album": "The Times They Are A-Changin’",
-"year": 1964,
-"tags": [
-"justice",
-"race",
-"class"
-]
-},
-{
-"id": "when-ship-comes-8c4baddd",
-"text": "And the words that are used for to get the ship confused will not be understood as they’re spoken",
-"song": "When the Ship Comes in",
-"song_slug": "when-ship-comes",
-"album": "The Times They Are A-Changin’",
-"year": 1964,
-"tags": [
-"change",
-"prophecy",
-"justice"
-]
-},
-{
-"id": "one-too-many-mornings-1f2d6797",
-"text": "I’m one too many mornings and a thousand miles behind",
-"song": "One Too Many Mornings",
-"song_slug": "one-too-many-mornings",
-"album": "The Times They Are A-Changin’",
-"year": 1964,
-"tags": [
+"independence",
 "farewell",
-"distance",
-"time"
+"defiance"
 ]
 },
 {
-"id": "boots-spanish-leather-64df04a3",
-"text": "Is there something I can send you from across the sea",
+"id": "boots-spanish-leather-bb24ce25",
+"text": "I’d forsake them all for your sweet kiss, for that’s all I’m wishin’ to be ownin’",
 "song": "Boots of Spanish Leather",
 "song_slug": "boots-spanish-leather",
 "album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
 "love",
-"farewell",
+"devotion",
 "travel"
 ]
 },
 {
-"id": "it-aint-me-babe-e49f055e",
-"text": "It ain’t me, babe, no, no, no, it ain’t me, babe",
-"song": "It Ain’t Me, Babe",
-"song_slug": "it-aint-me-babe",
-"album": "Another Side of Bob Dylan",
+"id": "one-too-many-mornings-1214710a",
+"text": "You’re right from your side, I’m right from mine",
+"song": "One Too Many Mornings",
+"song_slug": "one-too-many-mornings",
+"album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
 "love",
-"independence",
-"identity"
+"perspective",
+"farewell"
 ]
 },
 {
-"id": "all-i-really-want-do-50faae9e",
-"text": "All I really want to do is, baby, be friends with you",
+"id": "girl-north-country-afdbbffa",
+"text": "Remember me to one who lives there, she once was a true love of mine",
+"song": "Girl from the North Country",
+"song_slug": "girl-north-country",
+"album": "The Freewheelin’ Bob Dylan",
+"year": 1963,
+"tags": [
+"love",
+"memory",
+"travel"
+]
+},
+{
+"id": "song-woody-fc1c43f5",
+"text": "Here’s to the hearts and the hands of the men that come with the dust and are gone with the wind",
+"song": "Song to Woody",
+"song_slug": "song-woody",
+"album": "Bob Dylan",
+"year": 1962,
+"tags": [
+"tribute",
+"influence",
+"labor"
+]
+},
+{
+"id": "song-woody-32b04618",
+"text": "Walkin’ a road other men have gone down",
+"song": "Song to Woody",
+"song_slug": "song-woody",
+"album": "Bob Dylan",
+"year": 1962,
+"tags": [
+"journey",
+"influence",
+"tradition"
+]
+},
+{
+"id": "talkin-new-york-361242b2",
+"text": "Some people rob you with a fountain pen",
+"song": "Talkin’ New York",
+"song_slug": "talkin-new-york",
+"album": "Bob Dylan",
+"year": 1962,
+"tags": [
+"money",
+"power",
+"humor"
+]
+},
+{
+"id": "all-i-really-want-do-14ae7942",
+"text": "I ain’t lookin’ for you to feel like me, see like me or be like me",
 "song": "All I Really Want to Do",
 "song_slug": "all-i-really-want-do",
 "album": "Another Side of Bob Dylan",
 "year": 1964,
 "tags": [
 "love",
-"independence",
-"humor"
+"friends",
+"independence"
 ]
 },
 {
-"id": "chimes-freedom-cdf92f5e",
-"text": "Tolling for the searching ones, on their speechless, seeking trail",
+"id": "my-back-pages-8a69d33b",
+"text": "Ah, but I was so much older then, I’m younger than that now",
+"song": "My Back Pages",
+"song_slug": "my-back-pages",
+"album": "Another Side of Bob Dylan",
+"year": 1964,
+"tags": [
+"youth",
+"change",
+"wisdom"
+]
+},
+{
+"id": "my-back-pages-cb342e70",
+"text": "Fearing not that I’d become my enemy in the instant that I preach",
+"song": "My Back Pages",
+"song_slug": "my-back-pages",
+"album": "Another Side of Bob Dylan",
+"year": 1964,
+"tags": [
+"self",
+"truth",
+"wisdom"
+]
+},
+{
+"id": "ramona-a2fa8404",
+"text": "Everything passes, everything changes, just do what you think you should do",
+"song": "To Ramona",
+"song_slug": "ramona",
+"album": "Another Side of Bob Dylan",
+"year": 1964,
+"tags": [
+"change",
+"advice",
+"independence"
+]
+},
+{
+"id": "chimes-freedom-444778fb",
+"text": "Flashing for the warriors whose strength is not to fight",
 "song": "Chimes of Freedom",
 "song_slug": "chimes-freedom",
 "album": "Another Side of Bob Dylan",
 "year": 1964,
 "tags": [
 "freedom",
-"justice",
+"peace",
 "compassion"
 ]
 },
 {
-"id": "my-back-pages-357b0933",
-"text": "I was so much older then, I’m younger than that now",
-"song": "My Back Pages",
-"song_slug": "my-back-pages",
+"id": "i-shall-be-free-no-10-399504b1",
+"text": "I’m a poet, and I know it",
+"song": "I Shall Be Free No. 10",
+"song_slug": "i-shall-be-free-no-10",
 "album": "Another Side of Bob Dylan",
 "year": 1964,
 "tags": [
-"identity",
-"time",
-"wisdom"
-]
-},
-{
-"id": "ramona-98b537bc",
-"text": "The flowered bones and hidden thoughts can no longer remain still",
-"song": "To Ramona",
-"song_slug": "ramona",
-"album": "Another Side of Bob Dylan",
-"year": 1964,
-"tags": [
-"love",
-"advice",
-"independence"
-]
-},
-{
-"id": "motorpsycho-nightmare-0d553d87",
-"text": "I was listenin’ to the postman, I was listenin’ to the rain",
-"song": "Motorpsycho Nightmare",
-"song_slug": "motorpsycho-nightmare",
-"album": "Another Side of Bob Dylan",
-"year": 1964,
-"tags": [
+"art",
 "humor",
-"america",
-"story"
+"identity"
 ]
 },
 {
@@ -333,22 +489,87 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"protest",
-"advice",
-"change"
+"wisdom",
+"truth",
+"protest"
 ]
 },
 {
-"id": "subterranean-homesick-blues-c9b50dac",
-"text": "The pump don’t work ’cause the vandals took the handles",
+"id": "subterranean-homesick-blues-fac2dc7e",
+"text": "Don’t follow leaders, watch the parkin’ meters",
 "song": "Subterranean Homesick Blues",
 "song_slug": "subterranean-homesick-blues",
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"chaos",
-"america",
+"independence",
+"power",
+"advice"
+]
+},
+{
+"id": "subterranean-homesick-blues-7e3ab404",
+"text": "Twenty years of schoolin’ and they put you on the day shift",
+"song": "Subterranean Homesick Blues",
+"song_slug": "subterranean-homesick-blues",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"youth",
+"labor",
+"disillusion"
+]
+},
+{
+"id": "she-belongs-me-75ed7722",
+"text": "She’s got everything she needs, she’s an artist, she don’t look back",
+"song": "She Belongs to Me",
+"song_slug": "she-belongs-me",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"art",
+"independence",
+"women"
+]
+},
+{
+"id": "she-belongs-me-7d663055",
+"text": "She never stumbles, she’s got no place to fall",
+"song": "She Belongs to Me",
+"song_slug": "she-belongs-me",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"independence",
+"women",
+"freedom"
+]
+},
+{
+"id": "she-belongs-me-2ef8cdfe",
+"text": "She’s a hypnotist collector, you are a walking antique",
+"song": "She Belongs to Me",
+"song_slug": "she-belongs-me",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"love",
+"art",
 "humor"
+]
+},
+{
+"id": "maggies-farm-288b57ad",
+"text": "I try my best to be just like I am, but everybody wants you to be just like them",
+"song": "Maggie’s Farm",
+"song_slug": "maggies-farm",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"identity",
+"independence",
+"labor"
 ]
 },
 {
@@ -359,9 +580,9 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
+"labor",
 "independence",
-"protest",
-"labor"
+"defiance"
 ]
 },
 {
@@ -372,22 +593,48 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"love",
+"paradox",
 "wisdom",
-"paradox"
+"success"
 ]
 },
 {
-"id": "mr-tambourine-man-3444186a",
-"text": "Hey! Mr. Tambourine Man, play a song for me",
+"id": "love-minus-zero-no-limit-19b67c66",
+"text": "People talk of situations, read books, repeat quotations, draw conclusions on the wall",
+"song": "Love Minus Zero/No Limit",
+"song_slug": "love-minus-zero-no-limit",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"wisdom",
+"paradox",
+"society"
+]
+},
+{
+"id": "love-minus-zero-no-limit-df66a89c",
+"text": "In ceremonies of the horsemen, even the pawn must hold a grudge",
+"song": "Love Minus Zero/No Limit",
+"song_slug": "love-minus-zero-no-limit",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"power",
+"paradox",
+"wisdom"
+]
+},
+{
+"id": "mr-tambourine-man-a3c3107d",
+"text": "Hey, Mr. Tambourine Man, play a song for me",
 "song": "Mr. Tambourine Man",
 "song_slug": "mr-tambourine-man",
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"escape",
 "music",
-"vision"
+"dream",
+"freedom"
 ]
 },
 {
@@ -398,9 +645,61 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"escape",
 "freedom",
-"vision"
+"joy",
+"music"
+]
+},
+{
+"id": "mr-tambourine-man-f3bc588d",
+"text": "Let me forget about today until tomorrow",
+"song": "Mr. Tambourine Man",
+"song_slug": "mr-tambourine-man",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"escape",
+"time",
+"dream"
+]
+},
+{
+"id": "mr-tambourine-man-2b9b20c1",
+"text": "Take me disappearin’ through the smoke rings of my mind",
+"song": "Mr. Tambourine Man",
+"song_slug": "mr-tambourine-man",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"escape",
+"dream",
+"music"
+]
+},
+{
+"id": "gates-eden-30276946",
+"text": "There are no truths outside the Gates of Eden",
+"song": "Gates of Eden",
+"song_slug": "gates-eden",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"truth",
+"faith",
+"paradox"
+]
+},
+{
+"id": "gates-eden-e2496b4d",
+"text": "Upon four-legged forest clouds the cowboy angel rides",
+"song": "Gates of Eden",
+"song_slug": "gates-eden",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"vision",
+"surreal",
+"faith"
 ]
 },
 {
@@ -411,9 +710,9 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"wisdom",
 "life",
-"warning"
+"change",
+"wisdom"
 ]
 },
 {
@@ -424,9 +723,9 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"power",
 "money",
-"america"
+"power",
+"wisdom"
 ]
 },
 {
@@ -443,16 +742,42 @@
 ]
 },
 {
-"id": "gates-eden-30276946",
-"text": "There are no truths outside the Gates of Eden",
-"song": "Gates of Eden",
-"song_slug": "gates-eden",
+"id": "its-alright-ma-im-only-bleeding-ff1440c8",
+"text": "It’s easy to see without lookin’ too far that not much is really sacred",
+"song": "It’s Alright, Ma (I’m Only Bleeding)",
+"song_slug": "its-alright-ma-im-only-bleeding",
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
 "faith",
-"vision",
-"wisdom"
+"disillusion",
+"society"
+]
+},
+{
+"id": "its-alright-ma-im-only-bleeding-71e16f08",
+"text": "If my thought-dreams could be seen, they’d probably put my head in a guillotine",
+"song": "It’s Alright, Ma (I’m Only Bleeding)",
+"song_slug": "its-alright-ma-im-only-bleeding",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"freedom",
+"dream",
+"power"
+]
+},
+{
+"id": "its-alright-ma-im-only-bleeding-cbd07a62",
+"text": "Others say don’t hate nothing at all except hatred",
+"song": "It’s Alright, Ma (I’m Only Bleeding)",
+"song_slug": "its-alright-ma-im-only-bleeding",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"wisdom",
+"morality",
+"peace"
 ]
 },
 {
@@ -463,22 +788,48 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"farewell",
 "change",
-"advice"
+"farewell",
+"hope"
 ]
 },
 {
-"id": "rolling-stone-45a2c1af",
-"text": "How does it feel?",
+"id": "its-all-over-now-baby-blue-24c4b2fd",
+"text": "The highway is for gamblers, better use your sense",
+"song": "It’s All Over Now, Baby Blue",
+"song_slug": "its-all-over-now-baby-blue",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"advice",
+"journey",
+"wisdom"
+]
+},
+{
+"id": "its-all-over-now-baby-blue-6211de0f",
+"text": "Leave your stepping stones behind, something calls for you",
+"song": "It’s All Over Now, Baby Blue",
+"song_slug": "its-all-over-now-baby-blue",
+"album": "Bringing It All Back Home",
+"year": 1965,
+"tags": [
+"change",
+"farewell",
+"journey"
+]
+},
+{
+"id": "rolling-stone-eb726734",
+"text": "How does it feel to be on your own, with no direction home, like a complete unknown, like a rolling stone?",
 "song": "Like a Rolling Stone",
 "song_slug": "rolling-stone",
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
 "identity",
-"fall",
-"questions"
+"loss",
+"freedom"
 ]
 },
 {
@@ -489,48 +840,87 @@
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
-"independence",
-"fall",
+"freedom",
+"loss",
 "wisdom"
 ]
 },
 {
-"id": "rolling-stone-cc8e283a",
-"text": "Once upon a time you dressed so fine",
+"id": "rolling-stone-ac2c4d86",
+"text": "You’re invisible now, you got no secrets to conceal",
 "song": "Like a Rolling Stone",
 "song_slug": "rolling-stone",
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
+"loss",
 "identity",
-"fall",
-"memory"
+"truth"
 ]
 },
 {
-"id": "ballad-thin-man-ec57a945",
-"text": "Because something is happening here but you don’t know what it is, do you, Mister Jones?",
+"id": "positively-4th-street-c545fe41",
+"text": "I wish that for just one time you could stand inside my shoes",
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"year": 1967,
+"tags": [
+"empathy",
+"bitterness",
+"friends"
+]
+},
+{
+"id": "positively-4th-street-e140448b",
+"text": "You’d know what a drag it is to see you",
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"year": 1967,
+"tags": [
+"bitterness",
+"humor",
+"friends"
+]
+},
+{
+"id": "positively-4th-street-afca9f80",
+"text": "You got a lotta nerve to say you are my friend",
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"year": 1967,
+"tags": [
+"bitterness",
+"friends",
+"betrayal"
+]
+},
+{
+"id": "positively-4th-street-7259b102",
+"text": "You say you lost your faith, but that’s not where it’s at; you had no faith to lose",
+"song": "Positively 4th Street",
+"song_slug": "positively-4th-street",
+"album": "Bob Dylan’s Greatest Hits",
+"year": 1967,
+"tags": [
+"faith",
+"bitterness",
+"truth"
+]
+},
+{
+"id": "ballad-thin-man-7779f171",
+"text": "Something is happening here but you don’t know what it is, do you, Mister Jones?",
 "song": "Ballad of a Thin Man",
 "song_slug": "ballad-thin-man",
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
-"identity",
+"change",
 "confusion",
-"culture"
-]
-},
-{
-"id": "highway-61-revisited-1e28fb0e",
-"text": "God said to Abraham, “Kill me a son”",
-"song": "Highway 61 Revisited",
-"song_slug": "highway-61-revisited",
-"album": "Highway 61 Revisited",
-"year": 1965,
-"tags": [
-"faith",
-"story",
-"america"
+"generations"
 ]
 },
 {
@@ -543,7 +933,59 @@
 "tags": [
 "humor",
 "surreal",
-"america"
+"fear"
+]
+},
+{
+"id": "tombstone-blues-5894d373",
+"text": "Stop all this weeping, swallow your pride, you will not die, it’s not poison",
+"song": "Tombstone Blues",
+"song_slug": "tombstone-blues",
+"album": "Highway 61 Revisited",
+"year": 1965,
+"tags": [
+"advice",
+"endurance",
+"humor"
+]
+},
+{
+"id": "highway-61-revisited-1e28fb0e",
+"text": "God said to Abraham, “Kill me a son”",
+"song": "Highway 61 Revisited",
+"song_slug": "highway-61-revisited",
+"album": "Highway 61 Revisited",
+"year": 1965,
+"tags": [
+"faith",
+"america",
+"surreal"
+]
+},
+{
+"id": "just-tom-thumbs-blues-ed962dbd",
+"text": "The cops don’t need you, and man, they expect the same",
+"song": "Just Like Tom Thumb’s Blues",
+"song_slug": "just-tom-thumbs-blues",
+"album": "Highway 61 Revisited",
+"year": 1965,
+"tags": [
+"outlaw",
+"warning",
+"humor"
+]
+},
+{
+"id": "it-takes-lot-laugh-it-takes-train-cry-313b17dc",
+"text": "I wanna be your lover, baby, I don’t wanna be your boss",
+"song": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+"song_slug": "it-takes-lot-laugh-it-takes-train-cry",
+"album": "Highway 61 Revisited",
+"year": 1965,
+"tags": [
+"love",
+"equality",
+"devotion"
 ]
 },
 {
@@ -554,48 +996,48 @@
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
-"surreal",
 "america",
-"vision"
+"violence",
+"surreal"
 ]
 },
 {
-"id": "queen-jane-approximately-2f7db83c",
-"text": "Won’t you come see me, Queen Jane?",
-"song": "Queen Jane Approximately",
-"song_slug": "queen-jane-approximately",
+"id": "desolation-row-26a57340",
+"text": "When you asked how I was doing, was that some kind of joke?",
+"song": "Desolation Row",
+"song_slug": "desolation-row",
 "album": "Highway 61 Revisited",
 "year": 1965,
-"tags": [
-"love",
-"invitation",
-"loneliness"
-]
-},
-{
-"id": "just-tom-thumbs-blues-a2639a8c",
-"text": "I’m going back to New York City, I do believe I’ve had enough",
-"song": "Just Like Tom Thumb’s Blues",
-"song_slug": "just-tom-thumbs-blues",
-"album": "Highway 61 Revisited",
-"year": 1965,
-"tags": [
-"travel",
-"exhaustion",
-"america"
-]
-},
-{
-"id": "positively-4th-street-c545fe41",
-"text": "I wish that for just one time you could stand inside my shoes",
-"song": "Positively 4th Street",
-"song_slug": "positively-4th-street",
-"album": "Bob Dylan’s Greatest Hits",
-"year": 1967,
 "tags": [
 "bitterness",
-"identity",
-"betrayal"
+"humor",
+"friends"
+]
+},
+{
+"id": "desolation-row-c600b83a",
+"text": "Ezra Pound and T. S. Eliot fighting in the captain’s tower",
+"song": "Desolation Row",
+"song_slug": "desolation-row",
+"album": "Highway 61 Revisited",
+"year": 1965,
+"tags": [
+"art",
+"surreal",
+"history"
+]
+},
+{
+"id": "desolation-row-8644cd33",
+"text": "At midnight all the agents and the superhuman crew come out and round up everyone that knows more than they do",
+"song": "Desolation Row",
+"song_slug": "desolation-row",
+"album": "Highway 61 Revisited",
+"year": 1965,
+"tags": [
+"power",
+"warning",
+"surreal"
 ]
 },
 {
@@ -608,46 +1050,20 @@
 "tags": [
 "humor",
 "defiance",
-"community"
+"society"
 ]
 },
 {
-"id": "i-want-you-deb39330",
-"text": "The guilty undertaker sighs, the lonesome organ grinder cries",
-"song": "I Want You",
-"song_slug": "i-want-you",
+"id": "stuck-inside-mobile-memphis-blues-again-d8516196",
+"text": "Oh, Mama, can this really be the end, to be stuck inside of Mobile with the Memphis blues again",
+"song": "Stuck Inside of Mobile with the Memphis Blues Again",
+"song_slug": "stuck-inside-mobile-memphis-blues-again",
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"love",
-"longing",
-"surreal"
-]
-},
-{
-"id": "just-woman-e5148972",
-"text": "She takes just like a woman, yes, she does",
-"song": "Just Like a Woman",
-"song_slug": "just-woman",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"love",
-"identity",
-"bitterness"
-]
-},
-{
-"id": "just-woman-56566f26",
-"text": "Nobody feels any pain tonight as I stand inside the rain",
-"song": "Just Like a Woman",
-"song_slug": "just-woman",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"love",
-"loneliness",
-"pain"
+"trapped",
+"blues",
+"humor"
 ]
 },
 {
@@ -658,9 +1074,22 @@
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"vision",
 "night",
-"loneliness"
+"longing",
+"mystery"
+]
+},
+{
+"id": "visions-johanna-b21016b4",
+"text": "We sit here stranded, though we’re all doin’ our best to deny it",
+"song": "Visions of Johanna",
+"song_slug": "visions-johanna",
+"album": "Blonde on Blonde",
+"year": 1966,
+"tags": [
+"trapped",
+"loneliness",
+"truth"
 ]
 },
 {
@@ -672,60 +1101,47 @@
 "year": 1966,
 "tags": [
 "vision",
-"love",
-"surreal"
+"surreal",
+"longing"
 ]
 },
 {
-"id": "sad-eyed-lady-lowlands-6f16d1ac",
-"text": "Sad-eyed lady of the lowlands, where the sad-eyed prophet says that no man comes",
-"song": "Sad-Eyed Lady of the Lowlands",
-"song_slug": "sad-eyed-lady-lowlands",
+"id": "visions-johanna-0ee1dd06",
+"text": "Mona Lisa musta had the highway blues, you can tell by the way she smiles",
+"song": "Visions of Johanna",
+"song_slug": "visions-johanna",
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"love",
-"devotion",
-"vision"
-]
-},
-{
-"id": "one-us-must-know-sooner-or-later-9c8c379d",
-"text": "I didn’t mean to treat you so bad, you shouldn’t take it so personal",
-"song": "One of Us Must Know  (Sooner or Later)",
-"song_slug": "one-us-must-know-sooner-or-later",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"love",
-"regret",
-"apology"
-]
-},
-{
-"id": "stuck-inside-mobile-memphis-blues-again-d8516196",
-"text": "Oh, Mama, can this really be the end, to be stuck inside of Mobile with the Memphis blues again",
-"song": "Stuck Inside of Mobile with the Memphis Blues Again",
-"song_slug": "stuck-inside-mobile-memphis-blues-again",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"travel",
-"trapped",
+"art",
+"humor",
 "blues"
 ]
 },
 {
-"id": "most-likely-you-go-your-way-and-ill-go-mine-7f8ab06d",
-"text": "The judge is coming in, everybody rise",
-"song": "Most Likely You Go Your Way (and I’ll Go Mine)",
-"song_slug": "most-likely-you-go-your-way-and-ill-go-mine",
+"id": "visions-johanna-2cb59670",
+"text": "Inside the museums, infinity goes up on trial",
+"song": "Visions of Johanna",
+"song_slug": "visions-johanna",
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"farewell",
-"independence",
-"love"
+"art",
+"time",
+"paradox"
+]
+},
+{
+"id": "just-woman-c00b3605",
+"text": "She aches just like a woman, but she breaks just like a little girl",
+"song": "Just Like a Woman",
+"song_slug": "just-woman",
+"album": "Blonde on Blonde",
+"year": 1966,
+"tags": [
+"love",
+"vulnerability",
+"women"
 ]
 },
 {
@@ -736,124 +1152,190 @@
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"wisdom",
 "outlaw",
-"paradox"
+"truth",
+"morality"
 ]
 },
 {
-"id": "i-want-you-7ed7c17f",
-"text": "I want you, I want you, I want you so bad",
-"song": "I Want You",
-"song_slug": "i-want-you",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"love",
-"longing"
-]
-},
-{
-"id": "fourth-time-around-a7256922",
-"text": "I never asked for your crutch, now don’t ask for mine",
-"song": "Fourth Time Around",
-"song_slug": "fourth-time-around",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"independence",
-"love",
-"bitterness"
-]
-},
-{
-"id": "obviously-five-believers-4d128553",
-"text": "Fifteen jugglers and five believers, all dressed like men",
-"song": "Obviously Five Believers",
-"song_slug": "obviously-five-believers",
-"album": "Blonde on Blonde",
-"year": 1966,
-"tags": [
-"surreal",
-"music",
-"humor"
-]
-},
-{
-"id": "all-along-watchtower-8a3e1762",
-"text": "There must be some way out of here, said the joker to the thief",
+"id": "all-along-watchtower-af6476ca",
+"text": "There must be some kind of way outta here, said the joker to the thief",
 "song": "All Along the Watchtower",
 "song_slug": "all-along-watchtower",
 "album": "John Wesley Harding",
 "year": 1967,
 "tags": [
-"warning",
-"trapped",
-"wisdom"
-]
-},
-{
-"id": "all-along-watchtower-497563af",
-"text": "The hour is getting late",
-"song": "All Along the Watchtower",
-"song_slug": "all-along-watchtower",
-"album": "John Wesley Harding",
-"year": 1967,
-"tags": [
-"warning",
-"time",
+"escape",
+"confusion",
 "prophecy"
 ]
 },
 {
-"id": "john-wesley-harding-f66dea28",
-"text": "John Wesley Harding was a friend to the poor",
-"song": "John Wesley Harding",
-"song_slug": "john-wesley-harding",
+"id": "all-along-watchtower-4dae9664",
+"text": "Let us not talk falsely now, the hour is getting late",
+"song": "All Along the Watchtower",
+"song_slug": "all-along-watchtower",
 "album": "John Wesley Harding",
 "year": 1967,
 "tags": [
-"outlaw",
-"story",
-"west"
+"truth",
+"time",
+"warning"
 ]
 },
 {
-"id": "i-dreamed-i-saw-st-augustine-e4d9b8a2",
-"text": "I dreamed I saw St. Augustine, alive as you or me",
-"song": "I Dreamed I Saw St. Augustine",
-"song_slug": "i-dreamed-i-saw-st-augustine",
+"id": "all-along-watchtower-aaf93059",
+"text": "There are many here among us who feel that life is but a joke",
+"song": "All Along the Watchtower",
+"song_slug": "all-along-watchtower",
 "album": "John Wesley Harding",
 "year": 1967,
 "tags": [
-"faith",
-"dream",
-"guilt"
-]
-},
-{
-"id": "wicked-messenger-0340b991",
-"text": "If you cannot bring good news, then don’t bring any",
-"song": "The Wicked Messenger",
-"song_slug": "wicked-messenger",
-"album": "John Wesley Harding",
-"year": 1967,
-"tags": [
-"warning",
+"life",
 "wisdom",
-"messenger"
+"faith"
 ]
 },
 {
-"id": "ill-be-your-baby-tonight-ce8aa028",
-"text": "Kick your shoes off, do not fear, bring that bottle over here",
-"song": "I’ll Be Your Baby Tonight",
-"song_slug": "ill-be-your-baby-tonight",
+"id": "all-along-watchtower-9e32beb5",
+"text": "Businessmen, they drink my wine, plowmen dig my earth",
+"song": "All Along the Watchtower",
+"song_slug": "all-along-watchtower",
 "album": "John Wesley Harding",
 "year": 1967,
+"tags": [
+"labor",
+"power",
+"disillusion"
+]
+},
+{
+"id": "i-am-lonesome-hobo-d410d45e",
+"text": "Stay free from petty jealousies, live by no man’s code",
+"song": "I Am A Lonesome Hobo",
+"song_slug": "i-am-lonesome-hobo",
+"album": "John Wesley Harding",
+"year": 1967,
+"tags": [
+"advice",
+"independence",
+"morality"
+]
+},
+{
+"id": "dear-landlord-183598af",
+"text": "If you don’t underestimate me, I won’t underestimate you",
+"song": "Dear Landlord",
+"song_slug": "dear-landlord",
+"album": "John Wesley Harding",
+"year": 1967,
+"tags": [
+"respect",
+"power",
+"wisdom"
+]
+},
+{
+"id": "ballad-frankie-lee-and-judas-priest-a450037f",
+"text": "Don’t go mistaking paradise for that home across the road",
+"song": "The Ballad of Frankie Lee and Judas Priest",
+"song_slug": "ballad-frankie-lee-and-judas-priest",
+"album": "John Wesley Harding",
+"year": 1967,
+"tags": [
+"advice",
+"faith",
+"morality"
+]
+},
+{
+"id": "ballad-frankie-lee-and-judas-priest-599bc240",
+"text": "Nothing is revealed",
+"song": "The Ballad of Frankie Lee and Judas Priest",
+"song_slug": "ballad-frankie-lee-and-judas-priest",
+"album": "John Wesley Harding",
+"year": 1967,
+"tags": [
+"mystery",
+"paradox",
+"faith"
+]
+},
+{
+"id": "lay-lady-lay-ce0c9c54",
+"text": "Whatever colors you have in your mind, I’ll show them to you and you’ll see them shine",
+"song": "Lay, Lady, Lay",
+"song_slug": "lay-lady-lay",
+"album": "Nashville Skyline",
+"year": 1969,
 "tags": [
 "love",
-"comfort",
+"invitation",
+"vision"
+]
+},
+{
+"id": "lay-lady-lay-9b5c89ec",
+"text": "Why wait any longer for the one you love when he’s standing in front of you",
+"song": "Lay, Lady, Lay",
+"song_slug": "lay-lady-lay",
+"album": "Nashville Skyline",
+"year": 1969,
+"tags": [
+"love",
+"invitation",
+"decision"
+]
+},
+{
+"id": "lay-lady-lay-1f3b89b6",
+"text": "His clothes are dirty but his hands are clean",
+"song": "Lay, Lady, Lay",
+"song_slug": "lay-lady-lay",
+"album": "Nashville Skyline",
+"year": 1969,
+"tags": [
+"love",
+"character",
+"invitation"
+]
+},
+{
+"id": "i-threw-it-all-away-a7db7f57",
+"text": "Love is all there is, it makes the world go ’round",
+"song": "I Threw It All Away",
+"song_slug": "i-threw-it-all-away",
+"album": "Nashville Skyline",
+"year": 1969,
+"tags": [
+"love",
+"regret",
+"wisdom"
+]
+},
+{
+"id": "be-alone-you-41b4eed1",
+"text": "While life’s pleasures be few, the only one I know is when I’m alone with you",
+"song": "To Be Alone with You",
+"song_slug": "be-alone-you",
+"album": "Nashville Skyline",
+"year": 1969,
+"tags": [
+"love",
+"devotion",
+"joy"
+]
+},
+{
+"id": "tonight-ill-be-staying-here-you-e5585083",
+"text": "Throw my ticket out the window, throw my suitcase out there too",
+"song": "Tonight I’ll Be Staying Here with You",
+"song_slug": "tonight-ill-be-staying-here-you",
+"album": "Nashville Skyline",
+"year": 1969,
+"tags": [
+"love",
+"decision",
 "home"
 ]
 },
@@ -865,9 +1347,9 @@
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
 "tags": [
-"freedom",
 "hope",
-"redemption"
+"redemption",
+"faith"
 ]
 },
 {
@@ -878,22 +1360,48 @@
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
 "tags": [
-"freedom",
 "hope",
+"freedom",
 "redemption"
 ]
 },
 {
-"id": "you-aint-goin-nowhere-8d553a48",
-"text": "Tomorrow’s the day my bride’s gonna come",
-"song": "You Ain’t Goin’ Nowhere",
-"song_slug": "you-aint-goin-nowhere",
+"id": "i-shall-be-released-13d82e78",
+"text": "They say ev’ry man needs protection, they say ev’ry man must fall",
+"song": "I Shall Be Released",
+"song_slug": "i-shall-be-released",
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
 "tags": [
-"hope",
-"home",
-"humor"
+"faith",
+"mortality",
+"hope"
+]
+},
+{
+"id": "crash-levee-down-flood-fbb456ab",
+"text": "If you go down in the flood, it’s gonna be your own fault",
+"song": "Crash on the Levee (Down in the Flood)",
+"song_slug": "crash-levee-down-flood",
+"album": "Bob Dylan’s Greatest Hits Volume II",
+"year": 1971,
+"tags": [
+"warning",
+"disaster",
+"responsibility"
+]
+},
+{
+"id": "open-door-homer-4ea5d0c7",
+"text": "Take care of all your memories, said my friend Mick, for you cannot relive them",
+"song": "Open the Door, Homer",
+"song_slug": "open-door-homer",
+"album": "The Basement Tapes",
+"year": 1975,
+"tags": [
+"memory",
+"wisdom",
+"time"
 ]
 },
 {
@@ -905,151 +1413,60 @@
 "year": 1975,
 "tags": [
 "warning",
-"change",
-"partnership"
+"journey",
+"disaster"
 ]
 },
 {
-"id": "crash-levee-down-flood-0e808aca",
-"text": "Crash on the levee, mama, water’s gonna overflow",
-"song": "Crash on the Levee (Down in the Flood)",
-"song_slug": "crash-levee-down-flood",
-"album": "Bob Dylan’s Greatest Hits Volume II",
-"year": 1971,
-"tags": [
-"disaster",
-"warning",
-"blues"
-]
-},
-{
-"id": "tiny-montgomery-228567ff",
-"text": "Well, it’s tough to talk to you, up there in the moonlight",
-"song": "Tiny Montgomery",
-"song_slug": "tiny-montgomery",
-"album": "The Basement Tapes",
-"year": 1975,
-"tags": [
-"humor",
-"invitation",
-"friends"
-]
-},
-{
-"id": "million-dollar-bash-8ba6d88c",
-"text": "Ooh, baby, ooh-ee, it’s that million dollar bash",
-"song": "Million Dollar Bash",
-"song_slug": "million-dollar-bash",
-"album": "The Basement Tapes",
-"year": 1975,
-"tags": [
-"humor",
-"party",
-"friends"
-]
-},
-{
-"id": "lay-lady-lay-197a8d94",
-"text": "Lay, lady, lay, lay across my big brass bed",
-"song": "Lay, Lady, Lay",
-"song_slug": "lay-lady-lay",
-"album": "Nashville Skyline",
-"year": 1969,
-"tags": [
-"love",
-"desire",
-"invitation"
-]
-},
-{
-"id": "i-threw-it-all-away-72100eb9",
-"text": "Once I had mountains in the palm of my hand, and rivers that ran through ev’ry day",
-"song": "I Threw It All Away",
-"song_slug": "i-threw-it-all-away",
-"album": "Nashville Skyline",
-"year": 1969,
-"tags": [
-"love",
-"regret",
-"loss"
-]
-},
-{
-"id": "tonight-ill-be-staying-here-you-6e57b1a7",
-"text": "Tonight I’ll be staying here with you",
-"song": "Tonight I’ll Be Staying Here with You",
-"song_slug": "tonight-ill-be-staying-here-you",
-"album": "Nashville Skyline",
-"year": 1969,
-"tags": [
-"love",
-"home",
-"devotion"
-]
-},
-{
-"id": "girl-north-country-7e0dd545",
-"text": "If you’re travelin’ in the north country fair",
-"song": "Girl from the North Country",
-"song_slug": "girl-north-country",
-"album": "The Freewheelin’ Bob Dylan",
-"year": 1963,
-"tags": [
-"love",
-"memory",
-"travel"
-]
-},
-{
-"id": "if-not-you-5cd254c5",
-"text": "If not for you, babe, I couldn’t find the door",
-"song": "If Not for You",
-"song_slug": "if-not-you",
-"album": "New Morning",
+"id": "quinn-eskimo-mighty-quinn-2e1be014",
+"text": "You’ll not see nothing like the mighty Quinn",
+"song": "Quinn the Eskimo  (The Mighty Quinn)",
+"song_slug": "quinn-eskimo-mighty-quinn",
+"album": "Self Portrait",
 "year": 1970,
 "tags": [
-"love",
-"gratitude",
-"devotion"
-]
-},
-{
-"id": "new-morning-0530e09c",
-"text": "This must be the day that all of my dreams come true",
-"song": "New Morning",
-"song_slug": "new-morning",
-"album": "New Morning",
-"year": 1970,
-"tags": [
+"joy",
 "hope",
-"renewal",
-"joy"
+"humor"
 ]
 },
 {
-"id": "man-me-3fc37923",
-"text": "The man in me will do nearly any task",
+"id": "man-me-0eafaede",
+"text": "The man in me will hide sometimes to keep from bein’ seen",
 "song": "The Man in Me",
 "song_slug": "man-me",
 "album": "The Complete Budokan 1978",
 "year": 2023,
 "tags": [
-"love",
 "identity",
-"devotion"
+"self",
+"love"
 ]
 },
 {
-"id": "day-locusts-5e5395cc",
-"text": "Oh, the locusts sang, and they were singing for me",
-"song": "Day of the Locusts",
-"song_slug": "day-locusts",
+"id": "time-passes-slowly-673a3206",
+"text": "Time passes slowly up here in the mountains",
+"song": "Time Passes Slowly",
+"song_slug": "time-passes-slowly",
 "album": "New Morning",
 "year": 1970,
 "tags": [
-"vision",
-"change",
-"nature"
+"time",
+"nature",
+"peace"
+]
+},
+{
+"id": "when-i-paint-my-masterpiece-52db10c4",
+"text": "Someday, everything is gonna be different when I paint my masterpiece",
+"song": "When I Paint My Masterpiece",
+"song_slug": "when-i-paint-my-masterpiece",
+"album": "Bob Dylan’s Greatest Hits Volume II",
+"year": 1971,
+"tags": [
+"art",
+"hope",
+"ambition"
 ]
 },
 {
@@ -1061,8 +1478,8 @@
 "year": 2023,
 "tags": [
 "death",
-"farewell",
-"peace"
+"mortality",
+"faith"
 ]
 },
 {
@@ -1087,47 +1504,60 @@
 "year": 2023,
 "tags": [
 "blessing",
-"hope",
-"life"
+"joy",
+"hope"
 ]
 },
 {
-"id": "night-b4d86078",
-"text": "On a night like this, I sow the seeds",
-"song": "On a Night Like This",
-"song_slug": "night",
-"album": "Planet Waves",
-"year": 1974,
-"tags": [
-"love",
-"night",
-"invitation"
-]
-},
-{
-"id": "going-going-gone-6961d2d9",
-"text": "I’ve just reached a place where the willow don’t bend",
-"song": "Going, Going, Gone",
-"song_slug": "going-going-gone",
+"id": "forever-young-2d86360f",
+"text": "May you build a ladder to the stars and climb on every rung",
+"song": "Forever Young",
+"song_slug": "forever-young",
 "album": "The Complete Budokan 1978",
 "year": 2023,
 "tags": [
-"change",
-"decision",
-"farewell"
+"blessing",
+"ambition",
+"hope"
 ]
 },
 {
-"id": "tough-mama-e6fe215c",
-"text": "Tough Mama, meat shakin’ on your bones",
-"song": "Tough Mama",
-"song_slug": "tough-mama",
-"album": "Planet Waves",
-"year": 1974,
+"id": "forever-young-d5e92ecd",
+"text": "May you always do for others and let others do for you",
+"song": "Forever Young",
+"song_slug": "forever-young",
+"album": "The Complete Budokan 1978",
+"year": 2023,
 "tags": [
-"desire",
-"music",
-"love"
+"blessing",
+"compassion",
+"wisdom"
+]
+},
+{
+"id": "forever-young-dd9b7bfc",
+"text": "May you have a strong foundation when the winds of changes shift",
+"song": "Forever Young",
+"song_slug": "forever-young",
+"album": "The Complete Budokan 1978",
+"year": 2023,
+"tags": [
+"blessing",
+"change",
+"endurance"
+]
+},
+{
+"id": "forever-young-168fd347",
+"text": "May you grow up to be righteous, may you grow up to be true",
+"song": "Forever Young",
+"song_slug": "forever-young",
+"album": "The Complete Budokan 1978",
+"year": 2023,
+"tags": [
+"blessing",
+"youth",
+"morality"
 ]
 },
 {
@@ -1140,25 +1570,77 @@
 "tags": [
 "love",
 "regret",
-"pain"
+"bitterness"
 ]
 },
 {
-"id": "something-there-about-you-f1e082e1",
-"text": "Something there is about you that strikes a match in me",
-"song": "Something There Is About You",
-"song_slug": "something-there-about-you",
+"id": "dirge-20ad6a18",
+"text": "The truth was obscure, too profound and too pure, to live it you had to explode",
+"song": "Dirge",
+"song_slug": "dirge",
 "album": "Planet Waves",
 "year": 1974,
 "tags": [
+"truth",
+"paradox",
+"art"
+]
+},
+{
+"id": "it-aint-me-babe-82fd7458",
+"text": "It ain’t me, babe, no, no, no, it ain’t me you’re looking for, babe",
+"song": "It Ain’t Me, Babe",
+"song_slug": "it-aint-me-babe",
+"album": "Another Side of Bob Dylan",
+"year": 1964,
+"tags": [
 "love",
-"memory",
+"independence",
+"farewell"
+]
+},
+{
+"id": "it-aint-me-babe-45dd81d1",
+"text": "I’m not the one you want, babe, I’m not the one you need",
+"song": "It Ain’t Me, Babe",
+"song_slug": "it-aint-me-babe",
+"album": "Another Side of Bob Dylan",
+"year": 1964,
+"tags": [
+"love",
+"independence",
 "identity"
 ]
 },
 {
-"id": "tangled-blue-cf08eebc",
-"text": "Early one mornin’ the sun was shinin’, I was layin’ in bed",
+"id": "it-aint-me-babe-70553e62",
+"text": "Go away from my window, leave at your own chosen speed",
+"song": "It Ain’t Me, Babe",
+"song_slug": "it-aint-me-babe",
+"album": "Another Side of Bob Dylan",
+"year": 1964,
+"tags": [
+"farewell",
+"independence",
+"love"
+]
+},
+{
+"id": "lonesome-death-hattie-carroll-c918a01d",
+"text": "Take the rag away from your face, now ain’t the time for your tears",
+"song": "The Lonesome Death of Hattie Carroll",
+"song_slug": "lonesome-death-hattie-carroll",
+"album": "The Times They Are A-Changin’",
+"year": 1964,
+"tags": [
+"justice",
+"grief",
+"protest"
+]
+},
+{
+"id": "tangled-blue-0a886d54",
+"text": "Tangled up in blue",
 "song": "Tangled Up In Blue",
 "song_slug": "tangled-blue",
 "album": "Blood on the Tracks",
@@ -1166,7 +1648,33 @@
 "tags": [
 "love",
 "memory",
-"story"
+"journey"
+]
+},
+{
+"id": "tangled-blue-1661d504",
+"text": "Lord knows I’ve paid some dues gettin’ through",
+"song": "Tangled Up In Blue",
+"song_slug": "tangled-blue",
+"album": "Blood on the Tracks",
+"year": 1975,
+"tags": [
+"endurance",
+"journey",
+"love"
+]
+},
+{
+"id": "tangled-blue-41948f6d",
+"text": "The only thing I knew how to do was to keep on keepin’ on",
+"song": "Tangled Up In Blue",
+"song_slug": "tangled-blue",
+"album": "Blood on the Tracks",
+"year": 1975,
+"tags": [
+"endurance",
+"purpose",
+"journey"
 ]
 },
 {
@@ -1183,34 +1691,8 @@
 ]
 },
 {
-"id": "simple-twist-fate-7b6b0ff6",
-"text": "A simple twist of fate",
-"song": "Simple Twist of Fate",
-"song_slug": "simple-twist-fate",
-"album": "The Complete Budokan 1978",
-"year": 2023,
-"tags": [
-"love",
-"chance",
-"fate"
-]
-},
-{
-"id": "idiot-wind-d8b28153",
-"text": "Idiot wind, blowing every time you move your mouth",
-"song": "Idiot Wind",
-"song_slug": "idiot-wind",
-"album": "Blood on the Tracks",
-"year": 1975,
-"tags": [
-"bitterness",
-"love",
-"betrayal"
-]
-},
-{
-"id": "idiot-wind-ef16b228",
-"text": "It’s a wonder that you still know how to breathe",
+"id": "idiot-wind-5d1e897e",
+"text": "You’re an idiot, babe, it’s a wonder that you still know how to breathe",
 "song": "Idiot Wind",
 "song_slug": "idiot-wind",
 "album": "Blood on the Tracks",
@@ -1222,8 +1704,21 @@
 ]
 },
 {
-"id": "shelter-storm-c45be357",
-"text": "Come in, she said, I’ll give ya shelter from the storm",
+"id": "idiot-wind-c9676cb8",
+"text": "Idiot wind, blowing through the buttons of our coats",
+"song": "Idiot Wind",
+"song_slug": "idiot-wind",
+"album": "Blood on the Tracks",
+"year": 1975,
+"tags": [
+"bitterness",
+"love",
+"anger"
+]
+},
+{
+"id": "shelter-storm-5adfa342",
+"text": "“Come in,” she said, “I’ll give you shelter from the storm.”",
 "song": "Shelter from the Storm",
 "song_slug": "shelter-storm",
 "album": "Blood on the Tracks",
@@ -1231,324 +1726,103 @@
 "tags": [
 "love",
 "refuge",
-"grace"
+"rescue"
 ]
 },
 {
-"id": "if-you-see-her-say-hello-1f4b3975",
-"text": "If you see her, say hello, she might be in Tangier",
+"id": "shelter-storm-6e5be9ec",
+"text": "Beauty walks a razor’s edge, someday I’ll make it mine",
+"song": "Shelter from the Storm",
+"song_slug": "shelter-storm",
+"album": "Blood on the Tracks",
+"year": 1975,
+"tags": [
+"beauty",
+"ambition",
+"love"
+]
+},
+{
+"id": "shelter-storm-d939f851",
+"text": "Try imagining a place where it’s always safe and warm",
+"song": "Shelter from the Storm",
+"song_slug": "shelter-storm",
+"album": "Blood on the Tracks",
+"year": 1975,
+"tags": [
+"refuge",
+"hope",
+"love"
+]
+},
+{
+"id": "if-you-see-her-say-hello-cbbd1084",
+"text": "If she’s passing back this way I’m not that hard to find",
 "song": "If You See Her, Say Hello",
 "song_slug": "if-you-see-her-say-hello",
 "album": "Blood on the Tracks",
 "year": 1975,
 "tags": [
 "love",
-"memory",
-"farewell"
-]
-},
-{
-"id": "youre-gonna-make-me-lonesome-when-you-go-149242a1",
-"text": "You’re gonna make me lonesome when you go",
-"song": "You’re Gonna Make Me Lonesome When You Go",
-"song_slug": "youre-gonna-make-me-lonesome-when-you-go",
-"album": "Blood on the Tracks",
-"year": 1975,
-"tags": [
-"love",
 "farewell",
-"longing"
+"memory"
 ]
 },
 {
-"id": "buckets-rain-cf4d9f8e",
-"text": "Life is sad, life is a bust, all ya can do is do what you must",
-"song": "Buckets of Rain",
-"song_slug": "buckets-rain",
+"id": "if-you-see-her-say-hello-a6419396",
+"text": "Sundown, yellow moon, I replay the past, I know every scene by heart, they all went by so fast",
+"song": "If You See Her, Say Hello",
+"song_slug": "if-you-see-her-say-hello",
 "album": "Blood on the Tracks",
 "year": 1975,
 "tags": [
-"wisdom",
+"memory",
 "love",
-"blues"
+"time"
 ]
 },
 {
-"id": "meet-me-morning-7f53baa9",
-"text": "Meet me in the morning, 56th and Wabasha",
-"song": "Meet Me in the Morning",
-"song_slug": "meet-me-morning",
-"album": "Blood on the Tracks",
-"year": 1975,
-"tags": [
-"love",
-"invitation",
-"travel"
-]
-},
-{
-"id": "hurricane-6b9c6ca1",
-"text": "Here comes the story of the Hurricane",
+"id": "hurricane-8e422b37",
+"text": "Couldn’t help but make me feel ashamed to live in a land where justice is a game",
 "song": "Hurricane",
 "song_slug": "hurricane",
 "album": "Desire",
 "year": 1976,
 "tags": [
 "justice",
-"story",
-"race"
+"america",
+"protest"
 ]
 },
 {
-"id": "hurricane-7c89933d",
-"text": "Rubin Carter was falsely tried",
+"id": "hurricane-c3e0320b",
+"text": "One time he coulda been the champion of the world",
 "song": "Hurricane",
 "song_slug": "hurricane",
 "album": "Desire",
 "year": 1976,
 "tags": [
 "justice",
-"race",
+"injustice",
 "america"
 ]
 },
 {
-"id": "isis-74363bdb",
-"text": "Isis, oh, Isis, you mystical child",
-"song": "Isis",
-"song_slug": "isis",
-"album": "Desire",
-"year": 1976,
-"tags": [
-"love",
-"adventure",
-"myth"
-]
-},
-{
-"id": "one-more-cup-coffee-valley-below-9c1f0aa0",
-"text": "One more cup of coffee for the road",
-"song": "One More Cup of Coffee (Valley Below)",
-"song_slug": "one-more-cup-coffee-valley-below",
-"album": "The Complete Budokan 1978",
-"year": 2023,
-"tags": [
-"farewell",
-"travel",
-"love"
-]
-},
-{
-"id": "oh-sister-1b81b87c",
-"text": "Oh, sister, when I come to knock on your door",
-"song": "Oh, Sister",
-"song_slug": "oh-sister",
-"album": "The Complete Budokan 1978",
-"year": 2023,
-"tags": [
-"faith",
-"love",
-"family"
-]
-},
-{
-"id": "sara-caac86a8",
-"text": "Sara, Sara, whatever made you want to change your mind?",
-"song": "Sara",
-"song_slug": "sara",
-"album": "Desire",
-"year": 1976,
-"tags": [
-"love",
-"memory",
-"regret"
-]
-},
-{
-"id": "romance-durango-c290dc47",
-"text": "No llores, my dear, don’t cry",
-"song": "Romance in Durango",
-"song_slug": "romance-durango",
-"album": "Desire",
-"year": 1976,
-"tags": [
-"adventure",
-"love",
-"west"
-]
-},
-{
-"id": "changing-guards-713b3a8e",
-"text": "Sixteen years, sixteen banners united over the field",
-"song": "Changing of the Guards",
-"song_slug": "changing-guards",
-"album": "Street-Legal",
-"year": 1978,
-"tags": [
-"change",
-"prophecy",
-"history"
-]
-},
-{
-"id": "senor-tales-yankee-power-5d666936",
-"text": "Señor, señor, do you know where we’re headin’?",
-"song": "Señor (Tales of Yankee Power)",
-"song_slug": "senor-tales-yankee-power",
-"album": "Street-Legal",
-"year": 1978,
-"tags": [
-"questions",
-"travel",
-"warning"
-]
-},
-{
-"id": "no-time-think-89407509",
-"text": "I’ve seen all these decoys through a needle’s eye",
-"song": "No Time to Think",
-"song_slug": "no-time-think",
-"album": "Street-Legal",
-"year": 1978,
-"tags": [
-"love",
-"time",
-"confusion"
-]
-},
-{
-"id": "we-better-talk-over-daab4434",
-"text": "We better talk this over, maybe come to some kind of understanding",
-"song": "We Better Talk This Over",
-"song_slug": "we-better-talk-over",
-"album": "Street-Legal",
-"year": 1978,
-"tags": [
-"love",
-"farewell",
-"talk"
-]
-},
-{
-"id": "gotta-serve-somebody-ce34fb10",
-"text": "It may be the devil or it may be the Lord, but you’re gonna have to serve somebody",
+"id": "gotta-serve-somebody-f228375c",
+"text": "It may be the Devil or it may be the Lord, but you’re gonna have to serve somebody",
 "song": "Gotta Serve Somebody",
 "song_slug": "gotta-serve-somebody",
 "album": "Slow Train Coming",
 "year": 1979,
 "tags": [
 "faith",
-"choice",
-"morality"
+"morality",
+"choice"
 ]
 },
 {
-"id": "slow-train-ee4310ff",
-"text": "There’s a slow, slow train comin’ up around the bend",
-"song": "Slow Train",
-"song_slug": "slow-train",
-"album": "Slow Train Coming",
-"year": 1979,
-"tags": [
-"faith",
-"warning",
-"change"
-]
-},
-{
-"id": "precious-angel-7a801088",
-"text": "Precious angel, under the sun, how was I to know you’d be the one",
-"song": "Precious Angel",
-"song_slug": "precious-angel",
-"album": "Slow Train Coming",
-"year": 1979,
-"tags": [
-"faith",
-"love",
-"grace"
-]
-},
-{
-"id": "i-believe-you-ddc55c3f",
-"text": "Don’t let me drift too far, keep me where you are, where I will always be renewed",
-"song": "I Believe in You",
-"song_slug": "i-believe-you",
-"album": "Slow Train Coming",
-"year": 1979,
-"tags": [
-"faith",
-"devotion",
-"doubt"
-]
-},
-{
-"id": "when-he-returns-efc50ae7",
-"text": "How long can you falsify and deny what is real?",
-"song": "When He Returns",
-"song_slug": "when-he-returns",
-"album": "Slow Train Coming",
-"year": 1979,
-"tags": [
-"faith",
-"judgment",
-"truth"
-]
-},
-{
-"id": "saved-c7944f89",
-"text": "I was blinded by the devil, born already ruined",
-"song": "Saved",
-"song_slug": "saved",
-"album": "Saved",
-"year": 1980,
-"tags": [
-"faith",
-"redemption",
-"conversion"
-]
-},
-{
-"id": "garden-283f4001",
-"text": "When they came for Him in the garden, did they know?",
-"song": "In the Garden",
-"song_slug": "garden",
-"album": "Saved",
-"year": 1980,
-"tags": [
-"faith",
-"gospel",
-"history"
-]
-},
-{
-"id": "pressing-528c6006",
-"text": "Shake the dust off of your feet, don’t look back",
-"song": "Pressing On",
-"song_slug": "pressing",
-"album": "Saved",
-"year": 1980,
-"tags": [
-"faith",
-"perseverance",
-"hope"
-]
-},
-{
-"id": "every-grain-sand-549932a4",
-"text": "In the fury of the moment I can see the Master’s hand",
-"song": "Every Grain of Sand",
-"song_slug": "every-grain-sand",
-"album": "Shot of Love",
-"year": 1981,
-"tags": [
-"faith",
-"grace",
-"humility"
-]
-},
-{
-"id": "every-grain-sand-924e7452",
-"text": "In every leaf that trembles, in every grain of sand",
+"id": "every-grain-sand-efab076f",
+"text": "In the fury of the moment I can see the Master’s hand, in every leaf that trembles, in every grain of sand",
 "song": "Every Grain of Sand",
 "song_slug": "every-grain-sand",
 "album": "Shot of Love",
@@ -1556,124 +1830,20 @@
 "tags": [
 "faith",
 "nature",
-"grace"
+"wonder"
 ]
 },
 {
-"id": "grooms-still-waiting-altar-e1ad1626",
-"text": "West of the Jordan, east of the Rock of Gibraltar",
-"song": "The Groom’s Still Waiting at the Altar",
-"song_slug": "grooms-still-waiting-altar",
-"album": "Shot of Love",
-"year": 1981,
-"tags": [
-"faith",
-"waiting",
-"change"
-]
-},
-{
-"id": "shot-love-bfb1a5d1",
-"text": "Don’t ever have to be alone, or worry about the future",
-"song": "Shot of Love",
-"song_slug": "shot-love",
-"album": "Shot of Love",
-"year": 1981,
-"tags": [
-"faith",
-"love",
-"comfort"
-]
-},
-{
-"id": "lenny-bruce-574129b9",
-"text": "Lenny Bruce is dead but his ghost lives on and on",
-"song": "Lenny Bruce",
-"song_slug": "lenny-bruce",
-"album": "Shot of Love",
-"year": 1981,
-"tags": [
-"memory",
-"truth",
-"america"
-]
-},
-{
-"id": "jokerman-b4d84384",
-"text": "Freedom just around the corner for you, but with truth so far off, what good will it do?",
-"song": "Jokerman",
-"song_slug": "jokerman",
-"album": "Infidels",
-"year": 1983,
-"tags": [
-"freedom",
-"truth",
-"warning"
-]
-},
-{
-"id": "i-and-i-d13c13ca",
-"text": "I and I, in creation where one’s nature neither honors nor forgives",
-"song": "I and I",
-"song_slug": "i-and-i",
-"album": "Infidels",
-"year": 1983,
-"tags": [
-"identity",
-"faith",
-"duality"
-]
-},
-{
-"id": "sweetheart-you-d16c4682",
-"text": "What’s a sweetheart like you doing in a dump like this?",
-"song": "Sweetheart Like You",
-"song_slug": "sweetheart-you",
-"album": "Infidels",
-"year": 1983,
-"tags": [
-"love",
-"questions",
-"america"
-]
-},
-{
-"id": "license-kill-19722a6b",
-"text": "All around, my revolution has been sung, all around, my story’s been told",
-"song": "License to Kill",
-"song_slug": "license-kill",
-"album": "Infidels",
-"year": 1983,
-"tags": [
-"power",
-"outlaw",
-"america"
-]
-},
-{
-"id": "man-peace-08cbcb1f",
-"text": "The world's so packed with sinners, you'd think it was the end",
-"song": "Man of Peace",
-"song_slug": "man-peace",
-"album": "Infidels",
-"year": 1983,
-"tags": [
-"faith",
-"warning",
-"evil"
-]
-},
-{
-"id": "blind-willie-mctell-d83d507b",
-"text": "Nobody can sing the blues like Blind Willie McTell",
+"id": "blind-willie-mctell-b423ca21",
+"text": "I know no one can sing the blues like Blind Willie McTell",
 "song": "Blind Willie McTell",
 "song_slug": "blind-willie-mctell",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
 "tags": [
+"music",
 "blues",
-"memory",
-"music"
+"art"
 ]
 },
 {
@@ -1685,203 +1855,21 @@
 "year": 1991,
 "tags": [
 "power",
-"corruption",
-"america"
+"greed",
+"morality"
 ]
 },
 {
-"id": "when-night-comes-falling-sky-fa2fc321",
-"text": "When the night comes falling from the sky, I hope that you’re ready to go",
-"song": "When the Night Comes Falling from the Sky",
-"song_slug": "when-night-comes-falling-sky",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"warning",
-"love",
-"night"
-]
-},
-{
-"id": "dark-eyes-d66594a8",
-"text": "Oh, the gentlemen are talking and the midnight moon is on the riverside",
-"song": "Dark Eyes",
-"song_slug": "dark-eyes",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"vision",
-"night",
-"loneliness"
-]
-},
-{
-"id": "brownsville-girl-7a8f47ee",
-"text": "Strange how people who suffer together have stronger connections than people who are most content",
-"song": "Brownsville Girl",
-"song_slug": "brownsville-girl",
-"album": "Knocked Out Loaded",
-"year": 1986,
-"tags": [
-"love",
-"memory",
-"story"
-]
-},
-{
-"id": "political-world-05449b7f",
-"text": "We live in a political world, love don’t have any place",
-"song": "Political World",
-"song_slug": "political-world",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"politics",
-"america",
-"disillusion"
-]
-},
-{
-"id": "everything-broken-c3d4d96c",
-"text": "Broken heads, broken bottles, broken bones",
-"song": "Everything Is Broken",
-"song_slug": "everything-broken",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"chaos",
-"breakdown",
-"america"
-]
-},
-{
-"id": "ring-them-bells-211902ba",
-"text": "Ring them bells, ye heathen, from the city that dreams",
-"song": "Ring Them Bells",
-"song_slug": "ring-them-bells",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"faith",
-"warning",
-"hope"
-]
-},
-{
-"id": "most-time-2c81d239",
-"text": "Most of the time, I’m clear focused all around",
-"song": "Most of the Time",
-"song_slug": "most-time",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"love",
-"memory",
-"restraint"
-]
-},
-{
-"id": "what-good-am-i-6cd6c96b",
-"text": "What good am I if I’m like all the rest",
-"song": "What Good Am I?",
-"song_slug": "what-good-am-i",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"morality",
-"questions",
-"conscience"
-]
-},
-{
-"id": "man-long-black-coat-1080dcd5",
-"text": "Not a word of goodbye, not even a note",
-"song": "Man in the Long Black Coat",
-"song_slug": "man-long-black-coat",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"mystery",
-"farewell",
-"story"
-]
-},
-{
-"id": "shooting-star-c8769b93",
-"text": "Seen a shooting star tonight, and I thought of you",
-"song": "Shooting Star",
-"song_slug": "shooting-star",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"love",
-"memory",
-"longing"
-]
-},
-{
-"id": "disease-conceit-fb9336ff",
-"text": "There’s a whole lot of people seein’ double tonight",
-"song": "Disease of Conceit",
-"song_slug": "disease-conceit",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"warning",
-"pride",
-"faith"
-]
-},
-{
-"id": "series-dreams-7288de27",
-"text": "I was thinking of a series of dreams",
-"song": "Series of Dreams",
-"song_slug": "series-dreams",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"dream",
-"memory",
-"search"
-]
-},
-{
-"id": "dignity-f6f8cf19",
-"text": "I went into the city, I went looking for dignity",
-"song": "Dignity",
-"song_slug": "dignity",
-"album": "Greatest Hits Volume 3",
-"year": 1994,
-"tags": [
-"search",
-"dignity",
-"america"
-]
-},
-{
-"id": "god-knows-bf6b869e",
-"text": "God knows you ain’t pretty, God knows it’s true",
-"song": "God Knows",
-"song_slug": "god-knows",
-"album": "Under the Red Sky",
-"year": 1990,
-"tags": [
-"faith",
-"love",
-"honesty"
-]
-},
-{
-"id": "love-sick-f645c1d9",
-"text": "I’m sick of love, I wish I’d never met you",
-"song": "Love Sick",
-"song_slug": "love-sick",
+"id": "not-dark-yet-8a3e9c87",
+"text": "Behind every beautiful thing, there’s some kind of pain",
+"song": "Not Dark Yet",
+"song_slug": "not-dark-yet",
 "album": "Time out of Mind",
 "year": 1997,
 "tags": [
-"love",
+"beauty",
 "pain",
-"disillusion"
+"wisdom"
 ]
 },
 {
@@ -1892,87 +1880,35 @@
 "album": "Time out of Mind",
 "year": 1997,
 "tags": [
-"time",
 "mortality",
+"time",
 "endurance"
 ]
 },
 {
-"id": "not-dark-yet-27b4869a",
-"text": "I was born here and I’ll die here against my will",
-"song": "Not Dark Yet",
-"song_slug": "not-dark-yet",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
-"mortality",
-"will",
-"place"
-]
-},
-{
-"id": "trying-get-heaven-4cc9a8c2",
-"text": "Tryin’ to get to heaven before they close the door",
-"song": "Tryin’ to Get to Heaven",
-"song_slug": "trying-get-heaven",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
-"death",
-"faith",
-"journey"
-]
-},
-{
-"id": "make-you-feel-my-love-334b0fec",
-"text": "I could make you happy, make your dreams come true",
-"song": "Make You Feel My Love",
-"song_slug": "make-you-feel-my-love",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
-"love",
-"devotion",
-"promise"
-]
-},
-{
-"id": "highlands-2ce34cee",
-"text": "I’m lost in the Highlands, over the hills and far away",
-"song": "Highlands",
-"song_slug": "highlands",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
-"travel",
-"loneliness",
-"search"
-]
-},
-{
-"id": "cold-irons-bound-60968e36",
-"text": "I’m twenty miles out of town, in cold irons bound",
-"song": "Cold Irons Bound",
-"song_slug": "cold-irons-bound",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
-"trapped",
-"love",
-"despair"
-]
-},
-{
-"id": "things-have-changed-c6ec0b4c",
-"text": "I used to care, but things have changed",
+"id": "things-have-changed-83837dd1",
+"text": "People are crazy and times are strange, I used to care, but things have changed",
 "song": "Things Have Changed",
 "song_slug": "things-have-changed",
 "album": "The Essential Bob Dylan",
 "year": 2000,
 "tags": [
-"disillusion",
 "change",
+"disillusion",
 "time"
+]
+},
+{
+"id": "things-have-changed-a6791b99",
+"text": "I’ve been trying to get as far away from myself as I can",
+"song": "Things Have Changed",
+"song_slug": "things-have-changed",
+"album": "The Essential Bob Dylan",
+"year": 2000,
+"tags": [
+"identity",
+"escape",
+"self"
 ]
 },
 {
@@ -1984,840 +1920,47 @@
 "year": 2001,
 "tags": [
 "time",
-"regret",
-"wisdom"
+"memory",
+"journey"
 ]
 },
 {
-"id": "mississippi-93f56e15",
-"text": "Only one thing I did wrong, stayed in Mississippi a day too long",
+"id": "mississippi-7b0b0ba4",
+"text": "I’ve got nothing but affection for those who’ve sailed with me",
 "song": "Mississippi",
 "song_slug": "mississippi",
 "album": "“Love and Theft”",
 "year": 2001,
 "tags": [
-"regret",
-"travel",
-"blues"
-]
-},
-{
-"id": "high-water-charley-patton-a5daa3ff",
-"text": "High water risin’, the shacks are slidin’ down",
-"song": "High Water (For Charley Patton)",
-"song_slug": "high-water-charley-patton",
-"album": "“Love and Theft”",
-"year": 2001,
-"tags": [
-"disaster",
-"america",
-"blues"
-]
-},
-{
-"id": "po-boy-21fdae18",
-"text": "Poor boy, in a hotel called the Palace of Gloom",
-"song": "Po’ Boy",
-"song_slug": "po-boy",
-"album": "“Love and Theft”",
-"year": 2001,
-"tags": [
-"humor",
-"poverty",
-"story"
-]
-},
-{
-"id": "floater-too-much-ask-4dddca9c",
-"text": "They say times are hard, if you don’t believe it you can keep it to yourself",
-"song": "Floater (Too Much to Ask)",
-"song_slug": "floater-too-much-ask",
-"album": "“Love and Theft”",
-"year": 2001,
-"tags": [
-"america",
-"work",
-"wisdom"
-]
-},
-{
-"id": "sugar-baby-ce9234d6",
-"text": "Look up, look up, seek your Maker, ’fore Gabriel blows his horn",
-"song": "Sugar Baby",
-"song_slug": "sugar-baby",
-"album": "“Love and Theft”",
-"year": 2001,
-"tags": [
-"warning",
-"faith",
-"farewell"
-]
-},
-{
-"id": "moonlight-3984dfdc",
-"text": "The leaves on the trees shake with irresistible appeal",
-"song": "Moonlight",
-"song_slug": "moonlight",
-"album": "“Love and Theft”",
-"year": 2001,
-"tags": [
-"love",
-"night",
-"beauty"
-]
-},
-{
-"id": "cross-green-mountain-e13429fa",
-"text": "Heaven blazing in my head, I dreamt a monstrous dream",
-"song": "‘Cross the Green Mountain",
-"song_slug": "cross-green-mountain",
-"album": "The Bootleg Series, Vol 8: Tell Tale Signs",
-"year": 2008,
-"tags": [
-"war",
-"dream",
-"history"
-]
-},
-{
-"id": "thunder-mountain-adaa2c77",
-"text": "Thunder on the mountain, rolling like a drum",
-"song": "Thunder on the Mountain",
-"song_slug": "thunder-mountain",
-"album": "Modern Times",
-"year": 2006,
-"tags": [
-"energy",
-"change",
-"america"
-]
-},
-{
-"id": "workingmans-blues-2-73e40bc1",
-"text": "The place I love best is a sweet memory, it’s a new path that we trod",
-"song": "Workingman’s Blues #2",
-"song_slug": "workingmans-blues-2",
-"album": "Modern Times",
-"year": 2006,
-"tags": [
-"labor",
-"change",
-"america"
-]
-},
-{
-"id": "aint-talkin-b87cac5d",
-"text": "Ain’t talkin’, just walkin’, through this weary world of woe",
-"song": "Ain’t Talkin’",
-"song_slug": "aint-talkin",
-"album": "Modern Times",
-"year": 2006,
-"tags": [
-"journey",
-"endurance",
-"faith"
-]
-},
-{
-"id": "when-deal-goes-down-1989357a",
-"text": "We all wear the same thorny crown",
-"song": "When the Deal Goes Down",
-"song_slug": "when-deal-goes-down",
-"album": "Modern Times",
-"year": 2006,
-"tags": [
-"faith",
-"love",
-"endurance"
-]
-},
-{
-"id": "beyond-here-lies-nothin-c32cbe86",
-"text": "Beyond here lies nothin’, nothing but the moon and stars",
-"song": "Beyond Here Lies Nothin’",
-"song_slug": "beyond-here-lies-nothin",
-"album": "Together Through Life",
-"year": 2009,
-"tags": [
-"love",
-"edge",
-"devotion"
-]
-},
-{
-"id": "i-feel-change-comin-57d32574",
-"text": "I feel a change comin’ on, and the last part of the day is already gone",
-"song": "I Feel a Change Comin’ On",
-"song_slug": "i-feel-change-comin",
-"album": "Together Through Life",
-"year": 2009,
-"tags": [
-"change",
-"time",
-"hope"
-]
-},
-{
-"id": "forgetful-heart-c3a9931b",
-"text": "Forgetful heart, like a walking shadow in my brain",
-"song": "Forgetful Heart",
-"song_slug": "forgetful-heart",
-"album": "Together Through Life",
-"year": 2009,
-"tags": [
-"memory",
-"love",
-"loss"
-]
-},
-{
-"id": "dream-you-d0a3c381",
-"text": "This dream of you, it keeps me living on",
-"song": "This Dream of You",
-"song_slug": "dream-you",
-"album": "Together Through Life",
-"year": 2009,
-"tags": [
-"love",
-"dream",
-"longing"
-]
-},
-{
-"id": "long-and-wasted-years-4487951f",
-"text": "So much for tears, so much for these long and wasted years",
-"song": "Long and Wasted Years",
-"song_slug": "long-and-wasted-years",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"regret",
-"love",
-"time"
-]
-},
-{
-"id": "early-roman-kings-b78beab6",
-"text": "All the early Roman kings in their sharkskin suits",
-"song": "Early Roman Kings",
-"song_slug": "early-roman-kings",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"power",
-"corruption",
-"america"
-]
-},
-{
-"id": "pay-blood-5fe135f4",
-"text": "I pay in blood, but not my own",
-"song": "Pay in Blood",
-"song_slug": "pay-blood",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"anger",
-"justice",
-"endurance"
-]
-},
-{
-"id": "tempest-5ee5871d",
-"text": "The pale moon rose in its glory, out on the Western town",
-"song": "Tempest",
-"song_slug": "tempest",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"disaster",
-"story",
-"tragedy"
-]
-},
-{
-"id": "roll-john-36af12a6",
-"text": "Shine your light, move it on, you burned so bright, roll on, John",
-"song": "Roll on John",
-"song_slug": "roll-john",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"memory",
 "friendship",
-"tribute"
-]
-},
-{
-"id": "narrow-way-ddcb1897",
-"text": "It’s a long road, it’s a long and narrow way",
-"song": "Narrow Way",
-"song_slug": "narrow-way",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"faith",
-"journey",
-"endurance"
-]
-},
-{
-"id": "duquesne-whistle-fd143617",
-"text": "Can’t you hear that Duquesne whistle blowing?",
-"song": "Duquesne Whistle",
-"song_slug": "duquesne-whistle",
-"album": "Tempest",
-"year": 2012,
-"tags": [
-"travel",
-"memory",
-"time"
-]
-},
-{
-"id": "i-contain-multitudes-7fe1198b",
-"text": "I contain multitudes",
-"song": "I Contain Multitudes",
-"song_slug": "i-contain-multitudes",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"identity",
-"paradox",
-"self"
-]
-},
-{
-"id": "i-contain-multitudes-b7ade699",
-"text": "I’m a man of contradictions, I’m a man of many moods",
-"song": "I Contain Multitudes",
-"song_slug": "i-contain-multitudes",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"identity",
-"paradox",
-"self"
-]
-},
-{
-"id": "false-prophet-0e314f92",
-"text": "I’m the enemy of the unlived meaningless life",
-"song": "False Prophet",
-"song_slug": "false-prophet",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"identity",
-"warning",
-"self"
-]
-},
-{
-"id": "ive-made-up-my-mind-to-give-myself-to-you-d973bf82",
-"text": "I’m giving myself to you, I am",
-"song": "I’ve Made Up My Mind to Give Myself to You",
-"song_slug": "ive-made-up-my-mind-to-give-myself-to-you",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"love",
-"devotion",
-"decision"
-]
-},
-{
-"id": "black-rider-8c9f6926",
-"text": "Black rider, black rider, hold it right there",
-"song": "Black Rider",
-"song_slug": "black-rider",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"warning",
-"death",
-"mystery"
-]
-},
-{
-"id": "goodbye-jimmy-reed-c3da56e8",
-"text": "Goodbye Jimmy Reed, goodbye, so long",
-"song": "Goodbye Jimmy Reed",
-"song_slug": "goodbye-jimmy-reed",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"blues",
-"tribute",
-"memory"
-]
-},
-{
-"id": "mother-of-muses-d83fe45d",
-"text": "Mother of Muses, sing for me",
-"song": "Mother of Muses",
-"song_slug": "mother-of-muses",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"art",
-"history",
-"prayer"
-]
-},
-{
-"id": "crossing-the-rubicon-4c9275b5",
-"text": "I crossed the Rubicon, I stood between heaven and earth",
-"song": "Crossing the Rubicon",
-"song_slug": "crossing-the-rubicon",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"decision",
-"fate",
+"gratitude",
 "journey"
 ]
 },
 {
-"id": "key-west-philosopher-pirate-6c35b773",
-"text": "Key West is the place to be, if you choose, if you choose",
-"song": "Key West (Philosopher Pirate)",
-"song_slug": "key-west-philosopher-pirate",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"place",
-"escape",
-"vision"
-]
-},
-{
-"id": "murder-most-foul-5ff83287",
-"text": "Murder most foul",
-"song": "Murder Most Foul",
-"song_slug": "murder-most-foul",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"history",
-"tragedy",
-"america"
-]
-},
-{
-"id": "murder-most-foul-3e2e63a7",
-"text": "Play me a song, Mr. Wolfman Jack",
-"song": "Murder Most Foul",
-"song_slug": "murder-most-foul",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"memory",
-"music",
-"history"
-]
-},
-{
-"id": "my-own-version-of-you-327bfa13",
-"text": "I’ll take the Scarface Pacino and the Godfather Brando",
-"song": "My Own Version of You",
-"song_slug": "my-own-version-of-you",
-"album": "Rough and Rowdy Ways",
-"year": 2020,
-"tags": [
-"creation",
-"identity",
-"art"
-]
-},
-{
-"id": "trying-get-heaven-b8cce159",
-"text": "When I was in Missouri, they would not let me be",
-"song": "Tryin’ to Get to Heaven",
-"song_slug": "trying-get-heaven",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
-"journey",
-"death",
-"exclusion"
-]
-},
-{
-"id": "watching-river-flow-a1f2482d",
-"text": "I’ll just sit here and watch the river flow",
-"song": "Watching the River Flow",
-"song_slug": "watching-river-flow",
-"album": "Bob Dylan’s Greatest Hits Volume II",
-"year": 1971,
-"tags": [
-"patience",
-"peace",
-"time"
-]
-},
-{
-"id": "when-i-paint-my-masterpiece-66df0feb",
-"text": "Someday, everything is gonna be diff’rent, when I paint my masterpiece",
-"song": "When I Paint My Masterpiece",
-"song_slug": "when-i-paint-my-masterpiece",
-"album": "Bob Dylan’s Greatest Hits Volume II",
-"year": 1971,
-"tags": [
-"art",
-"hope",
-"ambition"
-]
-},
-{
-"id": "you-angel-you-d782834e",
-"text": "You angel you, you got me under your wing",
-"song": "You Angel You",
-"song_slug": "you-angel-you",
-"album": "Planet Waves",
-"year": 1974,
-"tags": [
-"love",
-"joy",
-"devotion"
-]
-},
-{
-"id": "went-see-gypsy-01ffb4a3",
-"text": "He did it in Las Vegas, and he can do it here",
-"song": "Went to See the Gypsy",
-"song_slug": "went-see-gypsy",
-"album": "New Morning",
-"year": 1970,
-"tags": [
-"search",
-"fame",
-"story"
-]
-},
-{
-"id": "if-dogs-run-free-0422be6b",
-"text": "If dogs run free, then why not we",
-"song": "If Dogs Run Free",
-"song_slug": "if-dogs-run-free",
-"album": "New Morning",
-"year": 1970,
-"tags": [
-"freedom",
-"philosophy",
-"jazz"
-]
-},
-{
-"id": "sign-on-the-cross-957d74b5",
-"text": "Watch the direction of the wind, and beware of the rising flood",
-"song": "Sign on the Cross",
-"song_slug": "sign-on-the-cross",
-"album": "The Bootleg Series, Vol. 11: The Basement Tapes RAW",
-"year": 2014,
-"tags": [
-"faith",
-"warning",
-"journey"
-]
-},
-{
-"id": "are-you-ready-1fdc815d",
-"text": "Are you ready to meet Jesus?",
-"song": "Are You Ready?",
-"song_slug": "are-you-ready",
-"album": "Saved",
-"year": 1980,
-"tags": [
-"faith",
-"judgment",
-"questions"
-]
-},
-{
-"id": "caribbean-wind-b45c299c",
-"text": "Atlantic City, two years later, under the Viaduct",
-"song": "Caribbean Wind",
-"song_slug": "caribbean-wind",
-"album": "Biograph",
-"year": 1985,
-"tags": [
-"memory",
-"love",
-"travel"
-]
-},
-{
-"id": "me-6d6b4f82",
-"text": "If I’d thought about it, I never would have done it, I guess I would have let it slide",
-"song": "Up to Me",
-"song_slug": "me",
-"album": "Biograph",
-"year": 1985,
-"tags": [
-"responsibility",
-"love",
-"regret"
-]
-},
-{
-"id": "farewell-angelina-dfae94b0",
-"text": "Farewell, Angelina, the sky is on fire",
-"song": "Farewell, Angelina",
-"song_slug": "farewell-angelina",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"farewell",
-"change",
-"vision"
-]
-},
-{
-"id": "mama-you-been-my-mind-8bbcf446",
-"text": "I don’t mean trouble, please don’t put me down or get upset",
-"song": "Mama, You Been On My Mind",
-"song_slug": "mama-you-been-my-mind",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"love",
-"memory",
-"longing"
-]
-},
-{
-"id": "tomorrow-long-time-ad85a130",
-"text": "Yes, and only if my own true love was waitin’",
-"song": "Tomorrow Is a Long Time",
-"song_slug": "tomorrow-long-time",
+"id": "knockin-heavens-door-a0d0abad",
+"text": "Mama, take this badge off of me, I can’t use it anymore",
+"song": "Knockin’ On Heaven’s Door",
+"song_slug": "knockin-heavens-door",
 "album": "The Complete Budokan 1978",
 "year": 2023,
 "tags": [
-"love",
-"longing",
-"time"
+"death",
+"mortality",
+"surrender"
 ]
 },
 {
-"id": "lay-down-your-weary-tune-1da5f49c",
-"text": "Lay down your weary tune, lay down",
-"song": "Lay Down Your Weary Tune",
-"song_slug": "lay-down-your-weary-tune",
-"album": "Biograph",
-"year": 1985,
-"tags": [
-"music",
-"rest",
-"nature"
-]
-},
-{
-"id": "let-me-die-my-footsteps-0511d1c7",
-"text": "Let me die in my footsteps, before I go down under the ground",
-"song": "Let Me Die in My Footsteps",
-"song_slug": "let-me-die-my-footsteps",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"defiance",
-"freedom",
-"death"
-]
-},
-{
-"id": "paths-victory-2079568d",
-"text": "Trails of troubles, roads of battles, paths of victory we shall walk",
-"song": "Paths of Victory",
-"song_slug": "paths-victory",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"hope",
-"struggle",
-"journey"
-]
-},
-{
-"id": "wallflower-0b9fd881",
-"text": "Wallflower, wallflower, won’t you dance with me",
-"song": "Wallflower",
-"song_slug": "wallflower",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"love",
-"invitation",
-"loneliness"
-]
-},
-{
-"id": "nobody-cept-you-4cd54a16",
-"text": "Nothing around me reminds me of home, except you",
-"song": "Nobody ‘Cept You",
-"song_slug": "nobody-cept-you",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"love",
-"home",
-"devotion"
-]
-},
-{
-"id": "abandoned-love-2b2567af",
-"text": "I can’t play the game no more, I can’t abide by their rules",
-"song": "Abandoned Love",
-"song_slug": "abandoned-love",
-"album": "Biograph",
-"year": 1985,
-"tags": [
-"love",
-"farewell",
-"independence"
-]
-},
-{
-"id": "seven-days-821cf7f4",
-"text": "Seven days, seven more days she’ll be comin’",
-"song": "Seven Days",
-"song_slug": "seven-days",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"waiting",
-"love",
-"hope"
-]
-},
-{
-"id": "ye-shall-be-changed-c5ce217c",
-"text": "Ye shall be changed, ye shall be changed",
-"song": "Ye Shall Be Changed",
-"song_slug": "ye-shall-be-changed",
-"album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
-"year": 1991,
-"tags": [
-"faith",
-"transformation",
-"hope"
-]
-},
-{
-"id": "trust-yourself-c32706ee",
-"text": "Trust yourself, trust yourself to know the way that will prove true in the end",
-"song": "Trust Yourself",
-"song_slug": "trust-yourself",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"advice",
-"independence",
-"wisdom"
-]
-},
-{
-"id": "emotionally-yours-86629317",
-"text": "Come baby, find me, come baby, remind me of where I once begun",
-"song": "Emotionally Yours",
-"song_slug": "emotionally-yours",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"love",
-"devotion",
-"return"
-]
-},
-{
-"id": "dark-eyes-11ae6242",
-"text": "A million faces at my window, but I still can see no one",
-"song": "Dark Eyes",
-"song_slug": "dark-eyes",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"loneliness",
-"vision",
-"night"
-]
-},
-{
-"id": "brownsville-girl-f2c6cb23",
-"text": "You always said people don’t do what they believe in, they just do what’s most convenient, then they repent",
-"song": "Brownsville Girl",
-"song_slug": "brownsville-girl",
-"album": "Knocked Out Loaded",
-"year": 1986,
-"tags": [
-"wisdom",
-"morality",
-"story"
-]
-},
-{
-"id": "tight-connection-my-heart-has-anyone-seen-my-love-a5054dcd",
-"text": "You always said, “When I go, I’ll go just like I came”",
-"song": "Tight Connection to My Heart  (Has Anyone Seen My Love)",
-"song_slug": "tight-connection-my-heart-has-anyone-seen-my-love",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"love",
-"farewell",
-"identity"
-]
-},
-{
-"id": "ill-remember-you-b332c3c9",
-"text": "I’ll remember you, when I’ve forgotten all the rest",
-"song": "I’ll Remember You",
-"song_slug": "ill-remember-you",
-"album": "Empire Burlesque",
-"year": 1985,
-"tags": [
-"memory",
-"love",
-"farewell"
-]
-},
-{
-"id": "what-was-it-you-wanted-3db951dd",
-"text": "What was it you wanted? Tell me again so I’ll know",
-"song": "What Was It You Wanted?",
-"song_slug": "what-was-it-you-wanted",
-"album": "Oh Mercy",
-"year": 1989,
-"tags": [
-"questions",
-"love",
-"confusion"
-]
-},
-{
-"id": "born-time-8d6a2721",
-"text": "In the cities of lonesome fear, there’s a wandering, a wandering soul",
-"song": "Born in Time",
-"song_slug": "born-time",
-"album": "Under the Red Sky",
-"year": 1990,
+"id": "youre-big-girl-now-8524e468",
+"text": "Time is a jet plane, it moves too fast",
+"song": "You’re a Big Girl Now",
+"song_slug": "youre-big-girl-now",
+"album": "The Complete Budokan 1978",
+"year": 2023,
 "tags": [
 "time",
-"journey",
-"america"
-]
-},
-{
-"id": "standing-doorway-18910b7e",
-"text": "I’m beginning to hear voices and there’s no one around",
-"song": "Standing in the Doorway",
-"song_slug": "standing-doorway",
-"album": "Time out of Mind",
-"year": 1997,
-"tags": [
 "love",
-"loneliness",
-"mortality"
+"loss"
 ]
 }
 ],
@@ -2827,12 +1970,8 @@
 "title": "‘Cross the Green Mountain",
 "album": "The Bootleg Series, Vol 8: Tell Tale Signs",
 "year": 2008,
-"tags": [
-"war",
-"dream",
-"history"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "til-i-fell-love-you",
@@ -2906,9 +2045,13 @@
 "tags": [
 "warning",
 "prophecy",
-"disaster"
+"disaster",
+"endurance",
+"purpose",
+"art",
+"preparation"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "satisfied-mind",
@@ -2923,12 +2066,8 @@
 "title": "Abandoned Love",
 "album": "Biograph",
 "year": 1985,
-"tags": [
-"love",
-"farewell",
-"independence"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "abraham-martin-and-john",
@@ -2944,9 +2083,9 @@
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"wisdom",
 "outlaw",
-"paradox"
+"truth",
+"morality"
 ],
 "n": 1
 },
@@ -2987,12 +2126,8 @@
 "title": "Ain’t Talkin’",
 "album": "Modern Times",
 "year": 2006,
-"tags": [
-"journey",
-"endurance",
-"faith"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "alberta-1",
@@ -3024,13 +2159,20 @@
 "album": "John Wesley Harding",
 "year": 1967,
 "tags": [
-"warning",
-"trapped",
-"wisdom",
+"escape",
+"confusion",
+"prophecy",
+"truth",
 "time",
-"prophecy"
+"warning",
+"life",
+"wisdom",
+"faith",
+"labor",
+"power",
+"disillusion"
 ],
-"n": 2
+"n": 4
 },
 {
 "slug": "all-american-boy",
@@ -3047,8 +2189,8 @@
 "year": 1964,
 "tags": [
 "love",
-"independence",
-"humor"
+"friends",
+"independence"
 ],
 "n": 1
 },
@@ -3145,12 +2287,8 @@
 "title": "Are You Ready?",
 "album": "Saved",
 "year": 1980,
-"tags": [
-"faith",
-"judgment",
-"questions"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "arthur-mcbride",
@@ -3246,9 +2384,9 @@
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
-"identity",
+"change",
 "confusion",
-"culture"
+"generations"
 ],
 "n": 1
 },
@@ -3333,12 +2471,8 @@
 "title": "Beyond Here Lies Nothin’",
 "album": "Together Through Life",
 "year": 2009,
-"tags": [
-"love",
-"edge",
-"devotion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "beyond-horizon",
@@ -3417,12 +2551,8 @@
 "title": "Black Rider",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"warning",
-"death",
-"mystery"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "blackjack-davey",
@@ -3438,12 +2568,12 @@
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
 "tags": [
-"blues",
-"memory",
 "music",
+"blues",
+"art",
 "power",
-"corruption",
-"america"
+"greed",
+"morality"
 ],
 "n": 2
 },
@@ -3462,11 +2592,14 @@
 "year": 1963,
 "tags": [
 "protest",
-"freedom",
 "questions",
-"identity"
+"freedom",
+"identity",
+"justice",
+"conscience",
+"war"
 ],
-"n": 2
+"n": 4
 },
 {
 "slug": "blue-moon",
@@ -3523,7 +2656,7 @@
 "year": 1964,
 "tags": [
 "love",
-"farewell",
+"devotion",
 "travel"
 ],
 "n": 1
@@ -3533,12 +2666,8 @@
 "title": "Born in Time",
 "album": "Under the Red Sky",
 "year": 1990,
-"tags": [
-"time",
-"journey",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "borrowed-time",
@@ -3593,26 +2722,16 @@
 "title": "Brownsville Girl",
 "album": "Knocked Out Loaded",
 "year": 1986,
-"tags": [
-"love",
-"memory",
-"story",
-"wisdom",
-"morality"
-],
-"n": 2
+"tags": [],
+"n": 0
 },
 {
 "slug": "buckets-rain",
 "title": "Buckets of Rain",
 "album": "Blood on the Tracks",
 "year": 1975,
-"tags": [
-"wisdom",
-"love",
-"blues"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "bunkhouse-theme",
@@ -3699,12 +2818,8 @@
 "title": "Caribbean Wind",
 "album": "Biograph",
 "year": 1985,
-"tags": [
-"memory",
-"love",
-"travel"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "cats-well",
@@ -3727,12 +2842,8 @@
 "title": "Changing of the Guards",
 "album": "Street-Legal",
 "year": 1978,
-"tags": [
-"change",
-"prophecy",
-"history"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "chimes-freedom",
@@ -3741,7 +2852,7 @@
 "year": 1964,
 "tags": [
 "freedom",
-"justice",
+"peace",
 "compassion"
 ],
 "n": 1
@@ -3783,12 +2894,8 @@
 "title": "Cold Irons Bound",
 "album": "Time out of Mind",
 "year": 1997,
-"tags": [
-"trapped",
-"love",
-"despair"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "cold-cold-heart",
@@ -3876,9 +2983,9 @@
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
 "tags": [
-"disaster",
 "warning",
-"blues"
+"disaster",
+"responsibility"
 ],
 "n": 1
 },
@@ -3887,12 +2994,8 @@
 "title": "Crossing the Rubicon",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"decision",
-"fate",
-"journey"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "cry-while",
@@ -3915,24 +3018,16 @@
 "title": "Dark Eyes",
 "album": "Empire Burlesque",
 "year": 1985,
-"tags": [
-"vision",
-"night",
-"loneliness"
-],
-"n": 2
+"tags": [],
+"n": 0
 },
 {
 "slug": "day-locusts",
 "title": "Day of the Locusts",
 "album": "New Morning",
 "year": 1970,
-"tags": [
-"vision",
-"change",
-"nature"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "days-49-live",
@@ -3955,8 +3050,12 @@
 "title": "Dear Landlord",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [],
-"n": 0
+"tags": [
+"respect",
+"power",
+"wisdom"
+],
+"n": 1
 },
 {
 "slug": "death-not-end",
@@ -3988,11 +3087,18 @@
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
-"surreal",
 "america",
-"vision"
+"violence",
+"surreal",
+"bitterness",
+"humor",
+"friends",
+"art",
+"history",
+"power",
+"warning"
 ],
-"n": 1
+"n": 4
 },
 {
 "slug": "diamond-joe",
@@ -4007,12 +3113,8 @@
 "title": "Dignity",
 "album": "Greatest Hits Volume 3",
 "year": 1994,
-"tags": [
-"search",
-"dignity",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "dinks-song",
@@ -4030,9 +3132,12 @@
 "tags": [
 "love",
 "regret",
-"pain"
+"bitterness",
+"truth",
+"paradox",
+"art"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "dirt-road-blues",
@@ -4047,12 +3152,8 @@
 "title": "Disease of Conceit",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"warning",
-"pride",
-"faith"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "do-right-me-baby-do-unto-others",
@@ -4094,10 +3195,11 @@
 "tags": [
 "love",
 "farewell",
+"loss",
 "independence",
-"bitterness"
+"journey"
 ],
-"n": 2
+"n": 3
 },
 {
 "slug": "dont-ya-tell-henry",
@@ -4192,12 +3294,8 @@
 "title": "Duquesne Whistle",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"travel",
-"memory",
-"time"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "dusty-old-fairgrounds",
@@ -4220,12 +3318,8 @@
 "title": "Early Roman Kings",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"power",
-"corruption",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "easy-and-slow",
@@ -4248,12 +3342,8 @@
 "title": "Emotionally Yours",
 "album": "Empire Burlesque",
 "year": 1985,
-"tags": [
-"love",
-"devotion",
-"return"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "endless-highway",
@@ -4286,35 +3376,26 @@
 "year": 1981,
 "tags": [
 "faith",
-"grace",
-"humility",
-"nature"
+"nature",
+"wonder"
 ],
-"n": 2
+"n": 1
 },
 {
 "slug": "everything-broken",
 "title": "Everything Is Broken",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"chaos",
-"breakdown",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "false-prophet",
 "title": "False Prophet",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"identity",
-"warning",
-"self"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "farewell",
@@ -4329,12 +3410,8 @@
 "title": "Farewell, Angelina",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"farewell",
-"change",
-"vision"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "father-night",
@@ -4373,12 +3450,8 @@
 "title": "Floater (Too Much to Ask)",
 "album": "“Love and Theft”",
 "year": 2001,
-"tags": [
-"america",
-"work",
-"wisdom"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "folsom-prison-blues",
@@ -4405,21 +3478,23 @@
 "blessing",
 "youth",
 "hope",
-"life"
+"joy",
+"ambition",
+"compassion",
+"wisdom",
+"change",
+"endurance",
+"morality"
 ],
-"n": 2
+"n": 6
 },
 {
 "slug": "forgetful-heart",
 "title": "Forgetful Heart",
 "album": "Together Through Life",
 "year": 2009,
-"tags": [
-"memory",
-"love",
-"loss"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "four-strong-winds",
@@ -4434,12 +3509,8 @@
 "title": "Fourth Time Around",
 "album": "Blonde on Blonde",
 "year": 1966,
-"tags": [
-"independence",
-"love",
-"bitterness"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "frankie-albert",
@@ -4495,11 +3566,13 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
+"truth",
 "faith",
+"paradox",
 "vision",
-"wisdom"
+"surreal"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "george-jackson",
@@ -4527,19 +3600,15 @@
 "memory",
 "travel"
 ],
-"n": 2
+"n": 1
 },
 {
 "slug": "god-knows",
 "title": "God Knows",
 "album": "Under the Red Sky",
 "year": 1990,
-"tags": [
-"faith",
-"love",
-"honesty"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "goin-down-road-feeling-bad",
@@ -4562,12 +3631,8 @@
 "title": "Going, Going, Gone",
 "album": "The Complete Budokan 1978",
 "year": 2023,
-"tags": [
-"change",
-"decision",
-"farewell"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "golden-loom",
@@ -4598,12 +3663,8 @@
 "title": "Goodbye Jimmy Reed",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"blues",
-"tribute",
-"memory"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "gospel-plow",
@@ -4628,8 +3689,8 @@
 "year": 1979,
 "tags": [
 "faith",
-"choice",
-"morality"
+"morality",
+"choice"
 ],
 "n": 1
 },
@@ -4782,24 +3843,16 @@
 "title": "High Water (For Charley Patton)",
 "album": "“Love and Theft”",
 "year": 2001,
-"tags": [
-"disaster",
-"america",
-"blues"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "highlands",
 "title": "Highlands",
 "album": "Time out of Mind",
 "year": 1997,
-"tags": [
-"travel",
-"loneliness",
-"search"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "highway-51",
@@ -4816,8 +3869,8 @@
 "year": 1965,
 "tags": [
 "faith",
-"story",
-"america"
+"america",
+"surreal"
 ],
 "n": 1
 },
@@ -4876,9 +3929,9 @@
 "year": 1976,
 "tags": [
 "justice",
-"story",
-"race",
-"america"
+"america",
+"protest",
+"injustice"
 ],
 "n": 2
 },
@@ -4887,32 +3940,28 @@
 "title": "I Am A Lonesome Hobo",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [],
-"n": 0
+"tags": [
+"advice",
+"independence",
+"morality"
+],
+"n": 1
 },
 {
 "slug": "i-and-i",
 "title": "I and I",
 "album": "Infidels",
 "year": 1983,
-"tags": [
-"identity",
-"faith",
-"duality"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "i-believe-you",
 "title": "I Believe in You",
 "album": "Slow Train Coming",
 "year": 1979,
-"tags": [
-"faith",
-"devotion",
-"doubt"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "i-cant-come-broken-heart",
@@ -4935,12 +3984,8 @@
 "title": "I Contain Multitudes",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"identity",
-"paradox",
-"self"
-],
-"n": 2
+"tags": [],
+"n": 0
 },
 {
 "slug": "i-dont-believe-you-she-acts-we-never-have-met",
@@ -4963,24 +4008,16 @@
 "title": "I Dreamed I Saw St. Augustine",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [
-"faith",
-"dream",
-"guilt"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "i-feel-change-comin",
 "title": "I Feel a Change Comin’ On",
 "album": "Together Through Life",
 "year": 2009,
-"tags": [
-"change",
-"time",
-"hope"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "i-forgot-more-youll-ever-know",
@@ -5019,8 +4056,12 @@
 "title": "I Shall Be Free No. 10",
 "album": "Another Side of Bob Dylan",
 "year": 1964,
-"tags": [],
-"n": 0
+"tags": [
+"art",
+"humor",
+"identity"
+],
+"n": 1
 },
 {
 "slug": "i-shall-be-released",
@@ -5028,11 +4069,13 @@
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
 "tags": [
-"freedom",
 "hope",
-"redemption"
+"redemption",
+"faith",
+"freedom",
+"mortality"
 ],
-"n": 2
+"n": 3
 },
 {
 "slug": "i-threw-it-all-away",
@@ -5042,7 +4085,7 @@
 "tags": [
 "love",
 "regret",
-"loss"
+"wisdom"
 ],
 "n": 1
 },
@@ -5059,12 +4102,8 @@
 "title": "I Want You",
 "album": "Blonde on Blonde",
 "year": 1966,
-"tags": [
-"love",
-"longing",
-"surreal"
-],
-"n": 2
+"tags": [],
+"n": 0
 },
 {
 "slug": "i-was-young-when-i-left-home",
@@ -5111,12 +4150,8 @@
 "title": "I’ll Be Your Baby Tonight",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [
-"love",
-"comfort",
-"home"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "ill-keep-it-mine",
@@ -5131,12 +4166,8 @@
 "title": "I’ll Remember You",
 "album": "Empire Burlesque",
 "year": 1985,
-"tags": [
-"memory",
-"love",
-"farewell"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "im-fool-you",
@@ -5199,12 +4230,8 @@
 "title": "I’ve Made Up My Mind to Give Myself to You",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"love",
-"devotion",
-"decision"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "idiot-wind",
@@ -5214,7 +4241,6 @@
 "tags": [
 "bitterness",
 "love",
-"betrayal",
 "anger"
 ],
 "n": 2
@@ -5224,12 +4250,8 @@
 "title": "If Dogs Run Free",
 "album": "New Morning",
 "year": 1970,
-"tags": [
-"freedom",
-"philosophy",
-"jazz"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "if-i-were-carpenter",
@@ -5244,12 +4266,8 @@
 "title": "If Not for You",
 "album": "New Morning",
 "year": 1970,
-"tags": [
-"love",
-"gratitude",
-"devotion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "if-you-ever-go-houston",
@@ -5274,10 +4292,11 @@
 "year": 1975,
 "tags": [
 "love",
+"farewell",
 "memory",
-"farewell"
+"time"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "my-time-dyin",
@@ -5300,12 +4319,8 @@
 "title": "In the Garden",
 "album": "Saved",
 "year": 1980,
-"tags": [
-"faith",
-"gospel",
-"history"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "summertime",
@@ -5368,12 +4383,8 @@
 "title": "Isis",
 "album": "Desire",
 "year": 1976,
-"tags": [
-"love",
-"adventure",
-"myth"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "it-aint-me-babe",
@@ -5383,9 +4394,10 @@
 "tags": [
 "love",
 "independence",
+"farewell",
 "identity"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "it-had-to-be-you",
@@ -5408,8 +4420,12 @@
 "title": "It Takes a Lot to Laugh, It Takes a Train to Cry",
 "album": "Highway 61 Revisited",
 "year": 1965,
-"tags": [],
-"n": 0
+"tags": [
+"love",
+"equality",
+"devotion"
+],
+"n": 1
 },
 {
 "slug": "its-all-good",
@@ -5425,11 +4441,14 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"farewell",
 "change",
-"advice"
+"farewell",
+"hope",
+"advice",
+"journey",
+"wisdom"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "its-alright-ma-im-only-bleeding",
@@ -5437,15 +4456,22 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"wisdom",
 "life",
-"warning",
-"power",
+"change",
+"wisdom",
 "money",
+"power",
+"truth",
 "america",
-"truth"
+"faith",
+"disillusion",
+"society",
+"freedom",
+"dream",
+"morality",
+"peace"
 ],
-"n": 3
+"n": 6
 },
 {
 "slug": "its-flight-bumblebee",
@@ -5524,12 +4550,8 @@
 "title": "John Wesley Harding",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [
-"outlaw",
-"story",
-"west"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "johnny-todd",
@@ -5544,12 +4566,8 @@
 "title": "Jokerman",
 "album": "Infidels",
 "year": 1983,
-"tags": [
-"freedom",
-"truth",
-"warning"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "jolene",
@@ -5582,12 +4600,10 @@
 "year": 1966,
 "tags": [
 "love",
-"identity",
-"bitterness",
-"loneliness",
-"pain"
+"vulnerability",
+"women"
 ],
-"n": 2
+"n": 1
 },
 {
 "slug": "just-tom-thumbs-blues",
@@ -5595,9 +4611,9 @@
 "album": "Highway 61 Revisited",
 "year": 1965,
 "tags": [
-"travel",
-"exhaustion",
-"america"
+"outlaw",
+"warning",
+"humor"
 ],
 "n": 1
 },
@@ -5614,12 +4630,8 @@
 "title": "Key West (Philosopher Pirate)",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"place",
-"escape",
-"vision"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "kickin-my-dog-around",
@@ -5652,10 +4664,11 @@
 "year": 2023,
 "tags": [
 "death",
-"farewell",
-"peace"
+"mortality",
+"faith",
+"surrender"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "last-thoughts-woody-guthrie",
@@ -5670,12 +4683,8 @@
 "title": "Lay Down Your Weary Tune",
 "album": "Biograph",
 "year": 1985,
-"tags": [
-"music",
-"rest",
-"nature"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "lay-lady-lay",
@@ -5684,10 +4693,12 @@
 "year": 1969,
 "tags": [
 "love",
-"desire",
-"invitation"
+"invitation",
+"vision",
+"decision",
+"character"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "legionnaires-disease",
@@ -5702,12 +4713,8 @@
 "title": "Lenny Bruce",
 "album": "Shot of Love",
 "year": 1981,
-"tags": [
-"memory",
-"truth",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "leopard-skin-pill-box-hat",
@@ -5730,12 +4737,8 @@
 "title": "Let Me Die in My Footsteps",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"defiance",
-"freedom",
-"death"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "lets-keep-it-between-us",
@@ -5758,12 +4761,8 @@
 "title": "License to Kill",
 "album": "Infidels",
 "year": 1983,
-"tags": [
-"power",
-"outlaw",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "life-hard",
@@ -5780,11 +4779,10 @@
 "year": 1965,
 "tags": [
 "identity",
-"fall",
-"questions",
-"independence",
+"loss",
+"freedom",
 "wisdom",
-"memory"
+"truth"
 ],
 "n": 3
 },
@@ -5881,12 +4879,8 @@
 "title": "Long and Wasted Years",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"regret",
-"love",
-"time"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "long-distance-operator",
@@ -5950,23 +4944,21 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"love",
+"paradox",
 "wisdom",
-"paradox"
+"success",
+"society",
+"power"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "love-sick",
 "title": "Love Sick",
 "album": "Time out of Mind",
 "year": 1997,
-"tags": [
-"love",
-"pain",
-"disillusion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "lunatic-princess",
@@ -5982,11 +4974,12 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
+"identity",
 "independence",
-"protest",
-"labor"
+"labor",
+"defiance"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "main-title-theme-billy",
@@ -6001,24 +4994,16 @@
 "title": "Make You Feel My Love",
 "album": "Time out of Mind",
 "year": 1997,
-"tags": [
-"love",
-"devotion",
-"promise"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "mama-you-been-my-mind",
 "title": "Mama, You Been On My Mind",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"love",
-"memory",
-"longing"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "man-gave-names-all-animals",
@@ -6033,12 +5018,8 @@
 "title": "Man in the Long Black Coat",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"mystery",
-"farewell",
-"story"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "man-constant-sorrow",
@@ -6053,12 +5034,8 @@
 "title": "Man of Peace",
 "album": "Infidels",
 "year": 1983,
-"tags": [
-"faith",
-"warning",
-"evil"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "man-street",
@@ -6115,10 +5092,13 @@
 "year": 1963,
 "tags": [
 "war",
-"protest",
-"power"
+"money",
+"morality",
+"faith",
+"power",
+"truth"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "maybe-someday",
@@ -6149,12 +5129,8 @@
 "title": "Meet Me in the Morning",
 "album": "Blood on the Tracks",
 "year": 1975,
-"tags": [
-"love",
-"invitation",
-"travel"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "melancholy-mood",
@@ -6169,12 +5145,8 @@
 "title": "Million Dollar Bash",
 "album": "The Basement Tapes",
 "year": 1975,
-"tags": [
-"humor",
-"party",
-"friends"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "million-miles",
@@ -6207,10 +5179,10 @@
 "year": 2001,
 "tags": [
 "time",
-"regret",
-"wisdom",
-"travel",
-"blues"
+"memory",
+"journey",
+"friendship",
+"gratitude"
 ],
 "n": 2
 },
@@ -6235,12 +5207,8 @@
 "title": "Moonlight",
 "album": "“Love and Theft”",
 "year": 2001,
-"tags": [
-"love",
-"night",
-"beauty"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "moonshiner",
@@ -6255,48 +5223,32 @@
 "title": "Most Likely You Go Your Way (and I’ll Go Mine)",
 "album": "Blonde on Blonde",
 "year": 1966,
-"tags": [
-"farewell",
-"independence",
-"love"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "most-time",
 "title": "Most of the Time",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"love",
-"memory",
-"restraint"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "mother-of-muses",
 "title": "Mother of Muses",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"art",
-"history",
-"prayer"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "motorpsycho-nightmare",
 "title": "Motorpsycho Nightmare",
 "album": "Another Side of Bob Dylan",
 "year": 1964,
-"tags": [
-"humor",
-"america",
-"story"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "mozambique",
@@ -6328,26 +5280,22 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
-"escape",
 "music",
-"vision",
-"freedom"
+"dream",
+"freedom",
+"joy",
+"escape",
+"time"
 ],
-"n": 2
+"n": 4
 },
 {
 "slug": "murder-most-foul",
 "title": "Murder Most Foul",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"history",
-"tragedy",
-"america",
-"memory",
-"music"
-],
-"n": 2
+"tags": [],
+"n": 0
 },
 {
 "slug": "must-be-santa",
@@ -6363,11 +5311,13 @@
 "album": "Another Side of Bob Dylan",
 "year": 1964,
 "tags": [
-"identity",
-"time",
-"wisdom"
+"youth",
+"change",
+"wisdom",
+"self",
+"truth"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "my-buckets-got-hole-it",
@@ -6382,12 +5332,8 @@
 "title": "My Own Version of You",
 "album": "Rough and Rowdy Ways",
 "year": 2020,
-"tags": [
-"creation",
-"identity",
-"art"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "my-wifes-home-town",
@@ -6418,12 +5364,8 @@
 "title": "Narrow Way",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"faith",
-"journey",
-"endurance"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "nashville-skyline-rag",
@@ -6502,12 +5444,8 @@
 "title": "New Morning",
 "album": "New Morning",
 "year": 1970,
-"tags": [
-"hope",
-"renewal",
-"joy"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "new-pony",
@@ -6554,24 +5492,16 @@
 "title": "No Time to Think",
 "album": "Street-Legal",
 "year": 1978,
-"tags": [
-"love",
-"time",
-"confusion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "nobody-cept-you",
 "title": "Nobody ‘Cept You",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"love",
-"home",
-"devotion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "north-country-blues",
@@ -6595,11 +5525,12 @@
 "album": "Time out of Mind",
 "year": 1997,
 "tags": [
-"time",
+"beauty",
+"pain",
+"wisdom",
 "mortality",
-"endurance",
-"will",
-"place"
+"time",
+"endurance"
 ],
 "n": 2
 },
@@ -6632,12 +5563,8 @@
 "title": "Obviously Five Believers",
 "album": "Blonde on Blonde",
 "year": 1966,
-"tags": [
-"surreal",
-"music",
-"humor"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "odds-and-ends",
@@ -6652,12 +5579,8 @@
 "title": "Oh, Sister",
 "album": "The Complete Budokan 1978",
 "year": 2023,
-"tags": [
-"faith",
-"love",
-"family"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "ol-roisin-beau",
@@ -6680,12 +5603,8 @@
 "title": "On a Night Like This",
 "album": "Planet Waves",
 "year": 1974,
-"tags": [
-"love",
-"night",
-"invitation"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "rainy-afternoon",
@@ -6732,12 +5651,8 @@
 "title": "One More Cup of Coffee (Valley Below)",
 "album": "The Complete Budokan 1978",
 "year": 2023,
-"tags": [
-"farewell",
-"travel",
-"love"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "one-more-night",
@@ -6760,12 +5675,8 @@
 "title": "One of Us Must Know  (Sooner or Later)",
 "album": "Blonde on Blonde",
 "year": 1966,
-"tags": [
-"love",
-"regret",
-"apology"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "one-too-many-mornings",
@@ -6773,9 +5684,9 @@
 "album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
-"farewell",
-"distance",
-"time"
+"love",
+"perspective",
+"farewell"
 ],
 "n": 1
 },
@@ -6792,20 +5703,20 @@
 "title": "Only a Pawn in Their Game",
 "album": "The Times They Are A-Changin’",
 "year": 1964,
-"tags": [
-"race",
-"power",
-"protest"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "open-door-homer",
 "title": "Open the Door, Homer",
 "album": "The Basement Tapes",
 "year": 1975,
-"tags": [],
-"n": 0
+"tags": [
+"memory",
+"wisdom",
+"time"
+],
+"n": 1
 },
 {
 "slug": "orange-juice-blues-blues-breakfast",
@@ -6828,24 +5739,16 @@
 "title": "Oxford Town",
 "album": "The Freewheelin’ Bob Dylan",
 "year": 1963,
-"tags": [
-"protest",
-"race",
-"history"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "paths-victory",
 "title": "Paths of Victory",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"hope",
-"struggle",
-"journey"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "pattys-gone-laredo",
@@ -6860,12 +5763,8 @@
 "title": "Pay in Blood",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"anger",
-"justice",
-"endurance"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "peggy-day",
@@ -6920,12 +5819,8 @@
 "title": "Po’ Boy",
 "album": "“Love and Theft”",
 "year": 2001,
-"tags": [
-"humor",
-"poverty",
-"story"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "po-lazarus",
@@ -6940,12 +5835,8 @@
 "title": "Political World",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"politics",
-"america",
-"disillusion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "polka-dots-moonbeams",
@@ -6969,23 +5860,23 @@
 "album": "Bob Dylan’s Greatest Hits",
 "year": 1967,
 "tags": [
+"empathy",
 "bitterness",
-"identity",
-"betrayal"
+"friends",
+"humor",
+"betrayal",
+"faith",
+"truth"
 ],
-"n": 1
+"n": 4
 },
 {
 "slug": "precious-angel",
 "title": "Precious Angel",
 "album": "Slow Train Coming",
 "year": 1979,
-"tags": [
-"faith",
-"love",
-"grace"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "precious-memories",
@@ -7000,12 +5891,8 @@
 "title": "Pressing On",
 "album": "Saved",
 "year": 1980,
-"tags": [
-"faith",
-"perseverance",
-"hope"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "pretty-mary",
@@ -7052,20 +5939,20 @@
 "title": "Queen Jane Approximately",
 "album": "Highway 61 Revisited",
 "year": 1965,
-"tags": [
-"love",
-"invitation",
-"loneliness"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "quinn-eskimo-mighty-quinn",
 "title": "Quinn the Eskimo  (The Mighty Quinn)",
 "album": "Self Portrait",
 "year": 1970,
-"tags": [],
-"n": 0
+"tags": [
+"joy",
+"hope",
+"humor"
+],
+"n": 1
 },
 {
 "slug": "quit-your-low-down-ways",
@@ -7107,7 +5994,7 @@
 "tags": [
 "humor",
 "defiance",
-"community"
+"society"
 ],
 "n": 1
 },
@@ -7164,20 +6051,20 @@
 "title": "Restless Farewell",
 "album": "The Times They Are A-Changin’",
 "year": 1964,
-"tags": [],
-"n": 0
+"tags": [
+"independence",
+"farewell",
+"defiance"
+],
+"n": 1
 },
 {
 "slug": "ring-them-bells",
 "title": "Ring Them Bells",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"faith",
-"warning",
-"hope"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "rita-may",
@@ -7216,12 +6103,8 @@
 "title": "Roll on John",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"memory",
-"friendship",
-"tribute"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "roll-train",
@@ -7244,12 +6127,8 @@
 "title": "Romance in Durango",
 "album": "Desire",
 "year": 1976,
-"tags": [
-"adventure",
-"love",
-"west"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "ruben-remus",
@@ -7264,12 +6143,8 @@
 "title": "Sad-Eyed Lady of the Lowlands",
 "album": "Blonde on Blonde",
 "year": 1966,
-"tags": [
-"love",
-"devotion",
-"vision"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "sally-gal",
@@ -7300,12 +6175,8 @@
 "title": "Sara",
 "album": "Desire",
 "year": 1976,
-"tags": [
-"love",
-"memory",
-"regret"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "sarah-jane",
@@ -7320,12 +6191,8 @@
 "title": "Saved",
 "album": "Saved",
 "year": 1980,
-"tags": [
-"faith",
-"redemption",
-"conversion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "saving-grace",
@@ -7372,24 +6239,16 @@
 "title": "Señor (Tales of Yankee Power)",
 "album": "Street-Legal",
 "year": 1978,
-"tags": [
-"questions",
-"travel",
-"warning"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "series-dreams",
 "title": "Series of Dreams",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"dream",
-"memory",
-"search"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "seven-curses",
@@ -7404,12 +6263,8 @@
 "title": "Seven Days",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"waiting",
-"love",
-"hope"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "shake-shake-mama",
@@ -7424,8 +6279,15 @@
 "title": "She Belongs to Me",
 "album": "Bringing It All Back Home",
 "year": 1965,
-"tags": [],
-"n": 0
+"tags": [
+"art",
+"independence",
+"women",
+"freedom",
+"love",
+"humor"
+],
+"n": 3
 },
 {
 "slug": "shell-be-coming-round-mountain",
@@ -7459,9 +6321,12 @@
 "tags": [
 "love",
 "refuge",
-"grace"
+"rescue",
+"beauty",
+"ambition",
+"hope"
 ],
-"n": 1
+"n": 3
 },
 {
 "slug": "shenandoah",
@@ -7476,24 +6341,16 @@
 "title": "Shooting Star",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"love",
-"memory",
-"longing"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "shot-love",
 "title": "Shot of Love",
 "album": "Shot of Love",
 "year": 1981,
-"tags": [
-"faith",
-"love",
-"comfort"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "sign-language",
@@ -7508,12 +6365,8 @@
 "title": "Sign on the Cross",
 "album": "The Bootleg Series, Vol. 11: The Basement Tapes RAW",
 "year": 2014,
-"tags": [
-"faith",
-"warning",
-"journey"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "sign-window",
@@ -7568,12 +6421,8 @@
 "title": "Simple Twist of Fate",
 "album": "The Complete Budokan 1978",
 "year": 2023,
-"tags": [
-"love",
-"chance",
-"fate"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "sittin-top-world",
@@ -7604,12 +6453,8 @@
 "title": "Slow Train",
 "album": "Slow Train Coming",
 "year": 1979,
-"tags": [
-"faith",
-"warning",
-"change"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "solid-rock",
@@ -7648,12 +6493,8 @@
 "title": "Something There Is About You",
 "album": "Planet Waves",
 "year": 1974,
-"tags": [
-"love",
-"memory",
-"identity"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "somethings-burning-baby",
@@ -7677,11 +6518,13 @@
 "album": "Bob Dylan",
 "year": 1962,
 "tags": [
-"memory",
+"tribute",
 "influence",
-"folk"
+"labor",
+"journey",
+"tradition"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "soon-after-midnight",
@@ -7736,12 +6579,8 @@
 "title": "Standing in the Doorway",
 "album": "Time out of Mind",
 "year": 1997,
-"tags": [
-"love",
-"loneliness",
-"mortality"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "standing-highway",
@@ -7789,9 +6628,9 @@
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"travel",
 "trapped",
-"blues"
+"blues",
+"humor"
 ],
 "n": 1
 },
@@ -7801,26 +6640,25 @@
 "album": "Bringing It All Back Home",
 "year": 1965,
 "tags": [
+"wisdom",
+"truth",
 "protest",
+"independence",
+"power",
 "advice",
-"change",
-"chaos",
-"america",
-"humor"
+"youth",
+"labor",
+"disillusion"
 ],
-"n": 2
+"n": 3
 },
 {
 "slug": "sugar-baby",
 "title": "Sugar Baby",
 "album": "“Love and Theft”",
 "year": 2001,
-"tags": [
-"warning",
-"faith",
-"farewell"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "summer-days",
@@ -7851,12 +6689,8 @@
 "title": "Sweetheart Like You",
 "album": "Infidels",
 "year": 1983,
-"tags": [
-"love",
-"questions",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "tv-talkin-song",
@@ -7911,16 +6745,24 @@
 "title": "Talkin’ New York",
 "album": "Bob Dylan",
 "year": 1962,
-"tags": [],
-"n": 0
+"tags": [
+"money",
+"power",
+"humor"
+],
+"n": 1
 },
 {
 "slug": "talkin-world-war-iii-blues",
 "title": "Talkin’ World War III Blues",
 "album": "The Freewheelin’ Bob Dylan",
 "year": 1963,
-"tags": [],
-"n": 0
+"tags": [
+"dream",
+"friends",
+"humor"
+],
+"n": 1
 },
 {
 "slug": "tangled-blue",
@@ -7930,10 +6772,12 @@
 "tags": [
 "love",
 "memory",
-"story",
+"journey",
+"endurance",
+"purpose",
 "perspective"
 ],
-"n": 2
+"n": 4
 },
 {
 "slug": "tattle-o-day",
@@ -7988,12 +6832,8 @@
 "title": "Tempest",
 "album": "Tempest",
 "year": 2012,
-"tags": [
-"disaster",
-"story",
-"tragedy"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "temporary-achilles",
@@ -8040,8 +6880,14 @@
 "title": "The Ballad of Frankie Lee and Judas Priest",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [],
-"n": 0
+"tags": [
+"advice",
+"faith",
+"morality",
+"mystery",
+"paradox"
+],
+"n": 2
 },
 {
 "slug": "ballad-ira-hayes",
@@ -8112,12 +6958,8 @@
 "title": "The Groom’s Still Waiting at the Altar",
 "album": "Shot of Love",
 "year": 1981,
-"tags": [
-"faith",
-"waiting",
-"change"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "hills-mexico",
@@ -8142,8 +6984,8 @@
 "year": 1964,
 "tags": [
 "justice",
-"race",
-"class"
+"grief",
+"protest"
 ],
 "n": 1
 },
@@ -8161,9 +7003,9 @@
 "album": "The Complete Budokan 1978",
 "year": 2023,
 "tags": [
-"love",
 "identity",
-"devotion"
+"self",
+"love"
 ],
 "n": 1
 },
@@ -8205,15 +7047,20 @@
 "album": "The Times They Are A-Changin’",
 "year": 1964,
 "tags": [
-"protest",
 "change",
 "history",
-"prophecy",
-"power",
+"protest",
+"generations",
+"wisdom",
 "youth",
-"generations"
+"warning",
+"endurance",
+"prophecy",
+"hope",
+"power",
+"leadership"
 ],
-"n": 3
+"n": 7
 },
 {
 "slug": "the-tracks-of-my-tears",
@@ -8244,12 +7091,8 @@
 "title": "The Wicked Messenger",
 "album": "John Wesley Harding",
 "year": 1967,
-"tags": [
-"warning",
-"wisdom",
-"messenger"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "these-hands",
@@ -8273,11 +7116,14 @@
 "album": "The Essential Bob Dylan",
 "year": 2000,
 "tags": [
-"disillusion",
 "change",
-"time"
+"disillusion",
+"time",
+"identity",
+"escape",
+"self"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "thirsty-boots",
@@ -8292,12 +7138,8 @@
 "title": "This Dream of You",
 "album": "Together Through Life",
 "year": 2009,
-"tags": [
-"love",
-"dream",
-"longing"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "evening-so-soon",
@@ -8338,8 +7180,8 @@
 "year": 1975,
 "tags": [
 "warning",
-"change",
-"partnership"
+"journey",
+"disaster"
 ],
 "n": 1
 },
@@ -8356,32 +7198,28 @@
 "title": "Thunder on the Mountain",
 "album": "Modern Times",
 "year": 2006,
-"tags": [
-"energy",
-"change",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "tight-connection-my-heart-has-anyone-seen-my-love",
 "title": "Tight Connection to My Heart  (Has Anyone Seen My Love)",
 "album": "Empire Burlesque",
 "year": 1985,
-"tags": [
-"love",
-"farewell",
-"identity"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "time-passes-slowly",
 "title": "Time Passes Slowly",
 "album": "New Morning",
 "year": 1970,
-"tags": [],
-"n": 0
+"tags": [
+"time",
+"nature",
+"peace"
+],
+"n": 1
 },
 {
 "slug": "tin-angel",
@@ -8396,20 +7234,20 @@
 "title": "Tiny Montgomery",
 "album": "The Basement Tapes",
 "year": 1975,
-"tags": [
-"humor",
-"invitation",
-"friends"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "be-alone-you",
 "title": "To Be Alone with You",
 "album": "Nashville Skyline",
 "year": 1969,
-"tags": [],
-"n": 0
+"tags": [
+"love",
+"devotion",
+"joy"
+],
+"n": 1
 },
 {
 "slug": "ramona",
@@ -8417,7 +7255,7 @@
 "album": "Another Side of Bob Dylan",
 "year": 1964,
 "tags": [
-"love",
+"change",
 "advice",
 "independence"
 ],
@@ -8431,21 +7269,19 @@
 "tags": [
 "humor",
 "surreal",
-"america"
+"fear",
+"advice",
+"endurance"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "tomorrow-long-time",
 "title": "Tomorrow Is a Long Time",
 "album": "The Complete Budokan 1978",
 "year": 2023,
-"tags": [
-"love",
-"longing",
-"time"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "tomorrow-night",
@@ -8462,8 +7298,8 @@
 "year": 1969,
 "tags": [
 "love",
-"home",
-"devotion"
+"decision",
+"home"
 ],
 "n": 1
 },
@@ -8488,12 +7324,8 @@
 "title": "Tough Mama",
 "album": "Planet Waves",
 "year": 1974,
-"tags": [
-"desire",
-"music",
-"love"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "train-a-travelin",
@@ -8532,12 +7364,8 @@
 "title": "Trust Yourself",
 "album": "Empire Burlesque",
 "year": 1985,
-"tags": [
-"advice",
-"independence",
-"wisdom"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "try-me-little-girl",
@@ -8552,13 +7380,8 @@
 "title": "Tryin’ to Get to Heaven",
 "album": "Time out of Mind",
 "year": 1997,
-"tags": [
-"death",
-"faith",
-"journey",
-"exclusion"
-],
-"n": 2
+"tags": [],
+"n": 0
 },
 {
 "slug": "tupelo",
@@ -8661,12 +7484,8 @@
 "title": "Up to Me",
 "album": "Biograph",
 "year": 1985,
-"tags": [
-"responsibility",
-"love",
-"regret"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "visions-johanna",
@@ -8674,13 +7493,21 @@
 "album": "Blonde on Blonde",
 "year": 1966,
 "tags": [
-"vision",
 "night",
+"longing",
+"mystery",
+"trapped",
 "loneliness",
-"love",
-"surreal"
+"truth",
+"vision",
+"surreal",
+"art",
+"humor",
+"blues",
+"time",
+"paradox"
 ],
-"n": 2
+"n": 5
 },
 {
 "slug": "waiting-you",
@@ -8703,12 +7530,8 @@
 "title": "Wallflower",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"love",
-"invitation",
-"loneliness"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "walls-red-wing",
@@ -8739,12 +7562,8 @@
 "title": "Watching the River Flow",
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
-"tags": [
-"patience",
-"peace",
-"time"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "watered-down-love",
@@ -8759,12 +7578,8 @@
 "title": "We Better Talk This Over",
 "album": "Street-Legal",
 "year": 1978,
-"tags": [
-"love",
-"farewell",
-"talk"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "we-just-disagree",
@@ -8787,12 +7602,8 @@
 "title": "Went to See the Gypsy",
 "album": "New Morning",
 "year": 1970,
-"tags": [
-"search",
-"fame",
-"story"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "what-can-i-do-you",
@@ -8807,24 +7618,16 @@
 "title": "What Good Am I?",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"morality",
-"questions",
-"conscience"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "what-was-it-you-wanted",
 "title": "What Was It You Wanted?",
 "album": "Oh Mercy",
 "year": 1989,
-"tags": [
-"questions",
-"love",
-"confusion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "what-will-you-do-when-jesus-comes",
@@ -8871,12 +7674,8 @@
 "title": "When He Returns",
 "album": "Slow Train Coming",
 "year": 1979,
-"tags": [
-"faith",
-"judgment",
-"truth"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "when-i-got-troubles",
@@ -8903,36 +7702,24 @@
 "title": "When the Deal Goes Down",
 "album": "Modern Times",
 "year": 2006,
-"tags": [
-"faith",
-"love",
-"endurance"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "when-night-comes-falling-sky",
 "title": "When the Night Comes Falling from the Sky",
 "album": "Empire Burlesque",
 "year": 1985,
-"tags": [
-"warning",
-"love",
-"night"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "when-ship-comes",
 "title": "When the Ship Comes in",
 "album": "The Times They Are A-Changin’",
 "year": 1964,
-"tags": [
-"change",
-"prophecy",
-"justice"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "when-you-awake",
@@ -9062,9 +7849,10 @@
 "tags": [
 "war",
 "faith",
-"history"
+"questions",
+"peace"
 ],
-"n": 1
+"n": 2
 },
 {
 "slug": "woogie-boogie",
@@ -9087,12 +7875,8 @@
 "title": "Workingman’s Blues #2",
 "album": "Modern Times",
 "year": 2006,
-"tags": [
-"labor",
-"change",
-"america"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "world-gone-wrong",
@@ -9123,12 +7907,8 @@
 "title": "Ye Shall Be Changed",
 "album": "The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991",
 "year": 1991,
-"tags": [
-"faith",
-"transformation",
-"hope"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "yea-heavy-and-bottle-bread",
@@ -9151,24 +7931,16 @@
 "title": "You Ain’t Goin’ Nowhere",
 "album": "Bob Dylan’s Greatest Hits Volume II",
 "year": 1971,
-"tags": [
-"hope",
-"home",
-"humor"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "you-angel-you",
 "title": "You Angel You",
 "album": "Planet Waves",
 "year": 1974,
-"tags": [
-"love",
-"joy",
-"devotion"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "you-changed-my-life",
@@ -9207,20 +7979,20 @@
 "title": "You’re a Big Girl Now",
 "album": "The Complete Budokan 1978",
 "year": 2023,
-"tags": [],
-"n": 0
+"tags": [
+"time",
+"love",
+"loss"
+],
+"n": 1
 },
 {
 "slug": "youre-gonna-make-me-lonesome-when-you-go",
 "title": "You’re Gonna Make Me Lonesome When You Go",
 "album": "Blood on the Tracks",
 "year": 1975,
-"tags": [
-"love",
-"farewell",
-"longing"
-],
-"n": 1
+"tags": [],
+"n": 0
 },
 {
 "slug": "youre-gonna-quit-me",
@@ -9843,286 +8615,251 @@
 {
 "slug": "love",
 "name": "love",
-"n": 78
-},
-{
-"slug": "faith",
-"name": "faith",
-"n": 30
-},
-{
-"slug": "america",
-"name": "america",
-"n": 24
-},
-{
-"slug": "memory",
-"name": "memory",
-"n": 23
-},
-{
-"slug": "farewell",
-"name": "farewell",
-"n": 18
-},
-{
-"slug": "warning",
-"name": "warning",
-"n": 18
-},
-{
-"slug": "change",
-"name": "change",
-"n": 17
-},
-{
-"slug": "identity",
-"name": "identity",
-"n": 16
-},
-{
-"slug": "hope",
-"name": "hope",
-"n": 13
-},
-{
-"slug": "time",
-"name": "time",
-"n": 13
+"n": 32
 },
 {
 "slug": "wisdom",
 "name": "wisdom",
-"n": 13
+"n": 18
 },
 {
-"slug": "travel",
-"name": "travel",
-"n": 12
+"slug": "faith",
+"name": "faith",
+"n": 16
 },
 {
-"slug": "vision",
-"name": "vision",
-"n": 12
-},
-{
-"slug": "devotion",
-"name": "devotion",
-"n": 11
-},
-{
-"slug": "story",
-"name": "story",
-"n": 11
+"slug": "change",
+"name": "change",
+"n": 15
 },
 {
 "slug": "humor",
 "name": "humor",
-"n": 10
+"n": 13
 },
 {
 "slug": "independence",
 "name": "independence",
-"n": 10
-},
-{
-"slug": "history",
-"name": "history",
-"n": 9
-},
-{
-"slug": "freedom",
-"name": "freedom",
-"n": 8
-},
-{
-"slug": "journey",
-"name": "journey",
-"n": 8
-},
-{
-"slug": "loneliness",
-"name": "loneliness",
-"n": 8
+"n": 13
 },
 {
 "slug": "power",
 "name": "power",
-"n": 8
-},
-{
-"slug": "protest",
-"name": "protest",
-"n": 8
-},
-{
-"slug": "questions",
-"name": "questions",
-"n": 8
-},
-{
-"slug": "regret",
-"name": "regret",
-"n": 8
-},
-{
-"slug": "blues",
-"name": "blues",
-"n": 7
-},
-{
-"slug": "longing",
-"name": "longing",
-"n": 7
-},
-{
-"slug": "bitterness",
-"name": "bitterness",
-"n": 6
-},
-{
-"slug": "invitation",
-"name": "invitation",
-"n": 6
-},
-{
-"slug": "justice",
-"name": "justice",
-"n": 6
-},
-{
-"slug": "music",
-"name": "music",
-"n": 6
-},
-{
-"slug": "night",
-"name": "night",
-"n": 6
-},
-{
-"slug": "death",
-"name": "death",
-"n": 5
-},
-{
-"slug": "endurance",
-"name": "endurance",
-"n": 5
-},
-{
-"slug": "prophecy",
-"name": "prophecy",
-"n": 5
-},
-{
-"slug": "race",
-"name": "race",
-"n": 5
-},
-{
-"slug": "surreal",
-"name": "surreal",
-"n": 5
-},
-{
-"slug": "advice",
-"name": "advice",
-"n": 4
-},
-{
-"slug": "disaster",
-"name": "disaster",
-"n": 4
-},
-{
-"slug": "dream",
-"name": "dream",
-"n": 4
-},
-{
-"slug": "grace",
-"name": "grace",
-"n": 4
-},
-{
-"slug": "home",
-"name": "home",
-"n": 4
-},
-{
-"slug": "paradox",
-"name": "paradox",
-"n": 4
-},
-{
-"slug": "search",
-"name": "search",
-"n": 4
-},
-{
-"slug": "truth",
-"name": "truth",
-"n": 4
+"n": 13
 },
 {
 "slug": "art",
 "name": "art",
-"n": 3
+"n": 11
 },
 {
-"slug": "confusion",
-"name": "confusion",
-"n": 3
+"slug": "hope",
+"name": "hope",
+"n": 11
 },
 {
-"slug": "decision",
-"name": "decision",
-"n": 3
+"slug": "truth",
+"name": "truth",
+"n": 11
 },
 {
-"slug": "disillusion",
-"name": "disillusion",
-"n": 3
+"slug": "farewell",
+"name": "farewell",
+"n": 10
 },
 {
-"slug": "escape",
-"name": "escape",
-"n": 3
+"slug": "journey",
+"name": "journey",
+"n": 10
 },
 {
-"slug": "fall",
-"name": "fall",
-"n": 3
+"slug": "time",
+"name": "time",
+"n": 10
+},
+{
+"slug": "freedom",
+"name": "freedom",
+"n": 9
 },
 {
 "slug": "morality",
 "name": "morality",
-"n": 3
+"n": 9
+},
+{
+"slug": "bitterness",
+"name": "bitterness",
+"n": 8
+},
+{
+"slug": "identity",
+"name": "identity",
+"n": 8
+},
+{
+"slug": "endurance",
+"name": "endurance",
+"n": 7
+},
+{
+"slug": "memory",
+"name": "memory",
+"n": 7
+},
+{
+"slug": "paradox",
+"name": "paradox",
+"n": 7
+},
+{
+"slug": "protest",
+"name": "protest",
+"n": 7
+},
+{
+"slug": "surreal",
+"name": "surreal",
+"n": 7
+},
+{
+"slug": "warning",
+"name": "warning",
+"n": 7
+},
+{
+"slug": "advice",
+"name": "advice",
+"n": 6
+},
+{
+"slug": "america",
+"name": "america",
+"n": 6
+},
+{
+"slug": "blessing",
+"name": "blessing",
+"n": 6
+},
+{
+"slug": "friends",
+"name": "friends",
+"n": 6
+},
+{
+"slug": "war",
+"name": "war",
+"n": 6
+},
+{
+"slug": "dream",
+"name": "dream",
+"n": 5
+},
+{
+"slug": "labor",
+"name": "labor",
+"n": 5
+},
+{
+"slug": "loss",
+"name": "loss",
+"n": 5
+},
+{
+"slug": "questions",
+"name": "questions",
+"n": 5
+},
+{
+"slug": "youth",
+"name": "youth",
+"n": 5
+},
+{
+"slug": "disillusion",
+"name": "disillusion",
+"n": 4
+},
+{
+"slug": "escape",
+"name": "escape",
+"n": 4
+},
+{
+"slug": "joy",
+"name": "joy",
+"n": 4
+},
+{
+"slug": "justice",
+"name": "justice",
+"n": 4
 },
 {
 "slug": "mortality",
 "name": "mortality",
+"n": 4
+},
+{
+"slug": "music",
+"name": "music",
+"n": 4
+},
+{
+"slug": "peace",
+"name": "peace",
+"n": 4
+},
+{
+"slug": "prophecy",
+"name": "prophecy",
+"n": 4
+},
+{
+"slug": "ambition",
+"name": "ambition",
 "n": 3
 },
 {
-"slug": "nature",
-"name": "nature",
+"slug": "blues",
+"name": "blues",
 "n": 3
 },
 {
-"slug": "outlaw",
-"name": "outlaw",
+"slug": "defiance",
+"name": "defiance",
 "n": 3
 },
 {
-"slug": "pain",
-"name": "pain",
+"slug": "devotion",
+"name": "devotion",
 "n": 3
 },
 {
-"slug": "redemption",
-"name": "redemption",
+"slug": "disaster",
+"name": "disaster",
+"n": 3
+},
+{
+"slug": "generations",
+"name": "generations",
+"n": 3
+},
+{
+"slug": "invitation",
+"name": "invitation",
+"n": 3
+},
+{
+"slug": "money",
+"name": "money",
+"n": 3
+},
+{
+"slug": "purpose",
+"name": "purpose",
 "n": 3
 },
 {
@@ -10131,24 +8868,19 @@
 "n": 3
 },
 {
-"slug": "tragedy",
-"name": "tragedy",
+"slug": "society",
+"name": "society",
 "n": 3
 },
 {
-"slug": "trapped",
-"name": "trapped",
+"slug": "vision",
+"name": "vision",
 "n": 3
 },
 {
-"slug": "war",
-"name": "war",
+"slug": "women",
+"name": "women",
 "n": 3
-},
-{
-"slug": "adventure",
-"name": "adventure",
-"n": 2
 },
 {
 "slug": "anger",
@@ -10156,63 +8888,38 @@
 "n": 2
 },
 {
-"slug": "betrayal",
-"name": "betrayal",
+"slug": "beauty",
+"name": "beauty",
 "n": 2
 },
 {
-"slug": "blessing",
-"name": "blessing",
+"slug": "compassion",
+"name": "compassion",
 "n": 2
 },
 {
-"slug": "chaos",
-"name": "chaos",
+"slug": "confusion",
+"name": "confusion",
 "n": 2
 },
 {
-"slug": "comfort",
-"name": "comfort",
+"slug": "death",
+"name": "death",
 "n": 2
 },
 {
-"slug": "corruption",
-"name": "corruption",
+"slug": "decision",
+"name": "decision",
 "n": 2
 },
 {
-"slug": "defiance",
-"name": "defiance",
+"slug": "history",
+"name": "history",
 "n": 2
 },
 {
-"slug": "desire",
-"name": "desire",
-"n": 2
-},
-{
-"slug": "fate",
-"name": "fate",
-"n": 2
-},
-{
-"slug": "friends",
-"name": "friends",
-"n": 2
-},
-{
-"slug": "joy",
-"name": "joy",
-"n": 2
-},
-{
-"slug": "judgment",
-"name": "judgment",
-"n": 2
-},
-{
-"slug": "labor",
-"name": "labor",
+"slug": "influence",
+"name": "influence",
 "n": 2
 },
 {
@@ -10221,8 +8928,8 @@
 "n": 2
 },
 {
-"slug": "loss",
-"name": "loss",
+"slug": "longing",
+"name": "longing",
 "n": 2
 },
 {
@@ -10231,63 +8938,53 @@
 "n": 2
 },
 {
-"slug": "peace",
-"name": "peace",
+"slug": "nature",
+"name": "nature",
 "n": 2
 },
 {
-"slug": "place",
-"name": "place",
+"slug": "outlaw",
+"name": "outlaw",
 "n": 2
 },
 {
-"slug": "poverty",
-"name": "poverty",
+"slug": "perspective",
+"name": "perspective",
 "n": 2
 },
 {
-"slug": "tribute",
-"name": "tribute",
+"slug": "redemption",
+"name": "redemption",
 "n": 2
 },
 {
-"slug": "waiting",
-"name": "waiting",
+"slug": "refuge",
+"name": "refuge",
 "n": 2
 },
 {
-"slug": "west",
-"name": "west",
+"slug": "regret",
+"name": "regret",
 "n": 2
 },
 {
-"slug": "youth",
-"name": "youth",
+"slug": "trapped",
+"name": "trapped",
 "n": 2
 },
 {
-"slug": "ambition",
-"name": "ambition",
+"slug": "travel",
+"name": "travel",
+"n": 2
+},
+{
+"slug": "betrayal",
+"name": "betrayal",
 "n": 1
 },
 {
-"slug": "apology",
-"name": "apology",
-"n": 1
-},
-{
-"slug": "beauty",
-"name": "beauty",
-"n": 1
-},
-{
-"slug": "breakdown",
-"name": "breakdown",
-"n": 1
-},
-{
-"slug": "chance",
-"name": "chance",
+"slug": "character",
+"name": "character",
 "n": 1
 },
 {
@@ -10296,103 +8993,23 @@
 "n": 1
 },
 {
-"slug": "class",
-"name": "class",
-"n": 1
-},
-{
-"slug": "community",
-"name": "community",
-"n": 1
-},
-{
-"slug": "compassion",
-"name": "compassion",
-"n": 1
-},
-{
 "slug": "conscience",
 "name": "conscience",
 "n": 1
 },
 {
-"slug": "conversion",
-"name": "conversion",
+"slug": "empathy",
+"name": "empathy",
 "n": 1
 },
 {
-"slug": "creation",
-"name": "creation",
+"slug": "equality",
+"name": "equality",
 "n": 1
 },
 {
-"slug": "culture",
-"name": "culture",
-"n": 1
-},
-{
-"slug": "despair",
-"name": "despair",
-"n": 1
-},
-{
-"slug": "dignity",
-"name": "dignity",
-"n": 1
-},
-{
-"slug": "distance",
-"name": "distance",
-"n": 1
-},
-{
-"slug": "doubt",
-"name": "doubt",
-"n": 1
-},
-{
-"slug": "duality",
-"name": "duality",
-"n": 1
-},
-{
-"slug": "edge",
-"name": "edge",
-"n": 1
-},
-{
-"slug": "energy",
-"name": "energy",
-"n": 1
-},
-{
-"slug": "evil",
-"name": "evil",
-"n": 1
-},
-{
-"slug": "exclusion",
-"name": "exclusion",
-"n": 1
-},
-{
-"slug": "exhaustion",
-"name": "exhaustion",
-"n": 1
-},
-{
-"slug": "fame",
-"name": "fame",
-"n": 1
-},
-{
-"slug": "family",
-"name": "family",
-"n": 1
-},
-{
-"slug": "folk",
-"name": "folk",
+"slug": "fear",
+"name": "fear",
 "n": 1
 },
 {
@@ -10401,118 +9018,68 @@
 "n": 1
 },
 {
-"slug": "generations",
-"name": "generations",
-"n": 1
-},
-{
-"slug": "gospel",
-"name": "gospel",
-"n": 1
-},
-{
 "slug": "gratitude",
 "name": "gratitude",
 "n": 1
 },
 {
-"slug": "guilt",
-"name": "guilt",
+"slug": "greed",
+"name": "greed",
 "n": 1
 },
 {
-"slug": "honesty",
-"name": "honesty",
+"slug": "grief",
+"name": "grief",
 "n": 1
 },
 {
-"slug": "humility",
-"name": "humility",
+"slug": "home",
+"name": "home",
 "n": 1
 },
 {
-"slug": "influence",
-"name": "influence",
+"slug": "injustice",
+"name": "injustice",
 "n": 1
 },
 {
-"slug": "jazz",
-"name": "jazz",
+"slug": "leadership",
+"name": "leadership",
 "n": 1
 },
 {
-"slug": "messenger",
-"name": "messenger",
+"slug": "loneliness",
+"name": "loneliness",
 "n": 1
 },
 {
-"slug": "money",
-"name": "money",
+"slug": "night",
+"name": "night",
 "n": 1
 },
 {
-"slug": "myth",
-"name": "myth",
+"slug": "pain",
+"name": "pain",
 "n": 1
 },
 {
-"slug": "partnership",
-"name": "partnership",
+"slug": "poverty",
+"name": "poverty",
 "n": 1
 },
 {
-"slug": "party",
-"name": "party",
+"slug": "preparation",
+"name": "preparation",
 "n": 1
 },
 {
-"slug": "patience",
-"name": "patience",
+"slug": "rescue",
+"name": "rescue",
 "n": 1
 },
 {
-"slug": "perseverance",
-"name": "perseverance",
-"n": 1
-},
-{
-"slug": "perspective",
-"name": "perspective",
-"n": 1
-},
-{
-"slug": "philosophy",
-"name": "philosophy",
-"n": 1
-},
-{
-"slug": "politics",
-"name": "politics",
-"n": 1
-},
-{
-"slug": "prayer",
-"name": "prayer",
-"n": 1
-},
-{
-"slug": "pride",
-"name": "pride",
-"n": 1
-},
-{
-"slug": "promise",
-"name": "promise",
-"n": 1
-},
-{
-"slug": "refuge",
-"name": "refuge",
-"n": 1
-},
-{
-"slug": "renewal",
-"name": "renewal",
+"slug": "respect",
+"name": "respect",
 "n": 1
 },
 {
@@ -10521,43 +9088,43 @@
 "n": 1
 },
 {
-"slug": "rest",
-"name": "rest",
+"slug": "success",
+"name": "success",
 "n": 1
 },
 {
-"slug": "restraint",
-"name": "restraint",
+"slug": "surrender",
+"name": "surrender",
 "n": 1
 },
 {
-"slug": "return",
-"name": "return",
+"slug": "tradition",
+"name": "tradition",
 "n": 1
 },
 {
-"slug": "struggle",
-"name": "struggle",
+"slug": "tragedy",
+"name": "tragedy",
 "n": 1
 },
 {
-"slug": "talk",
-"name": "talk",
+"slug": "tribute",
+"name": "tribute",
 "n": 1
 },
 {
-"slug": "transformation",
-"name": "transformation",
+"slug": "violence",
+"name": "violence",
 "n": 1
 },
 {
-"slug": "will",
-"name": "will",
+"slug": "vulnerability",
+"name": "vulnerability",
 "n": 1
 },
 {
-"slug": "work",
-"name": "work",
+"slug": "wonder",
+"name": "wonder",
 "n": 1
 }
 ]
