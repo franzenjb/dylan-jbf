@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>“Lay, lady, lay, lay across my big brass bed” — Lay, Lady, Lay</title>
+  <meta name="description" content="A searchable index of Bob Dylan’s songs and the lines people cite.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/styles.css">
+  
+</head>
+<body>
+
+<header class="site-head">
+  <a class="mark" href="../">Dylan</a>
+  <form class="find" action="../search.html" method="get" role="search">
+    <label class="sr" for="q-lay-lady-lay-lay-across-">Search</label>
+    <input id="q-lay-lady-lay-lay-across-" type="search" name="q" placeholder="Search lines, songs, subjects…" autocomplete="off">
+  </form>
+  <nav>
+    <a href="../quotes/">Quotes</a>
+    <a href="../subjects/">Subjects</a>
+    <a href="../albums/">Albums</a>
+    <a href="../songs/">Songs</a>
+  </nav>
+</header>
+
+
+<div class="feedback-group" role="group" aria-label="Feedback">
+  <button type="button" class="feedback-btn feedback-up" data-feedback="up" aria-label="This is working">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><circle cx="9" cy="10" r="1" fill="currentColor" stroke="none"/><circle cx="15" cy="10" r="1" fill="currentColor" stroke="none"/></svg>
+  </button>
+  <button type="button" class="feedback-btn feedback-down" data-feedback="down" aria-label="Something is wrong">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 16s1.5-2 4-2 4 2 4 2"/><circle cx="9" cy="10" r="1" fill="currentColor" stroke="none"/><circle cx="15" cy="10" r="1" fill="currentColor" stroke="none"/></svg>
+  </button>
+</div>
+
+<main>
+
+<article class="cite-page">
+  <p class="kicker">Quotation</p>
+  <blockquote class="display">Lay, lady, lay, lay across my big brass bed</blockquote>
+  <p class="attribution">
+    <a href="../songs/lay-lady-lay.html">Lay, Lady, Lay</a>
+    · <a href="../albums/nashville-skyline.html">Nashville Skyline</a> (1969)
+  </p>
+  <p class="tags"><a class="tag" href="../subjects/love.html">love</a> <a class="tag" href="../subjects/desire.html">desire</a> <a class="tag" href="../subjects/invitation.html">invitation</a></p>
+  <div class="cite-box">
+    <button type="button" class="copy" data-copy="Lay, lady, lay, lay across my big brass bed — Bob Dylan, “Lay, Lady, Lay”, Nashville Skyline, 1969">Copy citation</button>
+    <p class="cite-text">Lay, lady, lay, lay across my big brass bed — Bob Dylan, “Lay, Lady, Lay”, Nashville Skyline, 1969</p>
+  </div>
+  <p class="official"><a href="https://www.bobdylan.com/songs/lay-lady-lay/">Full song on bobdylan.com</a></p>
+</article>
+
+</main>
+
+<footer class="site-foot">
+  <p>Short, widely cited lines for writing and talks — not full lyrics. Official catalog from <a href="https://www.bobdylan.com/">bobdylan.com</a>. Each song links there for the complete text.</p>
+  <p>dylan.jbf.com · Jeff Franzen</p>
+</footer>
+
+<script src="../assets/search.js"></script>
+<script src="../assets/feedback.js"></script>
+
+<script>
+document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', async () => {{
+  try {{ await navigator.clipboard.writeText(b.dataset.copy); b.textContent = 'Copied'; }}
+  catch (e) {{ b.textContent = 'Select and copy below'; }}
+}}));
+</script>
+
+</body>
+</html>

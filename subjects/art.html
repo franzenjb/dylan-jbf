@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>art — Dylan</title>
+  <meta name="description" content="A searchable index of Bob Dylan’s songs and the lines people cite.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400;1,8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/styles.css">
+  
+</head>
+<body>
+
+<header class="site-head">
+  <a class="mark" href="../">Dylan</a>
+  <form class="find" action="../search.html" method="get" role="search">
+    <label class="sr" for="q-art-dylan">Search</label>
+    <input id="q-art-dylan" type="search" name="q" placeholder="Search lines, songs, subjects…" autocomplete="off">
+  </form>
+  <nav>
+    <a href="../quotes/">Quotes</a>
+    <a href="../subjects/">Subjects</a>
+    <a href="../albums/">Albums</a>
+    <a href="../songs/">Songs</a>
+  </nav>
+</header>
+
+
+<div class="feedback-group" role="group" aria-label="Feedback">
+  <button type="button" class="feedback-btn feedback-up" data-feedback="up" aria-label="This is working">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><circle cx="9" cy="10" r="1" fill="currentColor" stroke="none"/><circle cx="15" cy="10" r="1" fill="currentColor" stroke="none"/></svg>
+  </button>
+  <button type="button" class="feedback-btn feedback-down" data-feedback="down" aria-label="Something is wrong">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 16s1.5-2 4-2 4 2 4 2"/><circle cx="9" cy="10" r="1" fill="currentColor" stroke="none"/><circle cx="15" cy="10" r="1" fill="currentColor" stroke="none"/></svg>
+  </button>
+</div>
+
+<main>
+
+<section class="hero">
+  <p class="kicker"><a href="./">Subjects</a></p>
+  <h1>art</h1>
+  <p class="lede">3 cited lines in 3 songs.</p>
+</section>
+<div class="quote-list">
+
+<figure class="quote">
+  <blockquote><a href="../quotes/when-i-paint-my-masterpiece-66df0feb.html">Someday, everything is gonna be diff’rent, when I paint my masterpiece</a></blockquote>
+  <figcaption>
+    <a href="../songs/when-i-paint-my-masterpiece.html">When I Paint My Masterpiece</a>
+    <span class="meta"><a href="../albums/bob-dylans-greatest-hits-volume-ii.html">Bob Dylan’s Greatest Hits Volume II</a> · 1971</span>
+    <span class="tags"><a class="tag" href="../subjects/art.html">art</a> <a class="tag" href="../subjects/hope.html">hope</a> <a class="tag" href="../subjects/ambition.html">ambition</a></span>
+  </figcaption>
+</figure>
+
+<figure class="quote">
+  <blockquote><a href="../quotes/mother-of-muses-d83fe45d.html">Mother of Muses, sing for me</a></blockquote>
+  <figcaption>
+    <a href="../songs/mother-of-muses.html">Mother of Muses</a>
+    <span class="meta"><a href="../albums/rough-and-rowdy-ways.html">Rough and Rowdy Ways</a> · 2020</span>
+    <span class="tags"><a class="tag" href="../subjects/art.html">art</a> <a class="tag" href="../subjects/history.html">history</a> <a class="tag" href="../subjects/prayer.html">prayer</a></span>
+  </figcaption>
+</figure>
+
+<figure class="quote">
+  <blockquote><a href="../quotes/my-own-version-of-you-327bfa13.html">I’ll take the Scarface Pacino and the Godfather Brando</a></blockquote>
+  <figcaption>
+    <a href="../songs/my-own-version-of-you.html">My Own Version of You</a>
+    <span class="meta"><a href="../albums/rough-and-rowdy-ways.html">Rough and Rowdy Ways</a> · 2020</span>
+    <span class="tags"><a class="tag" href="../subjects/creation.html">creation</a> <a class="tag" href="../subjects/identity.html">identity</a> <a class="tag" href="../subjects/art.html">art</a></span>
+  </figcaption>
+</figure>
+
+</div>
+<h2>Songs</h2>
+<ul class="plain"><li><a href="../songs/mother-of-muses.html">Mother of Muses</a></li><li><a href="../songs/my-own-version-of-you.html">My Own Version of You</a></li><li><a href="../songs/when-i-paint-my-masterpiece.html">When I Paint My Masterpiece</a></li></ul>
+
+</main>
+
+<footer class="site-foot">
+  <p>Short, widely cited lines for writing and talks — not full lyrics. Official catalog from <a href="https://www.bobdylan.com/">bobdylan.com</a>. Each song links there for the complete text.</p>
+  <p>dylan.jbf.com · Jeff Franzen</p>
+</footer>
+
+<script src="../assets/search.js"></script>
+<script src="../assets/feedback.js"></script>
+
+</body>
+</html>
